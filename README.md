@@ -106,7 +106,7 @@ O projeto gera relatórios com Allure Reports.
 ```
 
 2. Via Pipeline: os relatórios são gerados automaticamente na pipeline do Github actions.
-   para visualizar a ultima execução, basta acessar clicar [aqui.](https://juliosantosjob.github.io/ServiceDev-RestAssurance-Junit)
+   para visualizar a ultima execução, basta acessar clicar [aqui.](https://juliosantosjob.github.io/Challenge-QA-API)
 
 ## 🌐 Redes:
 
