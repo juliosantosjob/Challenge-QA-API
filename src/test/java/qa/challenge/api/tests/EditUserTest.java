@@ -37,8 +37,6 @@ public class EditUserTest extends BaseTest {
     @AfterEach
     public void end() {
         deleteUser(id_);
-        id_ = null;
-        dynamicUser_ = null;
     }
 
     @Test
@@ -50,13 +48,13 @@ public class EditUserTest extends BaseTest {
         response.then()
                 .statusCode(SC_OK)
                 .body("message", equalTo("Registro alterado com sucesso"))
-                .body(matchesJsonSchemaInClasspath("contracts/editUserSchema.json"));
+                .body(matchesJsonSchemaInClasspath("contracts/editUser/edit-user-success.json"));
     }
 
     @Test
     @Order(2)
     @Tag("editar_usuario_dados_invalidos")
-    @DisplayName("Cenario 02: Deve falhar ao realizar edição com todos os dados em branco")
+    @DisplayName("Cenario 02: Deve falhar ao realizar edicao com todos os dados em branco")
     public void editUserWithInvalidData() {
         dynamicUser_.setNome("");
         dynamicUser_.setEmail("");
@@ -66,7 +64,8 @@ public class EditUserTest extends BaseTest {
         response = editUser(dynamicUser_, id_);
         response.then()
                 .statusCode(SC_BAD_REQUEST)
-                .body("nome", equalTo("nome não pode ficar em branco"));
+                .body("nome", equalTo("nome não pode ficar em branco"))
+                .body(matchesJsonSchemaInClasspath("contracts/editUser/register-required-fields-error.json"));
     }
 
     @Test
@@ -79,7 +78,8 @@ public class EditUserTest extends BaseTest {
         response = editUser(newUser, "non_existent_id");
         response.then()
                 .statusCode(SC_CREATED)
-                .body("message", equalTo("Cadastro realizado com sucesso"));
+                .body("message", equalTo("Cadastro realizado com sucesso"))
+                .body(matchesJsonSchemaInClasspath("contracts/editUser/edit-user-message-error.json"));
 
         id_ = getUserId(newUser);
         deleteUser(id_);
@@ -101,7 +101,8 @@ public class EditUserTest extends BaseTest {
                 .body("nome", equalTo("nome deve ser uma string"))
                 .body("email", equalTo("email deve ser uma string"))
                 .body("password", equalTo("password deve ser uma string"))
-                .body("administrador", equalTo("administrador deve ser 'true' ou 'false'"));
+                .body("administrador", equalTo("administrador deve ser 'true' ou 'false'"))
+                .body(matchesJsonSchemaInClasspath("contracts/editUser/register-required-fields-error.json"));
     }
 
 }

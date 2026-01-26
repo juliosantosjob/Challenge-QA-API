@@ -21,15 +21,27 @@
             "type": "string"
           },
           "administrador": {
-            "type": ["boolean", "string"]
+            "type": [
+              "boolean",
+              "string"
+            ]
           },
           "_id": {
             "type": "string"
           }
         },
-        "required": ["nome", "email", "password", "administrador", "_id"]
+        "required": [
+          "nome",
+          "email",
+          "password",
+          "administrador",
+          "_id"
+        ]
       }
     }
   },
-  "required": ["quantidade", "usuarios"]
+  "required": [
+    "quantidade",
+    "usuarios"
+  ]
 }

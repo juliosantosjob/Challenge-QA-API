@@ -41,7 +41,7 @@ public class RegisterTest extends BaseTest {
                 .body(is(notNullValue()))
                 .body("_id", is(notNullValue()))
                 .body("message", equalTo("Cadastro realizado com sucesso"))
-                .body(matchesJsonSchemaInClasspath("contracts/registerSuccessSchema.json"));
+                .body(matchesJsonSchemaInClasspath("contracts/registerUser/register-success-schema.json"));
 
         String id_ = getUserId(newUser);
         deleteUser(id_);
@@ -59,7 +59,8 @@ public class RegisterTest extends BaseTest {
         response.then()
                 .statusCode(SC_BAD_REQUEST)
                 .body(is(notNullValue()))
-                .body("email", equalTo("email deve ser um email válido"));
+                .body("email", equalTo("email deve ser um email válido"))
+                .body(matchesJsonSchemaInClasspath("contracts/registerUser/register-email-error.json"));
     }
 
     @Test
@@ -74,7 +75,8 @@ public class RegisterTest extends BaseTest {
         response.then()
                 .statusCode(SC_BAD_REQUEST)
                 .body(is(notNullValue()))
-                .body("nome", equalTo("nome não pode ficar em branco"));
+                .body("nome", equalTo("nome não pode ficar em branco"))
+                .body(matchesJsonSchemaInClasspath("contracts/registerUser/register-name-error.json"));
     }
 
     @Test
@@ -89,7 +91,8 @@ public class RegisterTest extends BaseTest {
         response.then()
                 .statusCode(SC_BAD_REQUEST)
                 .body(is(notNullValue()))
-                .body("email", equalTo("email não pode ficar em branco"));
+                .body("email", equalTo("email não pode ficar em branco"))
+                .body(matchesJsonSchemaInClasspath("contracts/registerUser/register-email-error.json"));
     }
 
     @Test
@@ -104,7 +107,8 @@ public class RegisterTest extends BaseTest {
         response.then()
                 .statusCode(SC_BAD_REQUEST)
                 .body(is(notNullValue()))
-                .body("password", equalTo("password não pode ficar em branco"));
+                .body("password", equalTo("password não pode ficar em branco"))
+                .body(matchesJsonSchemaInClasspath("contracts/registerUser/register-password-error.json"));
     }
 
     @Test
@@ -126,7 +130,8 @@ public class RegisterTest extends BaseTest {
         response.then()
                 .statusCode(SC_BAD_REQUEST)
                 .body(is(notNullValue()))
-                .body("message", equalTo("Este email já está sendo usado"));
+                .body("message", equalTo("Este email já está sendo usado"))
+                .body(matchesJsonSchemaInClasspath("contracts/registerUser/register-message-error.json"));
 
         String id_ = getUserId(newUser);
         deleteUser(id_);
@@ -144,7 +149,8 @@ public class RegisterTest extends BaseTest {
         response.then()
                 .statusCode(SC_BAD_REQUEST)
                 .body(is(notNullValue()))
-                .body("administrador", equalTo("administrador deve ser 'true' ou 'false'"));
+                .body("administrador", equalTo("administrador deve ser 'true' ou 'false'"))
+                .body(matchesJsonSchemaInClasspath("contracts/registerUser/register-administrador-error.json"));
     }
 
     @Test
@@ -163,7 +169,8 @@ public class RegisterTest extends BaseTest {
                 .statusCode(SC_BAD_REQUEST)
                 .body("nome", equalTo("nome não pode ficar em branco"))
                 .body("email", equalTo("email não pode ficar em branco"))
-                .body("password", equalTo("password não pode ficar em branco"));
+                .body("password", equalTo("password não pode ficar em branco"))
+                .body(matchesJsonSchemaInClasspath("contracts/registerUser/register-name-error.json"));
     }
 
 }

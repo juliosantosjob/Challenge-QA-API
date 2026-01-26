@@ -19,7 +19,6 @@ import static org.apache.http.HttpStatus.SC_UNAUTHORIZED;
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 public class LoginUserTest extends BaseTest {
-
     private String id_;
     private NewUsersModel dynamicUser_;
 
@@ -33,8 +32,6 @@ public class LoginUserTest extends BaseTest {
     @AfterEach
     public void end() {
         deleteUser(id_);
-        id_ = null;
-        dynamicUser_ = null;
     }
 
     @Test
@@ -51,13 +48,13 @@ public class LoginUserTest extends BaseTest {
                 .body("message", equalTo("Login realizado com sucesso"))
                 .body("authorization", notNullValue())
                 .body("authorization", startsWith("Bearer "))
-                .body(matchesJsonSchemaInClasspath("contracts/loginSuccessSchema.json"));
+                .body(matchesJsonSchemaInClasspath("contracts/authLogin/login-success.json"));
     }
 
     @Test
     @Order(2)
     @Tag("login_email_invalido")
-    @DisplayName("Cenario 02: Não deve realizar login com email invalido")
+    @DisplayName("Cenario 02: Nao deve realizar login com email invalido")
     public void loginWithInvalidEmail() {
         LoginModel credentials = new LoginModel("Invalid_email", dynamicUser_.getPassword());
 
@@ -65,13 +62,14 @@ public class LoginUserTest extends BaseTest {
         response.then()
                 .statusCode(SC_BAD_REQUEST)
                 .body(is(notNullValue()))
-                .body("email", equalTo("email deve ser um email válido"));
+                .body("email", equalTo("email deve ser um email válido"))
+                .body(matchesJsonSchemaInClasspath("contracts/authLogin/login-email-error.json"));
     }
 
     @Test
     @Order(3)
     @Tag("login_email_vazio")
-    @DisplayName("Cenario 03: Não deve realizar login com email vazio")
+    @DisplayName("Cenario 03: Nao deve realizar login com email vazio")
     public void loginWithEmptyEmail() {
         LoginModel credentials = new LoginModel("", dynamicUser_.getPassword());
 
@@ -79,26 +77,28 @@ public class LoginUserTest extends BaseTest {
         response.then()
                 .statusCode(SC_BAD_REQUEST)
                 .body(is(notNullValue()))
-                .body("email", equalTo("email não pode ficar em branco"));
+                .body("email", equalTo("email não pode ficar em branco"))
+                .body(matchesJsonSchemaInClasspath("contracts/authLogin/login-email-error.json"));
     }
 
     @Test
     @Order(4)
     @Tag("login_senha_invalida")
-    @DisplayName("Cenario 04: Não deve realizar login com senha inválida")
+    @DisplayName("Cenario 04: Nao deve realizar login com senha invalida")
     public void loginWithInvalidPassword() {
         LoginModel credentials = new LoginModel(dynamicUser_.getEmail(), "invalid_password");
 
         response = loginUser(credentials);
         response.then()
                 .statusCode(SC_UNAUTHORIZED)
-                .body("message", equalTo("Email e/ou senha inválidos"));
+                .body("message", equalTo("Email e/ou senha inválidos"))
+                .body(matchesJsonSchemaInClasspath("contracts/authLogin/login-message-error.json"));
     }
 
     @Test
     @Order(5)
-    @Tag("login_senha_vazia")
-    @DisplayName("Cenario 05: Não deve realizar login com senha vazia")
+    @Tag("login_senha_vazias")
+    @DisplayName("Cenario 05: Nao deve realizar login com senha vazia")
     public void loginWithEmptyPassword() {
         LoginModel credentials = new LoginModel(dynamicUser_.getEmail(), "");
 
@@ -106,13 +106,15 @@ public class LoginUserTest extends BaseTest {
         response.then()
                 .statusCode(SC_BAD_REQUEST)
                 .body(is(notNullValue()))
-                .body("password", equalTo("password não pode ficar em branco"));
+                .body("password", equalTo("password não pode ficar em branco"))
+                .body(matchesJsonSchemaInClasspath("contracts/authLogin/login-email-password-error.json"));
+        ;
     }
 
     @Test
     @Order(6)
     @Tag("login_credenciais_vazias")
-    @DisplayName("Cenario 06: Não deve realizar login com email e senha vazios")
+    @DisplayName("Cenario 06: Nao deve realizar login com email e senha vazios")
     public void loginWithEmptyCredentials() {
         LoginModel credentials = new LoginModel("", "");
 
@@ -121,13 +123,15 @@ public class LoginUserTest extends BaseTest {
                 .statusCode(SC_BAD_REQUEST)
                 .body(is(notNullValue()))
                 .body("email", equalTo("email não pode ficar em branco"))
-                .body("password", equalTo("password não pode ficar em branco"));
+                .body("password", equalTo("password não pode ficar em branco"))
+                .body(matchesJsonSchemaInClasspath("contracts/authLogin/login-email-password-error.json"));
+        ;
     }
 
     @Test
     @Order(7)
     @Tag("login_espacos_credenciais")
-    @DisplayName("Cenario 07: Não deve realizar login com email e senha com espaços em branco")
+    @DisplayName("Cenario 07: Nao deve realizar login com email e senha com espaços em branco")
     public void loginWithSpacesInCredentials() {
         LoginModel credentials = new LoginModel(" name@example.com ", " senha123 ");
 
@@ -135,13 +139,14 @@ public class LoginUserTest extends BaseTest {
         response.then()
                 .statusCode(SC_BAD_REQUEST)
                 .body(is(notNullValue()))
-                .body("email", equalTo("email deve ser um email válido"));
+                .body("email", equalTo("email deve ser um email válido"))
+                .body(matchesJsonSchemaInClasspath("contracts/authLogin/login-email-password-error.json"));
     }
 
     @Test
     @Order(8)
     @Tag("login_email_nulo")
-    @DisplayName("Cenario 08: Não deve realizar login com email nulo")
+    @DisplayName("Cenario 08: Nao deve realizar login com email nulo")
     public void loginWithNullEmail() {
         LoginModel credentials = new LoginModel(null, dynamicUser_.getPassword());
 
@@ -149,13 +154,14 @@ public class LoginUserTest extends BaseTest {
         response.then()
                 .statusCode(SC_BAD_REQUEST)
                 .body(is(notNullValue()))
-                .body("email", equalTo("email deve ser uma string"));
+                .body("email", equalTo("email deve ser uma string"))
+                .body(matchesJsonSchemaInClasspath("contracts/authLogin/login-email-password-error.json"));
     }
 
     @Test
     @Order(9)
     @Tag("login_senha_nula")
-    @DisplayName("Cenario 09: Não deve realizar login com senha nula")
+    @DisplayName("Cenario 09: Nao deve realizar login com senha nula")
     public void loginWithNullPassword() {
         LoginModel credentials = new LoginModel(dynamicUser_.getEmail(), null);
 
@@ -163,7 +169,8 @@ public class LoginUserTest extends BaseTest {
         response.then()
                 .statusCode(SC_BAD_REQUEST)
                 .body(is(notNullValue()))
-                .body("password", equalTo("password deve ser uma string"));
+                .body("password", equalTo("password deve ser uma string"))
+                .body(matchesJsonSchemaInClasspath("contracts/authLogin/login-email-password-error.json"));
     }
 
     @Test
@@ -178,7 +185,13 @@ public class LoginUserTest extends BaseTest {
         for (int i = 0; i < 100; i++) {
             response = loginUser(credentials);
         }
-//        response.then().statusCode(429);
+
+        /*
+            Estou comentando está linha pois a api não esta configurada para retornar o status code 429
+            quando o limite de requisições é atingido.
+
+            response.then().statusCode(429);
+         */
     }
 
 }

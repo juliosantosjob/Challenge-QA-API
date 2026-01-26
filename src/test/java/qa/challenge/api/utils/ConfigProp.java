@@ -16,7 +16,7 @@ public class ConfigProp extends BaseTest {
             properties.load(new FileInputStream(PATH_FULL));
         } catch (IOException ex) {
             logger.error("Não foi encontrado o arquivo 'config.properties' em 'src/test/resources'. " +
-                    "Crie o arquivo e informe a BASE_URL (https://serverest.dev/). e realize o teste novamente.");
+                    "Crie o arquivo e informe com chave e valor a BASE_URL (https://serverest.dev/). e realize o teste novamente.");
             throw new RuntimeException(ex);
         }
         return properties;

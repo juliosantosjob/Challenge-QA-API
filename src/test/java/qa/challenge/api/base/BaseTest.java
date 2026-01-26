@@ -27,11 +27,6 @@ public class BaseTest implements Constants {
 
     @BeforeEach
     public void setUp(TestInfo testInfo) {
-        if (BASE_URL == null) {
-            logger.error("BASE_URL não encontrada. Configure no config.properties (src/test/resources) " +
-                    "como BASE_URL=https://serverest.dev/ ou defina como variável de ambiente.");
-        }
-
         logger.info("Iniciando setup RestAssured");
         logger.info(testInfo.getDisplayName());
 
@@ -54,7 +49,7 @@ public class BaseTest implements Constants {
     }
 
     /**
-     * Mwtodo para obter a lista de usuários
+     * Metodo para obter a lista de usuários
      *
      * @return Response da chamada
      */
@@ -73,7 +68,7 @@ public class BaseTest implements Constants {
     }
 
     /**
-     * Mwtodo para obter um usuário por email e senha
+     * Metodo para obter um usuário por email e senha
      *
      * @param user Objeto contendo email e senha do usuário
      * @return Response da chamada
