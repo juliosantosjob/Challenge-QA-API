@@ -1,0 +1,620 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=9cc79e7a00a9499b5ec929fe2766ebed
+date=Mon, 02 Feb 2026 12:50:16 GMT
+server=Google Frontend
+Content-Length=19615
+Body: {
+    "quantidade": 86,
+    "usuarios": [
+        {
+            "nome": "Eddie Conn",
+            "email": "eddieconn@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "0Txe0yOe2qVscHic"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Chester Johnson",
+            "email": "test.02124432.791@mailinator.com",
+            "_id": "0gXqpCZso4TXyo1x"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Luis Henrique",
+            "email": "luis.1770029550801@qa.com.br",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "1QCzbu7B36J3cfFx"
+        },
+        {
+            "nome": "Paula QA 05 ",
+            "email": "paula.qa+1@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "3cHM9xZ6zEhYUwT8"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Barack Grant",
+            "email": "test.02124415.120@mailinator.com",
+            "_id": "40tX1hD4PrZFxzI5"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Thomas Pierce",
+            "email": "test.02122350.890@mailinator.com",
+            "_id": "41QaU2eltj300ktC"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Harry Cleveland",
+            "email": "test.02124721.525@mailinator.com",
+            "_id": "4P7zosD0bAdnRSHn"
+        },
+        {
+            "nome": "Marcus Hirthe II",
+            "email": "marcushirtheii.Witting-Rutherford26@serverest.dev",
+            "password": "Szs_j1efSqN5",
+            "administrador": "true",
+            "_id": "6NxPFrY5zJQad82I"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Andrew Bush",
+            "email": "test.02115703.939@mailinator.com",
+            "_id": "6RgqvsVPrLmLbq7t"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "John Hayes",
+            "email": "test.02115703.646@mailinator.com",
+            "_id": "7Zri1wNoWD4j0Uh7"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "James Lincoln",
+            "email": "test.02124605.85@mailinator.com",
+            "_id": "8KsmTtNw0Oko10Fn"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Lyndon Clinton",
+            "email": "test.02122639.312@mailinator.com",
+            "_id": "AeHx459XyJntnAN2"
+        },
+        {
+            "nome": "Teste-1770031576621",
+            "email": "teste-1770031576621@teste.com.br",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "AgrxTVPvVW23gSAz"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Dwight Trump",
+            "email": "test.02115703.492@mailinator.com",
+            "_id": "AjQVULhy5CwpI7fO"
+        },
+        {
+            "nome": "Paula QA 10 ",
+            "email": "paula.qa10@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "AwOeSO5X6bPxFiG4"
+        },
+        {
+            "nome": "Raquel Hodkiewicz",
+            "email": "raquelhodkiewicz@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "D65oPyP4YXNNhhpo"
+        },
+        {
+            "nome": "Teste-Atualizado-1770031576703",
+            "email": "teste-atualizado-1770031576703@teste.com.br",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "DZa2gkeBxp5u5sEn"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Calvin Grant",
+            "email": "test.02124116.816@mailinator.com",
+            "_id": "DvvZuUBOfxlZOj0a"
+        },
+        {
+            "nome": "Luis Henrique",
+            "email": "luis.1770031366930@qa.com.br",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "EB8L1WqkluPFVvnl"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Donald Wilson",
+            "email": "test.02124721.723@mailinator.com",
+            "_id": "Gu3UKla6XpeGkl7z"
+        },
+        {
+            "nome": "Jackie Raynor",
+            "email": "jackieraynor@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "GvPHdVDd0hsRHlEn"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Grover Johnson",
+            "email": "test.02122259.953@mailinator.com",
+            "_id": "HBBVicAF6oaHYPI2"
+        },
+        {
+            "nome": "Ricardo Teste",
+            "email": "ricardo-qa@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "HLyKoWJ9M78GLAFC"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "George Biden",
+            "email": "test.02124117.672@mailinator.com",
+            "_id": "JMYyDD8UNmb5IGfN"
+        },
+        {
+            "nome": "Usuario CI/CD",
+            "email": "luishenrique@gmail.com",
+            "password": "12345678",
+            "administrador": "true",
+            "_id": "JU6iGMf8qKss5Tad"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Zachary Johnson",
+            "email": "test.02124131.517@mailinator.com",
+            "_id": "L7Ncbvgw4xoRSFnP"
+        },
+        {
+            "nome": "andrey",
+            "email": "fehgamesbr@gmail.com",
+            "password": "300300aa",
+            "administrador": "true",
+            "_id": "LTrMu1cZOtRmNbXv"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Chester Washington",
+            "email": "test.02124116.738@mailinator.com",
+            "_id": "M9KFQGF9T3LjuO0Y"
+        },
+        {
+            "nome": "Teste_Automatizado_1770031580784",
+            "email": "teste_automatizado_1770031580784@teste.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "MgF1MsfmZYxSUexb"
+        },
+        {
+            "nome": "Luis Henrique",
+            "email": "luis.1770030419561@qa.com.br",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "NzBWTBfPrGA3z8zK"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Woodrow Monroe",
+            "email": "test.02122349.263@mailinator.com",
+            "_id": "PIxKF1tLK3GYzqlS"
+        },
+        {
+            "nome": "Paula QA Atualizada",
+            "email": "paula.qa11@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Q1oNioenhA5DmMhG"
+        },
+        {
+            "nome": "Teste-Atualizado-1770031106819",
+            "email": "teste-atualizado-1770031106819@teste.com.br",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "RQecsPGfxC8K5jl7"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Dwight Biden",
+            "email": "test.02124415.88@mailinator.com",
+            "_id": "T2k2gk4WJYa6j9UW"
+        },
+        {
+            "nome": "Teste-1770031441071",
+            "email": "teste-1770031441071@teste.com.br",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "TB4r1jixIUMDJqPf"
+        },
+        {
+            "nome": "Stephen Hauck-Erdman",
+            "email": "stephenhauck-erdman_Rowe@serverest.dev",
+            "password": "OMR7hookhQCL",
+            "administrador": "false",
+            "_id": "TGH4g2Z2jNjyrYA3"
+        },
+        {
+            "nome": "Teste_Automatizado_1770031581935",
+            "email": "teste_automatizado_1770031581935@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "TaGVqsueLAJD5vod"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Theodore Monroe",
+            "email": "test.02122639.255@mailinator.com",
+            "_id": "TbTlgeV4TjySRoR4"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Millard Pierce",
+            "email": "test.02124721.159@mailinator.com",
+            "_id": "TiSapNQKONaoHvJs"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Harry Arthur",
+            "email": "test.02124415.806@mailinator.com",
+            "_id": "UrhBH7GgfBplJnHs"
+        },
+        {
+            "nome": "Kristi Daniel",
+            "email": "kristidaniel81@serverest.dev",
+            "password": "Pe2dux_a65A8",
+            "administrador": "false",
+            "_id": "VKKIuUhiRDk51nza"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Benjamin Carter",
+            "email": "test.02124431.187@mailinator.com",
+            "_id": "Vs7ZG2o2SjtN2tZb"
+        },
+        {
+            "nome": "Teste_Automatizado_1770031446128",
+            "email": "teste_automatizado_1770031446128@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "XYS6McdiNEYU7OdV"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Gerald Pierce",
+            "email": "test.02122350.124@mailinator.com",
+            "_id": "XuPE437FyXZyl0bD"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Ronald Coolidge",
+            "email": "test.02124432.638@mailinator.com",
+            "_id": "YOGlbAxPALMUra8M"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Andrew Taft",
+            "email": "test.02124721.805@mailinator.com",
+            "_id": "YQxn0Ff8WbivaApl"
+        },
+        {
+            "nome": "Ellis Terry",
+            "email": "ellisterry@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "YUinFpcXA5l4ze4c"
+        },
+        {
+            "nome": "Luis Henrique",
+            "email": "luis.1770030774434@qa.com.br",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "Z3fmytWKNuyKh2ke"
+        },
+        {
+            "nome": "Cayla.Heaney93",
+            "email": "Kenyatta.Fisher@yahoo.com",
+            "password": "980476306",
+            "administrador": "true",
+            "_id": "ZYhArT19lHi4ER2N"
+        },
+        {
+            "nome": "Usuario CI/CD",
+            "email": "cliente@gmail.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "dbNyyjzO4VYn3bS7"
+        },
+        {
+            "nome": "Teste-1770031106761",
+            "email": "teste-1770031106761@teste.com.br",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "di4Mo9LrsbBp8Zt3"
+        },
+        {
+            "nome": "Suzanne Kilback",
+            "email": "suzannekilback@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "exKkTwJeDGFkv8pr"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Warren Clinton",
+            "email": "test.02124605.112@mailinator.com",
+            "_id": "f8IHIjYlAXX9jdWc"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Joe Adams",
+            "email": "test.02122349.570@mailinator.com",
+            "_id": "fcIy4RyxofeeGuGf"
+        },
+        {
+            "nome": "Luis Henrique",
+            "email": "luis.1770031414283@qa.com.br",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "frZVllzSOnCQEy23"
+        },
+        {
+            "nome": "Teste_Automatizado_1770031009301",
+            "email": "teste_automatizado_1770031009301@teste.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "gjOG9LaMXOrP8yNz"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Ronald Washington",
+            "email": "test.02124116.247@mailinator.com",
+            "_id": "hR5iSwUOFVJuSDcX"
+        },
+        {
+            "nome": "Teste-Atualizado-1770030653152",
+            "email": "teste-atualizado-1770030653152@teste.com.br",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "ih6buVOvdkdoDLoK"
+        },
+        {
+            "nome": "Teste-1770030653091",
+            "email": "teste-1770030653091@teste.com.br",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "jFUGNSYj4qtRSfSj"
+        },
+        {
+            "nome": "Usuario CI/CD",
+            "email": "admin@gmail.com",
+            "password": "12345678",
+            "administrador": "true",
+            "_id": "kGKJjYPvBvlgCxA6"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Donald Pierce",
+            "email": "test.02124605.641@mailinator.com",
+            "_id": "kIUUZryiJhOqBtf1"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Abraham Lincoln",
+            "email": "test.02124132.756@mailinator.com",
+            "_id": "keKzJvrfHKrEUcNg"
+        },
+        {
+            "nome": "Teste_Automatizado_1770031444820",
+            "email": "teste_automatizado_1770031444820@teste.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "mB5GNWU4b8Bora6F"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Ulysses Kennedy",
+            "email": "test.02124605.121@mailinator.com",
+            "_id": "mSA8Btz8TiU5pihx"
+        },
+        {
+            "nome": "Teste-Atualizado-1770031000318",
+            "email": "teste-atualizado-1770031000318@teste.com.br",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "mfXhrLPGZa7wxSBP"
+        },
+        {
+            "nome": "Johnnie Grant",
+            "email": "diannehansen@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "naRfFAEfp69O0DRt"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "William Hayes",
+            "email": "test.02122258.243@mailinator.com",
+            "_id": "nrX2xW7jWMSP8FAn"
+        },
+        {
+            "nome": "Elisa Kemmer",
+            "email": "elisakemmer@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "o1sVb9pbPpnVEgkn"
+        },
+        {
+            "nome": "Barrett",
+            "email": "gail.greenfelder@hotmail.com",
+            "password": "pfwrl36j5su",
+            "administrador": "true",
+            "_id": "pgmT50HDjn3kBy2G"
+        },
+        {
+            "nome": "Luis Henrique",
+            "email": "luis.1770030049226@qa.com.br",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "qDBHNrxeDQ2xGXXx"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Chester Arthur",
+            "email": "test.02124416.646@mailinator.com",
+            "_id": "qLVgdEd0nCcsOoGJ"
+        },
+        {
+            "nome": "Mané da Ilha",
+            "email": "manezinho@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "sCvSiWcM8F4pzmdT"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Martin Taft",
+            "email": "test.02124431.609@mailinator.com",
+            "_id": "sOjYnGlG7EbFIx2y"
+        },
+        {
+            "nome": "Trevor Will",
+            "email": "trevorwill10@serverest.dev",
+            "password": "3uQJs37pCgCj",
+            "administrador": "true",
+            "_id": "sms5QIa9qtkqYWqR"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Bill Grant",
+            "email": "test.02122639.271@mailinator.com",
+            "_id": "so6XrHm6Wx9odPLX"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Calvin Arthur",
+            "email": "test.02122258.797@mailinator.com",
+            "_id": "turllQtEOBcXKIoB"
+        },
+        {
+            "nome": "Teste-1770031000334",
+            "email": "teste-1770031000334@teste.com.br",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "uJbeIHriJDCKj1UH"
+        },
+        {
+            "nome": "Paula QA Atualizada",
+            "email": "paula.qa@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "uqtzsffefjFcidtt"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Calvin Eisenhower",
+            "email": "test.02124131.233@mailinator.com",
+            "_id": "vRbVYQjKpKJmTgvP"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Millard Pierce",
+            "email": "test.02124132.394@mailinator.com",
+            "_id": "vUsmFBKjMFLw8hnk"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Warren Bush",
+            "email": "test.02122258.556@mailinator.com",
+            "_id": "wVRYtZQgCUiC3qz6"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Martin Pierce",
+            "email": "test.02115703.985@mailinator.com",
+            "_id": "xuJ4fWs51NPzgHLG"
+        },
+        {
+            "nome": "Teste-Atualizado-1770031441115",
+            "email": "teste-atualizado-1770031441115@teste.com.br",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "xvxJPVhLUnJuat0Z"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Martin Monroe",
+            "email": "test.02122639.149@mailinator.com",
+            "_id": "zPI8KuDHy1YEpX8J"
+        },
+        {
+            "nome": "Teste_Automatizado_1770031012057",
+            "email": "teste_automatizado_1770031012057@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "zR4w7SZ8TP8GoPXr"
+        }
+    ]
+}
