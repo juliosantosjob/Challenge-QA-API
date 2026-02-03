@@ -1,0 +1,200 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=79a5772b6ef8e009b667eb9b807b6024
+date=Tue, 03 Feb 2026 12:50:44 GMT
+server=Google Frontend
+Content-Length=5821
+Body: {
+    "quantidade": 26,
+    "usuarios": [
+        {
+            "nome": "Rose Schuster",
+            "email": "roseschuster.Sawayn-Nader@serverest.dev",
+            "password": "ODDiGltQpxLu",
+            "administrador": "true",
+            "_id": "0CB95iV3Y8BLN0IP"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "password": "12345",
+            "administrador": "true",
+            "nome": "Helcius Cabral",
+            "email": "xrnztbvxix243@yahoo.com",
+            "_id": "4MUZBak75BBc71Ar"
+        },
+        {
+            "nome": "Admin 1770120698961",
+            "email": "admin_1770120698961@example.com",
+            "password": "Admin@12345",
+            "administrador": "true",
+            "_id": "68EewFS4MqDFG1Kc"
+        },
+        {
+            "nome": "Jimmy Kihn",
+            "email": "jimmykihn@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "8LgbsM5TLXGpQROs"
+        },
+        {
+            "nome": "User 1770120700437",
+            "email": "user_1770120700437@example.com",
+            "password": "senha_correta",
+            "administrador": "false",
+            "_id": "8RHewrgSus1ukDTK"
+        },
+        {
+            "nome": "Mr. Kathryn Hermann",
+            "email": "mr.kathrynhermann@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "AtFWHxZfoA5KQZzP"
+        },
+        {
+            "nome": "Teste N8N",
+            "email": "qa@qa.io",
+            "password": "123",
+            "administrador": "true",
+            "_id": "BLz3wdO0adLqBudU"
+        },
+        {
+            "nome": "Lois Yost",
+            "email": "loisyost@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "DSl0nZPKHCmuVqzj"
+        },
+        {
+            "nome": "UserCart 1770120698866",
+            "email": "user_cart_1770120698866@example.com",
+            "password": "UserCart@123",
+            "administrador": "false",
+            "_id": "JPQHU6FuwYvpVju4"
+        },
+        {
+            "nome": "Mrs. Daisy Hegmann",
+            "email": "mrs.daisyhegmann@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "JzOA6dykrboFus6o"
+        },
+        {
+            "nome": "Kasey",
+            "email": "guy.stanton@hotmail.com",
+            "password": "2w5n27u04cs",
+            "administrador": "true",
+            "_id": "KNmDYAz3hZq1fsqP"
+        },
+        {
+            "nome": "User 1770120700690",
+            "email": "user_1770120700690@example.com",
+            "password": "senha",
+            "administrador": "false",
+            "_id": "QAsvQFRyv3UFUag3"
+        },
+        {
+            "nome": "testes da Silva",
+            "email": "adm@qa.com.br",
+            "password": "teste1",
+            "administrador": "true",
+            "_id": "RX1jK38Wv1cdYn3r"
+        },
+        {
+            "nome": "Harriet Cronin V",
+            "email": "harrietcroninv@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "SjFXtoahVcK1oeY0"
+        },
+        {
+            "nome": "Bryant Sanford",
+            "email": "bryantsanford_Dickens5@serverest.dev",
+            "password": "0acHE5AGYTRI",
+            "administrador": "true",
+            "_id": "VpWPDR5Z0lmiWUFZ"
+        },
+        {
+            "password": "12345",
+            "administrador": "true",
+            "nome": "Novo Nome",
+            "email": "khvjpjhwis690@example.com",
+            "_id": "aCSZ57Ihaiv9eRSu"
+        },
+        {
+            "password": "12345",
+            "administrador": "true",
+            "nome": "Helcius Cabral",
+            "email": "xhgbqjvhzx164@example.com",
+            "_id": "b9T7LuckGkC4sHqM"
+        },
+        {
+            "nome": "Skylar_Bednar72",
+            "email": "Florida_OKon62@yahoo.com",
+            "password": "736469814",
+            "administrador": "true",
+            "_id": "e4SbKXMsvSmYwYJf"
+        },
+        {
+            "nome": "User 1770120700029",
+            "email": "user_1770120700029@example.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "eKTxAAK5t8QhmtQr"
+        },
+        {
+            "nome": "Wesley Goodwin",
+            "email": "wesleygoodwin_Denesik@serverest.dev",
+            "password": "M1X3nCfTthVy",
+            "administrador": "false",
+            "_id": "lHABo5D9Il0aejRK"
+        },
+        {
+            "nome": "Elena Walter",
+            "email": "elenawalter.Bernhard@serverest.dev",
+            "password": "DXkDtULyjZNM",
+            "administrador": "false",
+            "_id": "rPE1RhqwnY4TVAuB"
+        },
+        {
+            "nome": "Miss Bridget Bogan",
+            "email": "missbridgetbogan@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "tVjPz644b5l76TiQ"
+        },
+        {
+            "nome": "Desiree Cremin",
+            "email": "mosesklein@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "uXvNExaJjNDdwCIb"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "v1Z1aVzWD6bcp71r"
+        },
+        {
+            "nome": "AdminCart 1770120698866",
+            "email": "admin_cart_1770120698866@example.com",
+            "password": "AdminCart@123",
+            "administrador": "true",
+            "_id": "w9joZOHZEoXY469f"
+        }
+    ]
+}
