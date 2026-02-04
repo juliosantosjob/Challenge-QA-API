@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=fd4b00ae73473cf565ed986512c62eb4
+date=Wed, 04 Feb 2026 20:29:53 GMT
+server=Google Frontend
+Content-Length=154
+Body: {
+    "nome": "Teste PLdXu",
+    "email": "usuarioC7opX@teste.com",
+    "password": "123456",
+    "administrador": "true",
+    "_id": "052rSmo9V5qxVhK3"
+}
