@@ -1,0 +1,130 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=0d3e4e36653e950860926b85ee85cc8f
+date=Fri, 06 Feb 2026 20:29:10 GMT
+server=Google Frontend
+Content-Length=3549
+Body: {
+    "quantidade": 16,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Lucas Porto",
+            "email": "lucas_dbc_1770408810713@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "3z1BSmLJnno2GrKH"
+        },
+        {
+            "nome": "Lucas Porto",
+            "email": "lucas_dbc_1770408811413@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "7W5DrgzuJkjr7aaB"
+        },
+        {
+            "nome": "Denis F",
+            "email": "denisf@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "Diryk0UNNCjIEupa"
+        },
+        {
+            "nome": "Lucas Porto",
+            "email": "lucas_dbc_1770408810522@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "ES5s4KHxrRdVIa3B"
+        },
+        {
+            "nome": "TestUser_1367",
+            "email": "auto1770409592547@test.com",
+            "password": "Pass1234!",
+            "administrador": "false",
+            "_id": "HEjlHliEMeOAopIc"
+        },
+        {
+            "nome": "Lucas Porto",
+            "email": "lucas_dbc_1770408810621@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Hkhy6OgqVY2mDWno"
+        },
+        {
+            "nome": "Lucas Porto",
+            "email": "lucas_dbc_1770408811315@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "IjPcV8kccUwQ7vQS"
+        },
+        {
+            "nome": "Lucas Porto",
+            "email": "lucas_dbc_1770408811015@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Pr0BhtrDL2Vaujd7"
+        },
+        {
+            "nome": "Lucas Porto",
+            "email": "lucas_dbc_1770408811213@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "STNvvYmca6w60eDA"
+        },
+        {
+            "nome": "Lucas Porto",
+            "email": "lucas_dbc_1770408811113@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "YxI2f4oKQNW3MfBV"
+        },
+        {
+            "nome": "Lucas Porto",
+            "email": "lucas_dbc_1770408810813@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "bRYQMo460ckji5yf"
+        },
+        {
+            "nome": "Lucas Porto",
+            "email": "lucas_dbc_1770408810913@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "blej5vnIlLyfz4cj"
+        },
+        {
+            "nome": "Amelia Witting",
+            "email": "Milford.Jacobs49@gmail.com",
+            "password": "owxMadm9IRTZkI3",
+            "administrador": "false",
+            "_id": "dhlkDw7KPmn8Xs4j"
+        },
+        {
+            "nome": "Kerrie",
+            "email": "jaimee.doyle@yahoo.com",
+            "password": "owdi5762",
+            "administrador": "true",
+            "_id": "m09ndh26IltVIUmM"
+        },
+        {
+            "nome": "Denis O",
+            "email": "deniso@qa.com.br",
+            "password": "testes",
+            "administrador": "false",
+            "_id": "r331Hvs6Mh6TyOQ6"
+        }
+    ]
+}
