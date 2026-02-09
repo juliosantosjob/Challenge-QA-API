@@ -1,0 +1,109 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=71c3da2992ceecc613fd3a3448dc9a5c
+date=Mon, 09 Feb 2026 20:35:43 GMT
+server=Google Frontend
+Content-Length=2842
+Body: {
+    "quantidade": 13,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0K7ZpjIKZXmExByr"
+        },
+        {
+            "nome": "Teste QA Atualizado",
+            "email": "qa1770669163408@teste.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Teste QA",
+            "email": "qa1770669158745@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "4pzpnlEQk7zjlLpH"
+        },
+        {
+            "nome": "Teste QA",
+            "email": "qa1770669160099@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "8Gvkl6PJc5ycvjdV"
+        },
+        {
+            "nome": "Teste QA",
+            "email": "qa1770669160482@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "GpdhqBne7F6YJtCL"
+        },
+        {
+            "nome": "Teste QA",
+            "email": "qa1770669161186@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "GxNhFlb31usbRZYn"
+        },
+        {
+            "nome": "Teste QA",
+            "email": "qa1770669160833@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "HBu5ZUoUOVg6L2Tw"
+        },
+        {
+            "nome": "Teste QA",
+            "email": "qa1770669158331@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "LPgQWaS6e938pSYC"
+        },
+        {
+            "nome": "Teste QA",
+            "email": "qa1770669162306@teste.com",
+            "password": "testesDeQA",
+            "administrador": "false",
+            "_id": "LZYaHei8ogVI5V6v"
+        },
+        {
+            "nome": "Favian Davis",
+            "email": "Favian.Davis88@yahoo.com",
+            "password": "BT7JqEqTHSFjOex",
+            "administrador": "true",
+            "_id": "VcbbK3uTdEjUIxLg"
+        },
+        {
+            "nome": "Teste QA",
+            "email": "qa1770669161942@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "mRRCRgCzIpNS8jlj"
+        },
+        {
+            "nome": "Teste QA",
+            "email": "qa1770669161568@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "wUAfPLaiauZdoGdS"
+        },
+        {
+            "nome": "Franklin",
+            "email": "vernita.abbott@gmail.com",
+            "password": "qhbc9zx6id",
+            "administrador": "true",
+            "_id": "zNdUqrq4R6jgrwoF"
+        }
+    ]
+}
