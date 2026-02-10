@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=973f2fbe219c9e4317072466c19739dc
+date=Tue, 10 Feb 2026 20:40:03 GMT
+server=Google Frontend
+Content-Length=174
+Body: {
+    "nome": "Usuario Duplicado",
+    "email": "duplicado.1770752541590@qa.com.br",
+    "password": "senha123",
+    "administrador": "false",
+    "_id": "0JLDsBLvGaSItYBb"
+}
