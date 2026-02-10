@@ -1,0 +1,53 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=3ad2866d5c2f81aa0359d7b819c4735b
+date=Tue, 10 Feb 2026 13:04:02 GMT
+server=Google Frontend
+Content-Length=1116
+Body: {
+    "quantidade": 5,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Rob",
+            "email": "vance.ruecker@yahoo.com",
+            "password": "9dumnlps",
+            "administrador": "true",
+            "_id": "4AxATBXKMlbJ9Sj9"
+        },
+        {
+            "nome": "Dustin Coleman",
+            "email": "elizabeth96@example.net",
+            "password": "61^!7@9i^W",
+            "administrador": "true",
+            "_id": "7h2EGZhRST1uT9oE"
+        },
+        {
+            "nome": "Michelle Jenkins",
+            "email": "treed@example.org",
+            "password": "S^5(ACEgUr",
+            "administrador": "true",
+            "_id": "D0bTSEtX5BniDAuN"
+        },
+        {
+            "nome": "Amya_Zieme",
+            "email": "Candice_Padberg0@hotmail.com",
+            "password": "062893728",
+            "administrador": "true",
+            "_id": "dWYQBBFGtEqamjU6"
+        }
+    ]
+}
