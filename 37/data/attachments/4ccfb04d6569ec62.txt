@@ -1,0 +1,144 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=3ab8ac46cd08d9890f9a279a1e053c34
+date=Mon, 16 Feb 2026 12:54:35 GMT
+server=Google Frontend
+Content-Length=3977
+Body: {
+    "quantidade": 18,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Kimberly Rippin",
+            "email": "kimberlyrippin@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "6c3O4UF0XJy4KAHg"
+        },
+        {
+            "nome": "Kristopher Tillman",
+            "email": "doreenflatleyiv@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "9Je49SUwK5ufWADy"
+        },
+        {
+            "nome": "Jasen17",
+            "email": "Christopher_Hagenes57@hotmail.com",
+            "password": "263733696",
+            "administrador": "true",
+            "_id": "E4pSnK1sMgqS4uXD"
+        },
+        {
+            "nome": "Shanny_Balistreri",
+            "email": "Baby90@gmail.com",
+            "password": "472608491",
+            "administrador": "true",
+            "_id": "HFGQb3GeytfIkITG"
+        },
+        {
+            "nome": "Jaquan.OReilly93",
+            "email": "Sam_Langworth6@hotmail.com",
+            "password": "712064040",
+            "administrador": "true",
+            "_id": "HvPwNqJpdrz5KoMO"
+        },
+        {
+            "nome": "Marcus Koepp",
+            "email": "marcuskoepp@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "P08S72p6NZVTfQEJ"
+        },
+        {
+            "nome": "German",
+            "email": "milton.erdman@gmail.com",
+            "password": "y84kk4et5wd01",
+            "administrador": "true",
+            "_id": "SLGxna67U6xsFVOg"
+        },
+        {
+            "nome": "Yolanda Smith",
+            "email": "yolandasmith@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "YZYIrOxhMiL7dNT7"
+        },
+        {
+            "nome": "Joseph Shields",
+            "email": "josephshields@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "Z6OyUMniWzv1zk4p"
+        },
+        {
+            "nome": "Antonio Anderson",
+            "email": "antonioanderson@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "di8iYgnZhN94w7oL"
+        },
+        {
+            "nome": "Lilyan.Bednar51",
+            "email": "Nick.Reichert-Klocko@hotmail.com",
+            "password": "031906697",
+            "administrador": "true",
+            "_id": "fIrdXEnM1W2nva6k"
+        },
+        {
+            "nome": "Della75",
+            "email": "Carlos.Macejkovic64@gmail.com",
+            "password": "187813212",
+            "administrador": "true",
+            "_id": "ljsaxagKvpoIYuQF"
+        },
+        {
+            "nome": "Kiana_Bruen-Waters75",
+            "email": "Margarett.Ruecker@gmail.com",
+            "password": "268876427",
+            "administrador": "true",
+            "_id": "lwyMWSqa2rb8iQ7b"
+        },
+        {
+            "nome": "Raul40",
+            "email": "Crawford.Wehner96@yahoo.com",
+            "password": "622267053",
+            "administrador": "true",
+            "_id": "mLbI21O450z2ffop"
+        },
+        {
+            "nome": "Fulano",
+            "email": "wncu@testemail.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "nJwh290EjB028PCe"
+        },
+        {
+            "nome": "Sonya Pfeffer IV",
+            "email": "sonyapfefferiv@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "ridjtodEmyNNzPhh"
+        },
+        {
+            "nome": "Douglas Cadastro",
+            "email": "Douglas_Carvalho_Ti_@outlook.com.br",
+            "password": "c",
+            "administrador": "true",
+            "_id": "v3n6njiJk8yUTLrV"
+        }
+    ]
+}
