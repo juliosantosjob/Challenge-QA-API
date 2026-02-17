@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=cf1177c3c028265dfac09021e72d2bb2
+date=Tue, 17 Feb 2026 20:32:44 GMT
+server=Google Frontend
+Content-Length=180
+Body: {
+    "nome": "User Cypress Normal 1771353033144",
+    "email": "user_1771353033144@qa.com",
+    "password": "123456",
+    "administrador": "false",
+    "_id": "06536eL0th1EtKhL"
+}
