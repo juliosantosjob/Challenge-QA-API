@@ -1,0 +1,1663 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=51231714d397fc970fed0b8e65513b6c
+date=Tue, 24 Feb 2026 20:30:24 GMT
+server=Google Frontend
+Content-Length=54204
+Body: {
+    "quantidade": 235,
+    "usuarios": [
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771962475631@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "03yfCkNkVpm7IS7f"
+        },
+        {
+            "nome": "Admin Products E2E",
+            "email": "admin.products.20260224195727414.07cc9d39625f48@example.com",
+            "password": "Pwd!bbcce3582dfd2A1",
+            "administrador": "true",
+            "_id": "0Tr1y0hbQ2DNd2jF"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano2@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.e74a24c3-8b39-4b74-ae5b-c8d49c3b5cb0@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "1QraBijifOAww2Mv"
+        },
+        {
+            "nome": "Usuario 36601f8c",
+            "email": "user36601f8c@gmail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "1ZR1Jmh7iZPVJ7u9"
+        },
+        {
+            "nome": "User Editado",
+            "email": "editado_1771954813719@teste.com",
+            "password": "novaSenha123",
+            "administrador": "false",
+            "_id": "1uWVMZAHbwhLow5x"
+        },
+        {
+            "nome": "Marco Polo",
+            "email": "polo1@gmail.com",
+            "password": "123456789",
+            "administrador": "false",
+            "_id": "2aYTWOTQuOiqAvGp"
+        },
+        {
+            "nome": "Admin Users E2E",
+            "email": "admin.users.20260224200816671.7f7f5155becb3@example.com",
+            "password": "Pwd!217a0465303c18A1",
+            "administrador": "true",
+            "_id": "2cWOkDfw40Wa1mxf"
+        },
+        {
+            "nome": "User With Cart",
+            "email": "felix@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "3LurPkHISoXgYaG4"
+        },
+        {
+            "nome": "User Two",
+            "email": "jene@gmail.com",
+            "password": "Senha456@",
+            "administrador": "true",
+            "_id": "3Xo4ZF7xTwXPYdd4"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771962486446@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "3lw5NeF9eiVoPwR1"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.16e665e3-d452-4bef-b5ee-db4b5e0fc125@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "5DZQbFzeUQFw7k3P"
+        },
+        {
+            "nome": "Usuário E2E d7990635a0904",
+            "email": "user.20260224195102934.b3edb2b6c93f88@example.com",
+            "password": "Pwd!4c114250cb8988A1",
+            "administrador": "true",
+            "_id": "5SSUxygGfSjCYAKz"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771960186935@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "5V0KRFG0AC7oYb0y"
+        },
+        {
+            "nome": "norman@gmail.com",
+            "email": "norman@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "5ZGkazzfugiHmVYD"
+        },
+        {
+            "nome": "Ketlyn",
+            "email": "ketlyn@devinova.com.br",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "5nw8Uqv8ohq2zioR"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin_1771959888585@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "5qegtsGN1FlCqBsN"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano130427@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "6CnzuQkm33o6rBN5"
+        },
+        {
+            "nome": "Admin Products E2E",
+            "email": "admin.products.20260224195910898.106b16a5501148@example.com",
+            "password": "Pwd!712da5ac3e5a9A1",
+            "administrador": "true",
+            "_id": "6GDAXuMa35LGPa0Q"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin_1771957549095@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "6a2hc0Phqd0Cum0y"
+        },
+        {
+            "nome": "Usuario 909cd4c0",
+            "email": "user909cd4c0@gmail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "6rqK7WwOHWSnqdeW"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.e8f843f2-4334-44f4-900b-c07fb879762b@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "6tWmzwrMPVe5a82O"
+        },
+        {
+            "nome": "User Editado",
+            "email": "editado_1771954853634@teste.com",
+            "password": "novaSenha123",
+            "administrador": "false",
+            "_id": "6yR2T6KZgTYJYrs0"
+        },
+        {
+            "nome": "Admin Users E2E",
+            "email": "admin.users.20260224200156653.d1a4cab6b57f1@example.com",
+            "password": "Pwd!dba58caeca759A1",
+            "administrador": "true",
+            "_id": "6yrZ80i0VSS08dhz"
+        },
+        {
+            "nome": "Cart Default User",
+            "email": "terry@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "73rXonOkcCF59qU3"
+        },
+        {
+            "nome": "Admin Products E2E",
+            "email": "admin.products.20260224195802018.cbffe55b8c0ba@example.com",
+            "password": "Pwd!6508f38d986b5A1",
+            "administrador": "true",
+            "_id": "8E8eimun9NahvSTb"
+        },
+        {
+            "nome": "Adri Teste ",
+            "email": "adriele@teste.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "8tCai5rmMC7Pt4gI"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771960275254@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "9EXOx2R9XI0XOB4N"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.a0ecd980-2f9e-4027-9d48-9a9a0ec5a73a@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "9FZq0PUhm29m6M9A"
+        },
+        {
+            "nome": "Complex User",
+            "email": "juliane@gmail.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "9dtx9da1cGQczeOU"
+        },
+        {
+            "nome": "Ms. Krishna Hane",
+            "email": "scottie@gmail.com",
+            "password": "xo3rmz1q",
+            "administrador": "true",
+            "_id": "9kL2M1PG04juoo9S"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771961550081@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "9rYDYc2PfjH0qJDz"
+        },
+        {
+            "nome": "<button onclick=\"abrirAlert()\">Clique aqui</button>",
+            "email": "teste612@teste.com",
+            "password": "1234",
+            "administrador": "false",
+            "_id": "A4CDNyGEjGez8x3F"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.5865a817-6e3e-4490-a02b-439bf7e3ac8d@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "AK83YPtTZohnTAC2"
+        },
+        {
+            "nome": "Admin Users E2E",
+            "email": "admin.users.20260224200742072.f038beba058648@example.com",
+            "password": "Pwd!4f0d8c440a1ea8A1",
+            "administrador": "true",
+            "_id": "AKhWvsppWbHYE0TJ"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771960222219@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "AwEtUvAx9jZiGnGo"
+        },
+        {
+            "nome": "Admin Products E2E",
+            "email": "admin.products.20260224195544204.daa6ffb23913c8@example.com",
+            "password": "Pwd!b1dd80f083e028A1",
+            "administrador": "true",
+            "_id": "BvA0vQZhPlZqqRNc"
+        },
+        {
+            "nome": "Usuário E2E cee8c9e0159fb8",
+            "email": "user.20260224185532451.d44836e4429cb@example.com",
+            "password": "Pwd!a0016d75433e28A1",
+            "administrador": "true",
+            "_id": "C9sMsyiEao7EmpW0"
+        },
+        {
+            "nome": "daniel@gmail.com",
+            "email": "daniel@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "CBaD4qzXIIf4GD2K"
+        },
+        {
+            "nome": "Admin Users E2E",
+            "email": "admin.users.20260224200449609.6d7d7701fc92c@example.com",
+            "password": "Pwd!b9ac1ab8c6d8dA1",
+            "administrador": "true",
+            "_id": "CWtN7jSIz71uyZSm"
+        },
+        {
+            "nome": "Leandro Bastos",
+            "email": "qaleandrobastos@gmail.com.br",
+            "password": "bastos",
+            "administrador": "true",
+            "_id": "Cjs6O0ovncxOOBXr"
+        },
+        {
+            "nome": "Cart Default User",
+            "email": "rogelio@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "DK8wcGG3Ino8Hueo"
+        },
+        {
+            "nome": "Regex Test",
+            "email": "test.regex.1771959268714@example.com",
+            "password": "StrongPassword@123",
+            "administrador": "false",
+            "_id": "DkckPXt8Q8YU5iiw"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771960262065@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "DnNn9evmRlszn7TH"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.91bfc7a6-b510-4584-9ff6-5ce7a55a9f0b@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "DnV4Vt8wAL7uufLM"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.ef9bde34-054b-45fd-8e37-c1bb982ac108@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "EAG98wWoERrF5z4j"
+        },
+        {
+            "nome": "Admin Users E2E",
+            "email": "admin.users.20260224200231673.9072369dd5c668@example.com",
+            "password": "Pwd!239a6159ca5648A1",
+            "administrador": "true",
+            "_id": "EDHUlZRfXj1yhuD7"
+        },
+        {
+            "nome": "Non Admin User",
+            "email": "non.admin.1771959268640@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "EIwhobt6KHZcYTk7"
+        },
+        {
+            "nome": "Cart Default User",
+            "email": "sang@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "EQWXQl0xffKRuKW1"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771960242544@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "FKSB1jKDoHl3TxVB"
+        },
+        {
+            "nome": "Gisele",
+            "email": "gisele@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "FbDjlUOaqOfE1xCg"
+        },
+        {
+            "nome": "Usuário E2E 78871703ae922",
+            "email": "user.20260224191427596.0e226304665298@example.com",
+            "password": "Pwd!1ee736d084f308A1",
+            "administrador": "true",
+            "_id": "FlHRQaQfpFuqGFvI"
+        },
+        {
+            "nome": "gui",
+            "email": "guilherme.comanini@hotmail.com",
+            "password": "12345",
+            "administrador": "false",
+            "_id": "Fqcu7xrcpbCN9KOh"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin_1771956690978@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "GKCNO9NvxjIw2OEI"
+        },
+        {
+            "nome": "Admin Products E2E",
+            "email": "admin.products.20260224195435085.18c2c8c95e93a@example.com",
+            "password": "Pwd!e7794f620e6c1A1",
+            "administrador": "true",
+            "_id": "GNhfWXBy5A18IerH"
+        },
+        {
+            "nome": "Dulcie",
+            "email": "christine.morissette@yahoo.com",
+            "password": "qeu35uf7jht",
+            "administrador": "true",
+            "_id": "GPFXBS08ajyVsemk"
+        },
+        {
+            "nome": "alonzo@gmail.com",
+            "email": "alonzo@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "GTrEYfWyq1H6HfEv"
+        },
+        {
+            "nome": "Admin Users E2E",
+            "email": "admin.users.20260224200340648.f2813f8bc2d48@example.com",
+            "password": "Pwd!995d23d236556A1",
+            "administrador": "true",
+            "_id": "GaIcyT9V5sU9C1vX"
+        },
+        {
+            "nome": "Bruno Quintanilha Atualizado",
+            "email": "bruno_atualizadao@teste.com",
+            "administrador": "true",
+            "password": "teste123",
+            "_id": "H7qBPkTtsMx6zYXJ"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.154abf7a-3457-4484-9d87-4691194f16eb@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "HYElgJqoB9dtQs7c"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.90eb9c84-fda0-414c-83a3-201cefcbc6dd@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "HvnB1ej6jq6K2pBl"
+        },
+        {
+            "nome": "Wm Carter",
+            "email": "Trenton.Lowe@hotmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "IQ0yfUXnhhAO6FYH"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771961524080@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "JKGPcelOPFuhxDpg"
+        },
+        {
+            "nome": "Admin Users E2E",
+            "email": "admin.users.20260224200558644.3c5b11780c85d8@example.com",
+            "password": "Pwd!e5b5d14a887bbA1",
+            "administrador": "true",
+            "_id": "JOWrCWZ48twy2K1D"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771962596812@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "JWJE1zL64jC5rMnn"
+        },
+        {
+            "nome": "<button onclick=\"abrirAlert()\">Clique aqui</button>",
+            "email": "teste613@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "JaY8UG6OqQfCjKK2"
+        },
+        {
+            "nome": "Cart Default User",
+            "email": "meghann@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "JhXnufWPiKydXPkQ"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin_1771957528311@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "KNcg5PGRLe0l8RKo"
+        },
+        {
+            "nome": "Giancarlo Tirado Arana",
+            "email": "usuario64494@qa.com.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "KcLQFtSsmk9LuVGG"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.95489fb5-f367-4a52-8517-0bb5e82b4c73@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "KrpuLFrFUAWdd5CL"
+        },
+        {
+            "nome": "Admin Users E2E",
+            "email": "admin.users.20260224200306070.f7a8a7bc155068@example.com",
+            "password": "Pwd!ec02c97559263A1",
+            "administrador": "true",
+            "_id": "KuV9qC4tEUdcfghr"
+        },
+        {
+            "nome": "Automation User",
+            "email": "qa.1771961485786@test.com",
+            "password": "test1234",
+            "administrador": "false",
+            "_id": "LcCarvOuQq0Du3Vv"
+        },
+        {
+            "nome": "Adri Teste ",
+            "email": "adriele92@teste.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "LmR2L9gLkgK4Wat3"
+        },
+        {
+            "nome": "Adrine Pereira",
+            "email": "adrinev9@gmail.com",
+            "password": "adri2702",
+            "administrador": "true",
+            "_id": "M1ys1Fnm8whmOTiQ"
+        },
+        {
+            "nome": "Maria Volkman",
+            "email": "Durward39@yahoo.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "MH5e3AhnlyPkXAf5"
+        },
+        {
+            "nome": "Ketlyn",
+            "email": "devinovateste@gmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "MNhXbcNW1QGs35U1"
+        },
+        {
+            "nome": "Usuário Upsert",
+            "email": "upsert_1771955865508@teste.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "MhMaEmUOljfz2C9w"
+        },
+        {
+            "nome": "Usuário E2E d830206583ba68",
+            "email": "user.20260224185959789.f87c7ad4696f58@example.com",
+            "password": "Pwd!ae35051cf29f68A1",
+            "administrador": "true",
+            "_id": "MkivwjuZWRpxooyM"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.7adfb2d5-7f5b-4437-a3f1-45e00f449578@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "Ms3lKRO1SD4L0uSU"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771960201934@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "N5xnhpwjQvnT8eLs"
+        },
+        {
+            "nome": "Regex Test",
+            "email": "test.regex.1771959411937@example.com",
+            "password": "StrongPassword@123",
+            "administrador": "false",
+            "_id": "NN2THkukwYbX7T6q"
+        },
+        {
+            "nome": "Eliwelton",
+            "email": "eliwelton@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "NN5WqwPX31uWxu9k"
+        },
+        {
+            "nome": "pablo",
+            "email": "pemail@email.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "NPZyPQhrQrlIcfZA"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin_1771955881297@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "NQkxumQcpajyluLs"
+        },
+        {
+            "nome": "Admin Products E2E",
+            "email": "admin.products.20260224195326239.bbf3c287b18ae@example.com",
+            "password": "Pwd!32035f74c56cd8A1",
+            "administrador": "true",
+            "_id": "NZce2vXpONhR3O8A"
+        },
+        {
+            "nome": "Admin Users E2E",
+            "email": "admin.users.20260224200707668.bc0e15dbf9b05@example.com",
+            "password": "Pwd!26d98b4f5aada8A1",
+            "administrador": "true",
+            "_id": "O8oaxsiZkeja0l2g"
+        },
+        {
+            "nome": "Admin Users E2E",
+            "email": "admin.users.20260224200048245.9dfb2bfa6b4b4@example.com",
+            "password": "Pwd!a97b3fb9c0c3e8A1",
+            "administrador": "true",
+            "_id": "OKWcUmXTfXZTx1YX"
+        },
+        {
+            "nome": "User 1",
+            "email": "deeanna@gmail.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "ObQ7EVzm2o41MjuF"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin_1771956184745@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "PEYTvAtG5Z5lbjr5"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771962498727@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "QKvNYtK1QXkPxMPg"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771960247135@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "QSAyjG5m4rwfWOuT"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.20698c64-230c-4e3f-a080-33af314c7937@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "QgMeQESmFdjvqDFP"
+        },
+        {
+            "nome": "Nicole Haley",
+            "email": "Alphonso.Crist24@hotmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "RgosrQ54dO5Zg4g7"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771960208613@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "RtUBsGEFoQQF58wt"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin_1771957496017@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "S9wFRtkFwFqlSPC8"
+        },
+        {
+            "nome": "Dr. Terry Weimann II",
+            "email": "Dolly.Rutherford33@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "SLtbE5052T9wKjkz"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771960215898@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "STgyHezbbP4UA6BR"
+        },
+        {
+            "nome": "Cart User",
+            "email": "jefferson@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "SXJtUM5rKSq03egN"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771961539799@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "SagUEZfqW0LULLDx"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.580d4382-b7f8-45e4-a993-6e4f02af6edc@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "Sex8IfGc6Thmv66r"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.2b0db377-74e0-4c26-bed7-01d720e70f1f@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "ShwhcQOplvFP3iMF"
+        },
+        {
+            "nome": "teobaldo da cruz",
+            "email": "theo@uol.com.br",
+            "password": "12345",
+            "administrador": "true",
+            "_id": "SwUCIacqfT4fg1Bp"
+        },
+        {
+            "nome": "Dora Herzog I",
+            "email": "Eden14@hotmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "T2STIOkjULgf3Vg2"
+        },
+        {
+            "nome": "juan@gmail.com",
+            "email": "juan@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "T8413yQ64vliMJxS"
+        },
+        {
+            "nome": "Cart Default User",
+            "email": "ula@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "TfNp0Qip3NPEPnz1"
+        },
+        {
+            "nome": "User With Cart",
+            "email": "bennett@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "U2i0BoK1LmYJlBJB"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771962568036@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "UgCBqKDCmZOI9ANd"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin_1771956006038@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "VHwm0KSBjEvon0TC"
+        },
+        {
+            "nome": "User Two",
+            "email": "tod@gmail.com",
+            "password": "Senha456@",
+            "administrador": "true",
+            "_id": "VXerxyI3Bfj5Tfyk"
+        },
+        {
+            "nome": "Cart Default User",
+            "email": "loreta@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "Vo9LmZdelBTm2LWX"
+        },
+        {
+            "nome": "Complex User",
+            "email": "shirleen@gmail.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "Vr8Lk1ibdi3iUrcw"
+        },
+        {
+            "nome": "Cart Default User",
+            "email": "edna@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "WFhFkEcLHQ3jrT8d"
+        },
+        {
+            "nome": "Admin Products E2E",
+            "email": "admin.products.20260224195142819.192c987016c718@example.com",
+            "password": "Pwd!4e9d5bb0da0268A1",
+            "administrador": "true",
+            "_id": "WV6nMqYZO6kEoFS3"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano90@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "WZtj7Yvy6DT26WsX"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771961499159@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "X2e6jyNi2goeTAtu"
+        },
+        {
+            "nome": "Admin E2E",
+            "email": "admin.20260224184713654.9f86ef7423de58@example.com",
+            "password": "Pwd!15694cdd81b338A1",
+            "administrador": "true",
+            "_id": "X4zRnLSHPqXsKBdW"
+        },
+        {
+            "nome": "Usuário E2E 4311608c5c21c",
+            "email": "user.20260224192958617.0cd1d2dbad1da@example.com",
+            "password": "Pwd!30445cff09929A1",
+            "administrador": "true",
+            "_id": "X70p3pt2ohXwF80b"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin_1771958586011@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "XFzQHIWYKm7eEAFz"
+        },
+        {
+            "nome": "😇QA Tester",
+            "email": "😅qa21969@teste.com",
+            "password": "🚧teste123",
+            "administrador": "true",
+            "_id": "XGIHGoZGgs4X0K9j"
+        },
+        {
+            "nome": "User With Cart",
+            "email": "noe@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "Y5y2zj4ANY1hChkS"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771962568036@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "YGkuKUQvPetBBhZ2"
+        },
+        {
+            "nome": "Non Admin User",
+            "email": "non.admin.1771959920175@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "YJ2iFQSt3qe2vMGt"
+        },
+        {
+            "nome": "Cart Default User",
+            "email": "darnell@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "YcbjQWrOx3sxWNuY"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771961539799@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "ZQmgAQ3re27CbKr1"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin_1771956356106@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "akbMUp3bQwqpGR4R"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771960105978@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "bRZXt6xJwu7vEmc6"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771962486446@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "bRun0Qr20xulzb82"
+        },
+        {
+            "nome": "Admin Products E2E",
+            "email": "admin.products.20260224195945223.e5b7977d3b3b1@example.com",
+            "password": "Pwd!f749fba4b9e2dA1",
+            "administrador": "true",
+            "_id": "bah0f4URv1UyJqzn"
+        },
+        {
+            "nome": "Cart Default User",
+            "email": "charles@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "bfjMUHx07Qs5MlFH"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771960105978@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "boPFgJjSIieaODgt"
+        },
+        {
+            "nome": "Admin Users E2E",
+            "email": "admin.users.20260224200523890.4a855af898d7a@example.com",
+            "password": "Pwd!48d29720b2dcaA1",
+            "administrador": "true",
+            "_id": "c4jh3dQ10PFQdry2"
+        },
+        {
+            "nome": "Cart Default User",
+            "email": "diane@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "cJlZXtm52WSv4PNe"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.77f0a964-c914-4d3e-be2d-03ad75785c8e@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "cKljTOYjeNpku3cN"
+        },
+        {
+            "nome": "Admin Users E2E",
+            "email": "admin.users.20260224200122390.160d82d7b1bef@example.com",
+            "password": "Pwd!95be9aa3aec488A1",
+            "administrador": "true",
+            "_id": "cefw9uzaivR1I1wb"
+        },
+        {
+            "nome": "Usuário Upsert",
+            "email": "upsert_1771955308009@teste.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "dJiNiIe2pE7W13k4"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771960215898@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "dT3xwgqIT0MNf6Zh"
+        },
+        {
+            "nome": "Cart Default User",
+            "email": "christene@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "dZvTlbTmHuqJVxZz"
+        },
+        {
+            "nome": "Cart User",
+            "email": "minerva@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "dyFWTL6EBoLPdtXh"
+        },
+        {
+            "nome": "pablo",
+            "email": "pemail27@email.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "eI5Hp6bHfreoQ44R"
+        },
+        {
+            "nome": "Alane Hickle",
+            "email": "emanuel@gmail.com",
+            "password": "s29y88n04w8a",
+            "administrador": "true",
+            "_id": "eP3iFT3lABVc0LLY"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.6b9d6304-7cf0-48e4-9fcf-c502e1239af8@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "elempUwryT6XHl43"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771962596812@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "emy8fHZSpjUYWgN5"
+        },
+        {
+            "nome": "cherish@gmail.com",
+            "email": "cherish@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "euqVNY8khj7qoIka"
+        },
+        {
+            "nome": "👾",
+            "email": "teste@teste.com",
+            "password": "1234",
+            "administrador": "false",
+            "_id": "ew5kAM2XOQ3aNk7D"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano3@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "ezt7IbMBFlwRz0yt"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771960250767@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "fGVVbhIzfRBl45GO"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771960201934@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "fOZHKRbgDH76YEVC"
+        },
+        {
+            "nome": "Bruno Quintanilha Atualizado",
+            "email": "bruno_atualizado@teste.com",
+            "administrador": "true",
+            "password": "teste123",
+            "_id": "faaUczBfAmRY5Lkt"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.a5634505-a1db-4a2f-a605-62df24c658ce@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "g1kYBSKNTjG6wAWe"
+        },
+        {
+            "nome": "Usuário Upsert",
+            "email": "upsert_1771956197531@teste.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "g3D7MZckGUMykKPQ"
+        },
+        {
+            "nome": "Usuario d7ebb057",
+            "email": "userd7ebb057@gmail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "gvoJytxahSr5ICgx"
+        },
+        {
+            "nome": "Admin Users E2E",
+            "email": "admin.users.20260224200415041.4d90b2fcee9d38@example.com",
+            "password": "Pwd!67df1fbd74ec9A1",
+            "administrador": "true",
+            "_id": "hGmqSDpzAJYXJUjr"
+        },
+        {
+            "nome": "User 1",
+            "email": "morton@gmail.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "hjODYjZqQxNqFOO5"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771961550081@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "hjbLeXLu65vuDQIP"
+        },
+        {
+            "nome": "teste12@$%*??<button onclick=\"abrirAlert()\">Clique aqui</button>",
+            "email": "teste451@qa.com.br",
+            "password": "1234",
+            "administrador": "false",
+            "_id": "iFY62XjzTWvvRQOf"
+        },
+        {
+            "nome": "User One",
+            "email": "palmira@gmail.com",
+            "password": "Senha123@",
+            "administrador": "false",
+            "_id": "igy0YKJTfDWwq9wl"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.d3f4559a-747d-4085-9c78-afaa83257e20@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "il6zwwahF7FMGVWk"
+        },
+        {
+            "nome": "Admin Products E2E",
+            "email": "admin.products.20260224195251620.d845df404fe078@example.com",
+            "password": "Pwd!fabf0a49822f28A1",
+            "administrador": "true",
+            "_id": "ixjqpPXO798tJXAw"
+        },
+        {
+            "nome": "🤖",
+            "email": "teste351@gmail.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "jQ4akLSzf7qoYwE2"
+        },
+        {
+            "nome": "Sherman Strosin",
+            "email": "sandra@gmail.com",
+            "password": "a0kgh3bd",
+            "administrador": "true",
+            "_id": "jSBk2B3WtQYdDyRC"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin_1771957350251@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "jabmwxJUcA4e7J1x"
+        },
+        {
+            "nome": "Usuário Upsert",
+            "email": "upsert_1771956099694@teste.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "jcMZgeWmG7Gmkl7b"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.2cafefc8-4e61-4226-8aaf-36ee25ae6466@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "jhvBEcfTa3BGPTuE"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771960257792@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "ju24WFrZ4fW3M9JY"
+        },
+        {
+            "nome": "Usuário E2E 6bb403dba6c998",
+            "email": "user.20260224191056085.b4ab63f9744088@example.com",
+            "password": "Pwd!6a04076a3611dA1",
+            "administrador": "true",
+            "_id": "kCb6e4gqoascKztl"
+        },
+        {
+            "nome": "Non Admin User",
+            "email": "non.admin.1771959411935@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "kF8rKFF3iqN4tnXd"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771962588228@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "kNLEuZ9JdMl9PTLT"
+        },
+        {
+            "nome": "Usuário E2E 28c2f5039668c",
+            "email": "user.20260224190737965.4ddda1d7579b38@example.com",
+            "password": "Pwd!a3a8f98d6f3f88A1",
+            "administrador": "true",
+            "_id": "klczImazoudYRkZb"
+        },
+        {
+            "nome": "Regex Test",
+            "email": "test.regex.1771959918315@example.com",
+            "password": "StrongPassword@123",
+            "administrador": "false",
+            "_id": "l99xsEDR1AGIGWLp"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.5b0b80a0-8f59-44a7-899a-21b253a41972@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "lN6SN4DyqKWH9Llr"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.534e6e0e-c48e-4cdd-8efc-30233e025296@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "lNapTFtub8oFf1LL"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771961524080@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "lNzWofcWf4aLEOes"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771960186935@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "loZGv0Cru3FHRvTT"
+        },
+        {
+            "nome": "Admin Users E2E",
+            "email": "admin.users.20260224200850937.74c9fd002e233@example.com",
+            "password": "Pwd!26c6bdc47e4dc8A1",
+            "administrador": "true",
+            "_id": "lsSMsqghaslzB87G"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin@qa.com",
+            "password": "admin123",
+            "administrador": "true",
+            "_id": "m8TcCoLq8qK2imrd"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.d6538123-8989-4c5f-a0d8-cb2cac5f31c8@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "mEAFZtAeZNFtQRLj"
+        },
+        {
+            "nome": "User One",
+            "email": "delmar@gmail.com",
+            "password": "Senha123@",
+            "administrador": "false",
+            "_id": "mTyC1MRcmnOYFX22"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.0279200a-1922-42e2-9c7e-31ddb8cc255f@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "mrxosxZ7cFLb4pRm"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771962588228@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "mvdv8F6MfyFjjZtM"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771960175682@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "o86Luhrayfe1tgED"
+        },
+        {
+            "nome": "User One",
+            "email": "rich@gmail.com",
+            "password": "Senha123@",
+            "administrador": "false",
+            "_id": "oVWdewJKAaniPYmz"
+        },
+        {
+            "nome": "Cart Default User",
+            "email": "kerry@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "og98PPsTTV1ZpPux"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano4@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "omYnRjF3L0nabrZ0"
+        },
+        {
+            "nome": "Cart Default User",
+            "email": "brock@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "ougzFEqOxTAiviO3"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771961508222@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "ovFyAVWdz9DWDLqa"
+        },
+        {
+            "nome": "Cart User",
+            "email": "cart.user.1771959271858@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "oxYgT9RmOyjbbxHe"
+        },
+        {
+            "nome": "Admin Products E2E",
+            "email": "admin.products.20260224195108773.1cd8e4010e5a5@example.com",
+            "password": "Pwd!3b584fe1877f48A1",
+            "administrador": "true",
+            "_id": "p4ZDg46WsRc1f9Ah"
+        },
+        {
+            "nome": "Pablo Vegetti",
+            "email": "elpablopiratavegetti@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "pQ5DoAtbKvNrdBTf"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771962475631@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "pTtYH8VRAvLIsKqs"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.02ce9f78-2230-4697-a28f-ed873f2d8ccd@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "pb63DWCBdVGqkE5z"
+        },
+        {
+            "nome": "Cart Default User",
+            "email": "bobby@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "pheZZOYXQ0LGmrV5"
+        },
+        {
+            "nome": "Admin Products E2E",
+            "email": "admin.products.20260224195216988.8827b44b09d288@example.com",
+            "password": "Pwd!4c99ebd5e9c6d8A1",
+            "administrador": "true",
+            "_id": "poVxaQGLZdH9Cxzo"
+        },
+        {
+            "nome": "🙂",
+            "email": "beltran33o@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "pp7bIW9iz6i3O6Ec"
+        },
+        {
+            "nome": "Cinthia",
+            "email": "cinthia@qa.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "qJ3RgXAaJNpispyl"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.3cc89af8-7876-45b3-ab95-af5aea753541@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "qkc4GBYjehUtfg5D"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771960242544@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "qptAevCnzV48LfoH"
+        },
+        {
+            "nome": "Cart Default User",
+            "email": "len@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "qsM46Y5vxE4U5o9w"
+        },
+        {
+            "nome": "😇QA Tester",
+            "email": "😅qa5562@teste.com",
+            "password": "🚧teste123",
+            "administrador": "true",
+            "_id": "rBk696Jfx0soPDFD"
+        },
+        {
+            "nome": "Cart User",
+            "email": "matt@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "rQNU8AFpjanPclaR"
+        },
+        {
+            "nome": "User 1",
+            "email": "mathew@gmail.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "rszvEUUkyHJkGbFq"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "s9oR7V1hpUh2AZTE"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771961508222@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "sFMBdQ0B0IjWND0N"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin_1771964409426@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "sMZCgzSGfzRSsNy2"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771960229991@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "sQz1WAtwLBCLEnCG"
+        },
+        {
+            "nome": "Usuario Normal",
+            "email": "usuario_normal6@gmail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "sYt3wB46WkjUS7uB"
+        },
+        {
+            "nome": "Admin Products E2E",
+            "email": "admin.products.20260224195836331.e9a3ac45410ed8@example.com",
+            "password": "Pwd!4e7130439ededA1",
+            "administrador": "true",
+            "_id": "scY6rtm2Hk7HsV5r"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771962498727@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "sd1gF4CrJs4z6kdN"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771960229991@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "syajc318wGiAOPkq"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa.1771960175682@test.com",
+            "password": "testpassword",
+            "administrador": "false",
+            "_id": "t0ePM0Lb06vcY0zk"
+        },
+        {
+            "nome": "Admin Products E2E",
+            "email": "admin.products.20260224195400457.789d513aa1d8d@example.com",
+            "password": "Pwd!2c25eaf7f39bA1",
+            "administrador": "true",
+            "_id": "t3lnjKvWyLRHCSCk"
+        },
+        {
+            "nome": "😇QA Tester",
+            "email": "😅qa42398@teste.com",
+            "password": "🚧teste123",
+            "administrador": "true",
+            "_id": "t8V2vZe9rqlkFZdp"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin_1771955846192@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "tTKDFrCRDDoWUlSs"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771960257792@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "tVa5JFL3WP8XNAjG"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano1@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "tm8jrrSJXi1r7FqH"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.eaf46909-93e0-411b-85ab-39ffc77f2507@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "tuVjAuMrdhP9B9pg"
+        },
+        {
+            "nome": "Marco Polo",
+            "email": "polo10@gmail.com",
+            "password": "123456789",
+            "administrador": "false",
+            "_id": "u4Xr1kaj7FTnAIvK"
+        },
+        {
+            "nome": "User Two",
+            "email": "rosenda@gmail.com",
+            "password": "Senha456@",
+            "administrador": "true",
+            "_id": "uI4XvyDKaHpzQFk0"
+        },
+        {
+            "nome": "Usuário Upsert",
+            "email": "upsert_1771955849937@teste.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "uYauzZ0YhFObCogK"
+        },
+        {
+            "nome": "renaldo@gmail.com",
+            "email": "renaldo@gmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "vGSLKu5hYwf5vXXu"
+        },
+        {
+            "nome": "Automation User",
+            "email": "qa.1771960163906@test.com",
+            "password": "test1234",
+            "administrador": "false",
+            "_id": "vp8RnQ0hZ1skFRxV"
+        },
+        {
+            "nome": "Complex User",
+            "email": "felipe@gmail.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "wM2eDVn7msZ1sLeS"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.074a2a9e-e7ed-41ab-b800-53ac814966a6@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "wZnOEUMSsHlGNjOG"
+        },
+        {
+            "nome": "Admin Products E2E",
+            "email": "admin.products.20260224195618520.16f33089ed07c@example.com",
+            "password": "Pwd!9b9d10272e58fA1",
+            "administrador": "true",
+            "_id": "wycLdlzhESVJr8kU"
+        },
+        {
+            "nome": "😇QA Tester",
+            "email": "😅qa91338@teste.com",
+            "password": "🚧teste123",
+            "administrador": "true",
+            "_id": "x5oTL0tbdCWMNsrM"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.593f50de-9ea1-4184-86f3-230554ec46b1@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "x8MEP3RzVGKxR46W"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771960234808@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "xMHeizHdcD4KVCAJ"
+        },
+        {
+            "nome": "Usuário E2E 12cdce2c4ce49",
+            "email": "user.20260224190129172.5da7684d2dd168@example.com",
+            "password": "Pwd!3c6cc6e60c8e48A1",
+            "administrador": "true",
+            "_id": "y6nNj9aaktRD0MSM"
+        },
+        {
+            "nome": "Admin Users E2E",
+            "email": "admin.users.20260224200632962.9fc1e71a504348@example.com",
+            "password": "Pwd!981d3782d0be58A1",
+            "administrador": "true",
+            "_id": "yAzNJg0d93RifgF8"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771960275254@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "z4jFlEsWnsh9ana1"
+        },
+        {
+            "nome": "Admin Products E2E",
+            "email": "admin.products.20260224195653046.1ce2e03dc5bda@example.com",
+            "password": "Pwd!8b35287a61f468A1",
+            "administrador": "true",
+            "_id": "zAdVNkG6GU7mjcOb"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.f3ffb016-ff1b-49ff-a4d9-2cec8e4157c2@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "zPTaHIecoZg4Ay7E"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin_1771962577315@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "zS6dRGDnd2AzZNHk"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.d6408f30-471d-4597-becb-ef4c42e3f534@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "true",
+            "_id": "zTGaJAmDgrCq0Ox0"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin.1771961499159@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "zYUE7JmKEm7buREU"
+        },
+        {
+            "nome": "Admin Products E2E",
+            "email": "admin.products.20260224195509511.3960c02804f108@example.com",
+            "password": "Pwd!d92eb0d8948828A1",
+            "administrador": "true",
+            "_id": "zZ3grLKL1IWmamFf"
+        }
+    ]
+}
