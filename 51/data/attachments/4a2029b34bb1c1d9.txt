@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=92714c50877577f48df366ede33d397a
+date=Wed, 25 Feb 2026 12:55:30 GMT
+server=Google Frontend
+Content-Length=146
+Body: {
+    "nome": "Guilherme M",
+    "email": "teste@qa.com.br",
+    "password": "teste",
+    "administrador": "true",
+    "_id": "01MDhZueutaq9K6A"
+}
