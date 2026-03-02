@@ -1,0 +1,88 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=aac6aa5d621903bff73308c013646acc
+date=Mon, 02 Mar 2026 12:47:11 GMT
+server=Google Frontend
+Content-Length=2210
+Body: {
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Hubert Cassin",
+            "email": "hubertcassin@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "9lMWhyxRaLX7bz2x"
+        },
+        {
+            "nome": "Garrett",
+            "email": "galina.lindgren@hotmail.com",
+            "password": "67mvlnpa",
+            "administrador": "true",
+            "_id": "H7U7UpmkemPyMH0m"
+        },
+        {
+            "nome": "Alexandra Lynch",
+            "email": "alexandralynch@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "Pg3jNU02TWVUP3nd"
+        },
+        {
+            "nome": "Verna Bruen",
+            "email": "vernabruen@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "R6GKdQqD5yvNOtUU"
+        },
+        {
+            "nome": "Kristi Gleason",
+            "email": "kristigleason@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "XI9Vb2bSH0S03Al1"
+        },
+        {
+            "nome": "Geovanny_Harvey8",
+            "email": "Coy.Hyatt@yahoo.com",
+            "password": "169397272",
+            "administrador": "true",
+            "_id": "hUIk9LkqFJSqLrzh"
+        },
+        {
+            "nome": "Johnny Hahn",
+            "email": "mrs.katrinastreich@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "muPi8D7XU2LeOJoT"
+        },
+        {
+            "nome": "Mrs. Marcella Nienow",
+            "email": "mrs.marcellanienow@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "nULDWy99pMEYuMAe"
+        },
+        {
+            "nome": "Lena Weimann",
+            "email": "lenaweimann@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "pXqf8Xl5p03awCHl"
+        }
+    ]
+}
