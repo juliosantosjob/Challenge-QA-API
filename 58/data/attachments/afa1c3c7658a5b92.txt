@@ -1,0 +1,88 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=ce7788f336ff5a996cb28d118fd28b83
+date=Mon, 02 Mar 2026 20:32:27 GMT
+server=Google Frontend
+Content-Length=2362
+Body: {
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Teste Senha",
+            "email": "teste_1772483390669_gn9q7j@teste.com",
+            "password": "12345",
+            "administrador": "false",
+            "_id": "HFCi0PNfryYPHRio"
+        },
+        {
+            "nome": "Teste Senha Forte",
+            "email": "teste_1772483393084_jqqedf@teste.com",
+            "password": "Teste@v0isn9xw77",
+            "administrador": "false",
+            "_id": "JxG9PLfSB3W2dpsD"
+        },
+        {
+            "nome": "Teste Senha",
+            "email": "teste_1772483387865_ykoldf@teste.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "Kclw8zpjUXiwDqwn"
+        },
+        {
+            "nome": "Ara",
+            "email": "leona.roberts@gmail.com",
+            "password": "vey3u95cghhzr",
+            "administrador": "true",
+            "_id": "OwMW9EPIlu87dcbj"
+        },
+        {
+            "nome": "Admin 1772483400536",
+            "email": "teste_1772483400536_e66vz@teste.com",
+            "password": "Teste@23y6226041",
+            "administrador": "true",
+            "_id": "VwhdhDSHw7OuUQw2"
+        },
+        {
+            "nome": "Teste Senha",
+            "email": "teste_1772483389534_jrf0u@teste.com",
+            "password": "abcdefgh",
+            "administrador": "false",
+            "_id": "sYNO5bdYzIV8QoRa"
+        },
+        {
+            "nome": "Fulano QA",
+            "email": "marcelotestesadm@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "wXfUNtgrht4SXBNR"
+        },
+        {
+            "nome": "Teste 1772483386471",
+            "email": "teste_1772483386471_nhp8sd@teste.com",
+            "password": "Teste@g62c5fu426",
+            "administrador": "false",
+            "_id": "wXqPkeqoPzRxXV6x"
+        },
+        {
+            "nome": "Teste Senha",
+            "email": "teste_1772483391792_ij3bpe@teste.com",
+            "password": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+            "administrador": "false",
+            "_id": "xJnNtkHORvoX2mMx"
+        }
+    ]
+}
