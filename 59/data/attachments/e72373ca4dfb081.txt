@@ -1,0 +1,32 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=32b96ea6c298e9dddcf667f256d9e8bf
+date=Tue, 03 Mar 2026 12:44:05 GMT
+server=Google Frontend
+Content-Length=466
+Body: {
+    "quantidade": 2,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Devon",
+            "email": "marnie.jacobi@hotmail.com",
+            "password": "ibg31hzyr8",
+            "administrador": "true",
+            "_id": "mpcH1UOEQ0UUEIzg"
+        }
+    ]
+}
