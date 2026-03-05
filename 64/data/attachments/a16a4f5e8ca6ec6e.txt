@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=eef8cb6bf89da2e7df47e922a1abf99b
+date=Thu, 05 Mar 2026 20:33:57 GMT
+server=Google Frontend
+Content-Length=161
+Body: {
+    "nome": "Maryann Stanton IV",
+    "email": "torrey56@yahoo.com",
+    "password": "tl6ZuwI25B",
+    "administrador": "true",
+    "_id": "05EiBbZuRCL3dUn0"
+}
