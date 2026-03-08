@@ -18,9 +18,7 @@ import static org.hamcrest.Matchers.notNullValue;
 @DisplayName("Feature: Teste de Obtenção de Usuário")
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 public class GetUserTest extends BaseTest {
-
     int randNumb;
-    String userId;
 
     @BeforeEach
     public void setup() {
@@ -48,9 +46,9 @@ public class GetUserTest extends BaseTest {
     @Tag("obtem_usuario_por_id")
     @DisplayName("Cenario 02: Deve obter um usuário por ID")
     public void getUserByIdAndValidateFields() {
-        userId = response.jsonPath().getString("usuarios[" + randNumb + "]._id");
+        String userId = response.jsonPath().getString("usuarios[" + randNumb + "]._id");
+        
         response = getUserById(userId);
-
         response.then()
                 .statusCode(SC_OK)
                 .body("_id", equalTo(userId))
