@@ -1,0 +1,67 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=e5eb87a68f45988b910c9d8739f1a93c
+date=Thu, 12 Mar 2026 20:30:35 GMT
+server=Google Frontend
+Content-Length=1501
+Body: {
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Igor 1",
+            "email": "igor2@gmail.com",
+            "password": "senha1@",
+            "administrador": "false",
+            "_id": "6E39L6mhxSdt0aJl"
+        },
+        {
+            "nome": "Teste Curso Pg",
+            "email": "pg@qa.com.br",
+            "password": "pwd123",
+            "administrador": "true",
+            "_id": "9He2Q19UKWGXBQmI"
+        },
+        {
+            "nome": "Reggie",
+            "email": "lindsay.mayert@hotmail.com",
+            "password": "jku2var8e3ecfi",
+            "administrador": "true",
+            "_id": "AZZOh5Ar2teVSAdP"
+        },
+        {
+            "nome": "teste",
+            "email": "temp@mailna.co",
+            "password": "temp@mailna.co",
+            "administrador": "true",
+            "_id": "BIVFURG5f0Boy3vb"
+        },
+        {
+            "nome": "Authorized User",
+            "email": "authorized@qa.com.br",
+            "password": "12test",
+            "administrador": "true",
+            "_id": "LigXzuqKBPFmWXVg"
+        },
+        {
+            "nome": "Igor 1",
+            "email": "igor1@gmail.com",
+            "password": "senha1@",
+            "administrador": "false",
+            "_id": "xJ0niOUpFg6Ezxqv"
+        }
+    ]
+}
