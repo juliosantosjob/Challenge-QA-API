@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=ede045317eb2a8435dcc451190996333
+date=Thu, 19 Mar 2026 20:32:34 GMT
+server=Google Frontend
+Content-Length=164
+Body: {
+    "nome": "Sofia QA ADMIN 2240",
+    "email": "sofiaADMIN_2240@qa.com.br",
+    "password": "teste",
+    "administrador": "true",
+    "_id": "X0fZFlzcO6AOj7ug"
+}
