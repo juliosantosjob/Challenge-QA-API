@@ -1,0 +1,109 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=10c2ff7825f0444b2680d6f1df6bf887
+date=Fri, 20 Mar 2026 12:51:20 GMT
+server=Google Frontend
+Content-Length=2821
+Body: {
+    "quantidade": 13,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Carmen Nolan",
+            "email": "irvindoyle@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "3VGQoNZmgxZ0M9zc"
+        },
+        {
+            "nome": "Julian",
+            "email": "gerard.funk@hotmail.com",
+            "password": "e02pw1n8q82",
+            "administrador": "true",
+            "_id": "5VxVD9d5QQWyiXup"
+        },
+        {
+            "nome": "Thaina Dell Rei",
+            "email": "deldell@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "72GE5rN9VjV0s61w"
+        },
+        {
+            "nome": "Wayne Williamson",
+            "email": "waynewilliamson@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "9d0bQPks8Lb5xqKo"
+        },
+        {
+            "nome": "Tony Fay",
+            "email": "tonyfay@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "HRokCQ4LBRjtnyc3"
+        },
+        {
+            "nome": "Theron.Murray14",
+            "email": "Maude_Weimann@gmail.com",
+            "password": "004524176",
+            "administrador": "true",
+            "_id": "XC4AFQ6P50W0Q9P1"
+        },
+        {
+            "nome": "Mateus",
+            "email": "mateus@qa.com.br",
+            "password": "teste1",
+            "administrador": "true",
+            "_id": "Y8LsEIctziUjr69k"
+        },
+        {
+            "nome": "Thaina Del Rei",
+            "email": "deldel@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "fAg9Fw4r148Cwaoi"
+        },
+        {
+            "nome": "Edith Hartmann",
+            "email": "edithhartmann@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "kC0er3U4MR0Fnec8"
+        },
+        {
+            "nome": "Franklin Schiller",
+            "email": "franklinschiller@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "os5NR6jsDhHJ2B9t"
+        },
+        {
+            "nome": "Susie Tremblay I",
+            "email": "susietremblayi@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "s67y3naR1YzLryai"
+        },
+        {
+            "nome": "Denise Littel",
+            "email": "deniselittel@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "znmTVdMzMiR7cBwt"
+        }
+    ]
+}
