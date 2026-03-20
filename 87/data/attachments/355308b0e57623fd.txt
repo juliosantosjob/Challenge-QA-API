@@ -1,0 +1,207 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=e75557ae755af9688cde46c00a06ff54
+date=Fri, 20 Mar 2026 20:28:00 GMT
+server=Google Frontend
+Content-Length=6562
+Body: {
+    "quantidade": 27,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Nombre Actualizado por QA",
+            "email": "qa_1774037132748@serverest.com",
+            "password": "pass1774037132748",
+            "administrador": "true",
+            "_id": "4jeFC8CYyyEo7z1j"
+        },
+        {
+            "nome": "QA Automation 1774036528701",
+            "email": "qa_1774036528701@serverest.com",
+            "password": "pass1774036528701",
+            "administrador": "true",
+            "_id": "4o0tpy6HsqN4AOOT"
+        },
+        {
+            "nome": "QA Automation 1774036528113",
+            "email": "qa_1774036528113@serverest.com",
+            "password": "pass1774036528113",
+            "administrador": "true",
+            "_id": "6zgbdXKWu5LmTnwR"
+        },
+        {
+            "nome": "QA Automation 1774037129460",
+            "email": "qa_1774037129460@serverest.com",
+            "password": "pass1774037129460",
+            "administrador": "true",
+            "_id": "8YjLE82QZUxVlmvc"
+        },
+        {
+            "nome": "QA Automation 1774036527518",
+            "email": "qa_1774036527518@serverest.com",
+            "password": "pass1774036527518",
+            "administrador": "true",
+            "_id": "8s4VDhQYaEAJrcca"
+        },
+        {
+            "nome": "QA Automation 1774037096602",
+            "email": "qa_1774037096602@serverest.com",
+            "password": "pass1774037096602",
+            "administrador": "true",
+            "_id": "BpcqZqIM2maDjfwA"
+        },
+        {
+            "nome": "QA Automation 1774036575301",
+            "email": "qa_1774036575301@serverest.com",
+            "password": "pass1774036575301",
+            "administrador": "true",
+            "_id": "DuFt12ZDt9HeHRrs"
+        },
+        {
+            "nome": "QA Automation 1774036576389",
+            "email": "qa_1774036576389@serverest.com",
+            "password": "pass1774036576389",
+            "administrador": "true",
+            "_id": "GdhNrWHXMDy5ufdf"
+        },
+        {
+            "nome": "QA Automation 1774037096010",
+            "email": "qa_1774037096010@serverest.com",
+            "password": "pass1774037096010",
+            "administrador": "true",
+            "_id": "GwHMZZcMS0b1seyT"
+        },
+        {
+            "nome": "QA Automation 1774037097693",
+            "email": "qa_1774037097693@serverest.com",
+            "password": "pass1774037097693",
+            "administrador": "true",
+            "_id": "MmuUZ4olqtlbyAVq"
+        },
+        {
+            "nome": "QA Automation 1774036573273",
+            "email": "qa_1774036573273@serverest.com",
+            "password": "pass1774036573273",
+            "administrador": "true",
+            "_id": "N9h8wqkKUpIXhkJe"
+        },
+        {
+            "nome": "QA Automation 1774037280843",
+            "email": "qa_1774037280843@serverest.com",
+            "password": "pass1774037280843",
+            "administrador": "true",
+            "_id": "UkrLO02wv4Eb9Q7d"
+        },
+        {
+            "nome": "Mozell",
+            "email": "delta.zieme@gmail.com",
+            "password": "tq1nlnzqtnulmq6",
+            "administrador": "true",
+            "_id": "VlBKlTJ1WfqJ6xKL"
+        },
+        {
+            "nome": "QA Automation 1774037287125",
+            "email": "qa_1774037287125@serverest.com",
+            "password": "pass1774037287125",
+            "administrador": "true",
+            "_id": "W1iWtOM3c2NxmQkR"
+        },
+        {
+            "nome": "Nombre Actualizado por QA",
+            "email": "qa_1774037285518@serverest.com",
+            "password": "pass1774037285518",
+            "administrador": "true",
+            "_id": "XQGIpFXy2o7DymF7"
+        },
+        {
+            "nome": "Johnny",
+            "email": "johnny@qa.com.br",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "bZHyfQD41ZSw88hm"
+        },
+        {
+            "nome": "QA Automation 1774036574326",
+            "email": "qa_1774036574326@serverest.com",
+            "password": "pass1774036574326",
+            "administrador": "true",
+            "_id": "gX1dlpr1l6QZlPlt"
+        },
+        {
+            "nome": "QA Automation 1774037282258",
+            "email": "qa_1774037282258@serverest.com",
+            "password": "pass1774037282258",
+            "administrador": "true",
+            "_id": "gpZmIkNRAL3Suy1X"
+        },
+        {
+            "nome": "QA Automation 1774037128888",
+            "email": "qa_1774037128888@serverest.com",
+            "password": "pass1774037128888",
+            "administrador": "true",
+            "_id": "hVDv8x84TPZgGi2d"
+        },
+        {
+            "nome": "QA Automation 1774036529770",
+            "email": "qa_1774036529770@serverest.com",
+            "password": "pass1774036529770",
+            "administrador": "true",
+            "_id": "iPO7BibRYE1aaOSR"
+        },
+        {
+            "nome": "QA Automation 1774037098720",
+            "email": "qa_1774037098720@serverest.com",
+            "password": "pass1774037098720",
+            "administrador": "true",
+            "_id": "jmpDjB4hVz4VBE0J"
+        },
+        {
+            "nome": "QA Automation 1774036531631",
+            "email": "qa_1774036531631@serverest.com",
+            "password": "pass1774036531631",
+            "administrador": "true",
+            "_id": "npsT0SYl65HY04Ob"
+        },
+        {
+            "nome": "QA Automation 1774037135883",
+            "email": "qa_1774037135883@serverest.com",
+            "password": "pass1774037135883",
+            "administrador": "true",
+            "_id": "rVTs8gYNQwEDra7q"
+        },
+        {
+            "nome": "QA Automation 1774037100641",
+            "email": "qa_1774037100641@serverest.com",
+            "password": "pass1774037100641",
+            "administrador": "true",
+            "_id": "sy4SQlVjqTKMhf5P"
+        },
+        {
+            "nome": "QA Automation 1774036572663",
+            "email": "qa_1774036572663@serverest.com",
+            "password": "pass1774036572663",
+            "administrador": "true",
+            "_id": "vqKociJdfEjrUTQh"
+        },
+        {
+            "nome": "Felipe Pachêco",
+            "email": "araujofelipe@gmail.com",
+            "password": "12345",
+            "administrador": "true",
+            "_id": "zIrW2AY5GP4v6lw4"
+        }
+    ]
+}
