@@ -1,0 +1,53 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=568c648ded440b58722f3cb308c7eb82
+date=Mon, 23 Mar 2026 12:57:43 GMT
+server=Google Frontend
+Content-Length=1092
+Body: {
+    "quantidade": 5,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "User Teste",
+            "email": "repetido@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "2M9AcifymBubwTId"
+        },
+        {
+            "nome": "Wallace",
+            "email": "linda.lowe@yahoo.com",
+            "password": "m8tltsnicdahu68",
+            "administrador": "true",
+            "_id": "7jC5lrl8J4nufX29"
+        },
+        {
+            "nome": "User Teste",
+            "email": "user_568@test.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "UBapfcoIEN49L1hg"
+        },
+        {
+            "nome": "User Teste",
+            "email": "user_321@test.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "VBKT6kRTHX7a5hMh"
+        }
+    ]
+}
