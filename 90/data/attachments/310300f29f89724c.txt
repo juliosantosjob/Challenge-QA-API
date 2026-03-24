@@ -1,0 +1,137 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=d4005e6f9667fb310be34a1d7471d5bd
+date=Tue, 24 Mar 2026 13:02:28 GMT
+server=Google Frontend
+Content-Length=3731
+Body: {
+    "quantidade": 17,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Jeffery VonRueden",
+            "email": "jefferyvonrueden@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "2Xm7pNgNPRzTcPLF"
+        },
+        {
+            "nome": "Fulaninho poncutom",
+            "email": "asterisco@cu.com",
+            "password": "Teco",
+            "administrador": "true",
+            "_id": "8k10Fok9Y4z2N0VL"
+        },
+        {
+            "nome": "Josh",
+            "email": "cristal.carter@hotmail.com",
+            "password": "i1t41a1po",
+            "administrador": "true",
+            "_id": "9syzfjRYbIo95ozp"
+        },
+        {
+            "nome": "Usuário Teste",
+            "email": "ahitor4574@uorak.com",
+            "password": "trocarSenha123",
+            "administrador": "true",
+            "_id": "AV40FV5KaU48j0ei"
+        },
+        {
+            "nome": "Gunther",
+            "email": "guntherneto1@gmail.com",
+            "password": "ghr160362",
+            "administrador": "true",
+            "_id": "JeBD3uVOeXzx3lkX"
+        },
+        {
+            "nome": "Lydia Armstrong",
+            "email": "lydiaarmstrong@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "JqlsJlRcs2yagGE0"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "horadoqa_1774356089705@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "MQjY7n81OL1rVF7A"
+        },
+        {
+            "nome": "Lester Paucek II",
+            "email": "lesterpaucekii@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "U5gddM5ExAOOl277"
+        },
+        {
+            "nome": "Rick Ritchie",
+            "email": "rickritchie@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "YMr5HD6SBuDPZdKH"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "horadoqa_1774356080821@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "bRBdgE5bW4qWd2XM"
+        },
+        {
+            "nome": "Waldo72",
+            "email": "Dion38@yahoo.com",
+            "password": "220067942",
+            "administrador": "true",
+            "_id": "k7pLOPeKIY1IQrLu"
+        },
+        {
+            "nome": "Wellington",
+            "email": "buywell89@gmail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "mkdBH2HYt88ZzXZ3"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "horadoqa_1774356084463@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "n16JnfVvEkoffd9V"
+        },
+        {
+            "nome": "Yolanda Klocko",
+            "email": "yolandaklocko@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "ruB9XWd3JVWixYgM"
+        },
+        {
+            "nome": "Holly Morissette",
+            "email": "hollymorissette@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "u2bckRq2YC2pQwMZ"
+        },
+        {
+            "nome": "Ms. Irvin Treutel",
+            "email": "audreyferry@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "zm2MvAN1Zbzgp8yM"
+        }
+    ]
+}
