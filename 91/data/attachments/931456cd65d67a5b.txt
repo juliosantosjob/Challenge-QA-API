@@ -1,0 +1,16 @@
+Status Code: 400
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=e81d01b5e9e44f615e03f47b6c5f41dc
+date=Tue, 24 Mar 2026 20:37:01 GMT
+server=Google Frontend
+Content-Length=56
+Body: {
+    "password": "password não pode ficar em branco"
+}
