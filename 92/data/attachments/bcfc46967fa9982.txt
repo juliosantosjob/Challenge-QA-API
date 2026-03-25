@@ -1,0 +1,88 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=d65000f876ce415a93e77893c322a638
+date=Wed, 25 Mar 2026 12:59:36 GMT
+server=Google Frontend
+Content-Length=2253
+Body: {
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "João Gabriel Ferreira",
+            "email": "vianamaria-vitoria@icloud.com",
+            "password": "%9j*9D2a",
+            "administrador": "false",
+            "_id": "AlYZFYcsERNOyFkO"
+        },
+        {
+            "nome": "Isabel da Luz",
+            "email": "siqueiraemanuelly@yahoo.com.br",
+            "password": "N(D8Hxx5",
+            "administrador": "true",
+            "_id": "PAyNs5lgary8Hsqq"
+        },
+        {
+            "nome": "Reggie.Ryan-Hettinger",
+            "email": "Abdullah66@yahoo.com",
+            "password": "918940075",
+            "administrador": "true",
+            "_id": "RbqTBcVolKoyjZp8"
+        },
+        {
+            "nome": "Srta. Hadassa Siqueira",
+            "email": "antonio30@uol.com.br",
+            "password": "!X(I7WPf",
+            "administrador": "true",
+            "_id": "Tu7JrxtwNP6lbkNQ"
+        },
+        {
+            "nome": "Natália Alves",
+            "email": "daniel44@yahoo.com.br",
+            "password": "_0BXdlml",
+            "administrador": "true",
+            "_id": "dNbjKYdm6XW649jR"
+        },
+        {
+            "nome": "João Pedro Rocha",
+            "email": "mendeslavinia@gmail.com",
+            "password": "*f421NeB",
+            "administrador": "true",
+            "_id": "mCOTlsQIFPzIC4mu"
+        },
+        {
+            "nome": "Leia",
+            "email": "jona.kuphal@gmail.com",
+            "password": "kxq8zwcih88e5k",
+            "administrador": "true",
+            "_id": "mtilyr0NmXwxbypF"
+        },
+        {
+            "nome": "Bruno Andrade",
+            "email": "camaramatteo@gmail.com",
+            "password": "^0WoCxv0",
+            "administrador": "true",
+            "_id": "wqFbY3wM06koYy1e"
+        },
+        {
+            "nome": "Maria Fernanda Azevedo",
+            "email": "machadojoao-felipe@live.com",
+            "password": "c_%60Dqi",
+            "administrador": "false",
+            "_id": "x1B9ZOn2HGYaDH1F"
+        }
+    ]
+}
