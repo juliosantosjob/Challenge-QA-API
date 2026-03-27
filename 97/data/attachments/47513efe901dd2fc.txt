@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=0708cb3c4847b9bed3251d07891fe692
+date=Fri, 27 Mar 2026 20:34:00 GMT
+server=Google Frontend
+Content-Length=156
+Body: {
+    "nome": "Test Analyst 2",
+    "email": "test_analyst2@email.com",
+    "password": "test",
+    "administrador": "true",
+    "_id": "0mExrjVSJIEWfjgI"
+}
