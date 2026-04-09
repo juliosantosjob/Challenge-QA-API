@@ -1,0 +1,53 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=077e8a2cda089589fc8b03d506e16b30
+date=Thu, 09 Apr 2026 20:44:12 GMT
+server=Google Frontend
+Content-Length=1127
+Body: {
+    "quantidade": 5,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Peggy 1",
+            "email": "Peggy@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "3NsrVjezMwE80V3K"
+        },
+        {
+            "nome": "Maria Oliveira 3",
+            "email": "maria.oliveira3@qa.com.br",
+            "password": "pwd@123",
+            "administrador": "false",
+            "_id": "Lr3QGrgQ3PoFPDkM"
+        },
+        {
+            "nome": "Daniel Eduado Anicama Almora",
+            "email": "daniel_anicama@dominio.com.pe",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "NlfKft5Uohwlyn2u"
+        },
+        {
+            "nome": "Vern",
+            "email": "delma.reichel@hotmail.com",
+            "password": "1bhjyr1r6xlmt8s",
+            "administrador": "true",
+            "_id": "n1UKYMJBIFl9Q58X"
+        }
+    ]
+}
