@@ -1,0 +1,17 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=ff2c0aa02a943d31e812dd7972292d3a
+date=Fri, 10 Apr 2026 20:30:56 GMT
+server=Google Frontend
+Content-Length=284
+Body: {
+    "message": "Login realizado com sucesso",
+    "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imthc2V5LnRveUB5YWhvby5jb20iLCJwYXNzd29yZCI6IjU5bDc1dDNsbWJ4cWciLCJpYXQiOjE3NzU4NTMwNTYsImV4cCI6MTc3NTg1MzY1Nn0.Wm7T6QXkDQGieD8FnlQJg-N93GQo1lscaYfY3w98NSE"
+}
