@@ -1,0 +1,473 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=7d1e2cd22308ed9fe28995a8ae2d7368
+date=Tue, 14 Apr 2026 20:49:08 GMT
+server=Google Frontend
+Content-Length=14987
+Body: {
+    "quantidade": 65,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Usuario Global QA Normal",
+            "email": "global_1776198338841@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "34IJf3rh8852nhqQ"
+        },
+        {
+            "nome": "Usuario Global QA Adm",
+            "email": "global_1776198357805@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "6Z1Bgxn8YhSxE16y"
+        },
+        {
+            "nome": "Marquis",
+            "email": "ngoc.hirthe@gmail.com",
+            "password": "24j4063ge4",
+            "administrador": "true",
+            "_id": "7AOb8muOt10oIgE5"
+        },
+        {
+            "nome": "Usuario Global QA Normal",
+            "email": "global_1776198332951@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "7wdPUII4PmWfw9Y8"
+        },
+        {
+            "nome": "User Cypress Normal 1776198349109",
+            "email": "user_1776198349109@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "8hjqLZmw63w1HGCa"
+        },
+        {
+            "nome": "Test Analyst 694",
+            "email": "test_analyst@email.com",
+            "password": "test",
+            "administrador": "true",
+            "_id": "AOB9PiVbAl5wq6nt"
+        },
+        {
+            "nome": "Gu Wala",
+            "email": "guwala@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "AiOq2Lq5DuARBTCa"
+        },
+        {
+            "nome": "User Cypress Admin 1776198357915",
+            "email": "user_1776198357915@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "BJBIxuXRPFsOytzS"
+        },
+        {
+            "nome": "User Cypress Admin 1776198394825",
+            "email": "user_1776198394825@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "BXBv9aBdZMtbkng9"
+        },
+        {
+            "nome": "Usuario Global QA Normal",
+            "email": "global_1776198352487@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "C9rzzkVzeaZtHGAW"
+        },
+        {
+            "nome": "User Cypress Admin 1776198332891",
+            "email": "user_1776198332891@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "DgVZTTkOjxMeqthd"
+        },
+        {
+            "nome": "Vinicius",
+            "email": "viniciusleal_023@hotmail.com",
+            "password": "seleniumtest",
+            "administrador": "true",
+            "_id": "EWhRBlHgg62aAG2H"
+        },
+        {
+            "nome": "Usuario Global QA Adm",
+            "email": "global_1776198332822@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "FfgtyzOoZrn6nIl7"
+        },
+        {
+            "nome": "Usuario Global QA Adm",
+            "email": "global_1776198326597@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "H2otAxaUmXBY9Ul9"
+        },
+        {
+            "nome": "Usuario Global QA Adm",
+            "email": "global_1776198412154@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Ks6FlI2KPIA4ZMkB"
+        },
+        {
+            "nome": "User Cypress Normal 1776198404896",
+            "email": "user_1776198404896@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "Kz4vJs2kjtm8u9sp"
+        },
+        {
+            "nome": "User Cypress Normal 1776198358024",
+            "email": "user_1776198358024@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "MgkKHQIMJl001aRB"
+        },
+        {
+            "nome": "User Cypress Normal 1776198352539",
+            "email": "user_1776198352539@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "N2C02ZcdElcTQAOA"
+        },
+        {
+            "nome": "User Cypress Normal 1776198391829",
+            "email": "user_1776198391829@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "N58wprCd9JrYutB4"
+        },
+        {
+            "nome": "User Cypress Normal 1776198401609",
+            "email": "user_1776198401609@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "NXhqBgbWw8H1FwEK"
+        },
+        {
+            "nome": "Usuario Global QA Normal",
+            "email": "global_1776198327034@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "NuryfTeUp75fCcmv"
+        },
+        {
+            "nome": "Usuario Global QA Adm",
+            "email": "global_1776198404732@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "S89fnaE4W7l5gNd9"
+        },
+        {
+            "nome": "User Cypress Admin 1776198352429",
+            "email": "user_1776198352429@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "SFgHyWMFh9jDdlcP"
+        },
+        {
+            "nome": "Usuario Global QA Adm",
+            "email": "global_1776198407539@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "ShhrPZEw9zpcohAt"
+        },
+        {
+            "nome": "User Cypress Admin 1776198412226",
+            "email": "user_1776198412226@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "SuBMaJeQjVLzsxn0"
+        },
+        {
+            "nome": "Usuario Global QA Normal",
+            "email": "global_1776198349054@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "T7wmgvBr5tn96tSP"
+        },
+        {
+            "nome": "Update Test 2",
+            "email": "update_test_2@email.com",
+            "password": "test",
+            "administrador": "true",
+            "_id": "UeyJNsvi2PMxlzOj"
+        },
+        {
+            "nome": "Usuario Global QA Adm",
+            "email": "global_1776198348909@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "WGgqValrEjlu5Uus"
+        },
+        {
+            "nome": "Sen. Wilford Hermann",
+            "email": "billie.schultz@zulauf.info",
+            "password": "KmQnErKp2Z5",
+            "administrador": "false",
+            "_id": "WP6Bg8q5PV2PrZTw"
+        },
+        {
+            "nome": "User Cypress Admin 1776198326950",
+            "email": "user_1776198326950@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "XyFDfC3GWUy3XT5y"
+        },
+        {
+            "nome": "Usuario Global QA Adm",
+            "email": "global_1776198394764@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Y1KVnMBWQ6x8GZwR"
+        },
+        {
+            "nome": "Usuario Global QA Normal",
+            "email": "global_1776198398193@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "Y8x9HNhQLcQMKPz2"
+        },
+        {
+            "nome": "User Cypress Normal 1776198412337",
+            "email": "user_1776198412337@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "Ys8Wv4QgTSQ0oIxo"
+        },
+        {
+            "nome": "User Cypress Admin 1776198338613",
+            "email": "user_1776198338613@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "YyZcf4FSCVSgBfI8"
+        },
+        {
+            "nome": "Usuario Global QA Adm",
+            "email": "global_1776198398071@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "aFZyDMuJLlRQ30xV"
+        },
+        {
+            "nome": "Usuario Global QA Normal",
+            "email": "global_1776198407666@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "c6Upsc2nxkuG4ubu"
+        },
+        {
+            "nome": "User Cypress Normal 1776198333007",
+            "email": "user_1776198333007@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "cTFvG89qHsyTGm3s"
+        },
+        {
+            "nome": "Usuario Global QA Normal",
+            "email": "global_1776198391777@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "eLIl5WC2E0sYQxC5"
+        },
+        {
+            "nome": "Usuario Global QA Normal",
+            "email": "global_1776198412286@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "eabj3RufiKtNMdgz"
+        },
+        {
+            "nome": "Usuario Global QA Adm",
+            "email": "global_1776198391649@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "f7NqNfP4mqU22LoK"
+        },
+        {
+            "nome": "User Cypress Normal 1776198398244",
+            "email": "user_1776198398244@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "ftWg0JWRKC5wCZ5O"
+        },
+        {
+            "nome": "User Cypress Admin 1776198401493",
+            "email": "user_1776198401493@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "gIFAZWcP1vJDkooA"
+        },
+        {
+            "nome": "User Cypress Admin 1776198398131",
+            "email": "user_1776198398131@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "hArpoqo3wRzcH3u8"
+        },
+        {
+            "nome": "Administrador QA",
+            "email": "admin_1776198327181@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "iOJDTXQMrPrRateL"
+        },
+        {
+            "nome": "Leslee Williamson DDS",
+            "email": "arcelia.nitzsche@hane-denesik.co",
+            "password": "AuJ1eXzN3rAvU",
+            "administrador": "false",
+            "_id": "iQN8GqX9eM3k8DtT"
+        },
+        {
+            "nome": "User Cypress Normal 1776198327122",
+            "email": "user_1776198327122@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "jEWx1JAuQgS1WQoI"
+        },
+        {
+            "nome": "Usuario Global QA Adm",
+            "email": "global_1776198338538@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "lOZaj7kzskRUP8eK"
+        },
+        {
+            "nome": "Vinicius",
+            "email": "viniciusleal_023@teste.com",
+            "password": "seleniumtest",
+            "administrador": "true",
+            "_id": "lR2qz4bD21t4rUOp"
+        },
+        {
+            "nome": "Usuario Global QA Normal",
+            "email": "global_1776198401550@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "lqzWcM5ylmWkgaD2"
+        },
+        {
+            "nome": "Usuario Global QA Adm",
+            "email": "global_1776198401436@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "mTMlvyNBNwa9JYGb"
+        },
+        {
+            "nome": "Usuario Global QA Adm",
+            "email": "global_1776198352366@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "nCGyiwmaeG4zy0O2"
+        },
+        {
+            "nome": "User Cypress Admin 1776198391712",
+            "email": "user_1776198391712@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "oiRH4X9exwtHwp2W"
+        },
+        {
+            "nome": "Wilbur Block",
+            "email": "christina.greenfelder97@hotmail.com",
+            "password": "hNTUKZUK",
+            "administrador": "true",
+            "_id": "p37jZPcP08M0TvKX"
+        },
+        {
+            "nome": "User Cypress Normal 1776198394932",
+            "email": "user_1776198394932@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "pyVdm8JeKp7Bv2XX"
+        },
+        {
+            "nome": "User Cypress Admin 1776198404791",
+            "email": "user_1776198404791@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "qCVs2ep3xpQlKqrM"
+        },
+        {
+            "nome": "User Cypress Normal 1776198338888",
+            "email": "user_1776198338888@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "qX5G2npjJbAhhbAT"
+        },
+        {
+            "nome": "Usuario Global QA Normal",
+            "email": "global_1776198394881@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "rXFCOJWy4SAaA1xO"
+        },
+        {
+            "nome": "User Cypress Normal 1776198407714",
+            "email": "user_1776198407714@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "rwN5dtPoPCI4HWwe"
+        },
+        {
+            "nome": "Arcelia Ryan",
+            "email": "tristan@nienow.net",
+            "password": "UmEoYgPj",
+            "administrador": "true",
+            "_id": "usuuBrbeF0bvBB48"
+        },
+        {
+            "nome": "Usuario Global QA Normal",
+            "email": "global_1776198357970@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "w72GP9ufMzmOola2"
+        },
+        {
+            "nome": "Usuario Global QA Normal",
+            "email": "global_1776198404847@qa.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "wLiHEzdZnHOVBcDh"
+        },
+        {
+            "nome": "User Cypress Admin 1776198348991",
+            "email": "user_1776198348991@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "x9OB0qlX1lRVEMFv"
+        },
+        {
+            "nome": "gabi.costa",
+            "email": "gabi2.costa@qa.com.br",
+            "password": "1",
+            "administrador": "true",
+            "_id": "xy1ojKfekt76NgLL"
+        },
+        {
+            "nome": "User Cypress Admin 1776198407605",
+            "email": "user_1776198407605@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "yYPKvEMryIWrCpwc"
+        }
+    ]
+}
