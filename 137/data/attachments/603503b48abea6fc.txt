@@ -1,0 +1,214 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=9f17eb7dc6a145ceae474a1abbdefdf2
+date=Fri, 24 Apr 2026 20:42:08 GMT
+server=Google Frontend
+Content-Length=6551
+Body: {
+    "quantidade": 28,
+    "usuarios": [
+        {
+            "nome": "Luis Choque",
+            "email": "pruebab4c566d4-de64-4e7a-8d0b-8d0031611378@gmail.com",
+            "password": "Luis123",
+            "administrador": "false",
+            "_id": "0M9a1HX4krQZ7Xlw"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Luis Choque",
+            "email": "prueba5fd74c3a-c564-4c2a-9b22-eb7697f5720c@gmail.com",
+            "password": "Luis123",
+            "administrador": "false",
+            "_id": "2CISLDTtUyJ522qT"
+        },
+        {
+            "nome": "Luis Choque",
+            "email": "prueba3ffdd6e9-22ce-4a56-bd2b-5195f2e794d2@gmail.com",
+            "password": "Luis123",
+            "administrador": "false",
+            "_id": "3WdeCsCBBGZyxZIQ"
+        },
+        {
+            "nome": "API User User-r6swz6",
+            "email": "user.1777062807816.w1o2cw@example.com",
+            "password": "Password123!",
+            "administrador": "false",
+            "_id": "6WnsgHhR7m2PnzAW"
+        },
+        {
+            "nome": "Luis Choque",
+            "email": "pruebac4fad681-125c-425d-9277-d9601d5cf7e1@gmail.com",
+            "password": "Luis123",
+            "administrador": "false",
+            "_id": "6X9gNGVlo4muh4bh"
+        },
+        {
+            "nome": "Teste de qualidade",
+            "email": "admin@admin.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "7MQwYFXq19p3xJzv"
+        },
+        {
+            "nome": "Luis Choque",
+            "email": "prueba7852a6f5-45a6-4b90-98be-dd819b2e46c6@gmail.com",
+            "password": "Luis123",
+            "administrador": "false",
+            "_id": "7s6yBGATxzh304OY"
+        },
+        {
+            "nome": "Luis Choque",
+            "email": "pruebaaaac76d5-597b-4386-8a12-7e6d1ba374d5@gmail.com",
+            "password": "Luis123",
+            "administrador": "false",
+            "_id": "My9UW1B0tT6NJOw7"
+        },
+        {
+            "nome": "Fernando Choque",
+            "email": "act_bc274cf6-5b18-4029-a9c1-6498903d0f6a@gmail.com",
+            "password": "Fernando123",
+            "administrador": "true",
+            "_id": "NNowSMEUZmIOIrnx"
+        },
+        {
+            "nome": "Ezequiel DuBuque",
+            "email": "Clara28@yahoo.com",
+            "password": "z0W_twEDIPPb1Jl",
+            "administrador": "true",
+            "_id": "P14OLvmFStKvrlka"
+        },
+        {
+            "nome": "Luis Choque",
+            "email": "pruebaf8a087a1-90b4-45e3-8234-7c6b861d719f@gmail.com",
+            "password": "Luis123",
+            "administrador": "false",
+            "_id": "PWJ03rihnSQOd0Ux"
+        },
+        {
+            "nome": "Luis Choque",
+            "email": "pruebaa4ebeb9f-ed45-4084-9b06-c4b58d08e868@gmail.com",
+            "password": "Luis123",
+            "administrador": "false",
+            "_id": "Thv0U5ni8nvuCOoE"
+        },
+        {
+            "nome": "Lenore Barton",
+            "email": "Jordon_Dicki@yahoo.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "UUlcgYQQkEj8btRR"
+        },
+        {
+            "nome": "Luis Choque",
+            "email": "prueba006b1ac1-5846-4017-ac28-4fa7785cd42e@gmail.com",
+            "password": "Luis123",
+            "administrador": "false",
+            "_id": "Y2JViPB4iDBgRIaE"
+        },
+        {
+            "nome": "Fernando Choque",
+            "email": "act_02e97f57-8d93-4da9-9a9a-b12c92161114@gmail.com",
+            "password": "Fernando123",
+            "administrador": "true",
+            "_id": "akdpuOewYLqMArrx"
+        },
+        {
+            "nome": "API User User-qtrvv7",
+            "email": "user.1777062807816.x9xwy5@example.com",
+            "password": "Password123!",
+            "administrador": "false",
+            "_id": "dWt27WvFjO3RWa8V"
+        },
+        {
+            "nome": "Fernando Choque",
+            "email": "emailnuevoactualizadof@gmail.com",
+            "password": "Fernando123",
+            "administrador": "true",
+            "_id": "hW3WO5wch5Jo2obI"
+        },
+        {
+            "nome": "Urek Maizo",
+            "email": "13espadas@qa.com.br",
+            "password": "tributo",
+            "administrador": "true",
+            "_id": "hwHaRRsWhSck5SIO"
+        },
+        {
+            "nome": "Luis Choque",
+            "email": "pruebaa2052bd7-4324-469a-9f13-c6ee4071aba0@gmail.com",
+            "password": "Luis123",
+            "administrador": "false",
+            "_id": "jwAYSMUDQnuXQAhC"
+        },
+        {
+            "nome": "Luis Choque",
+            "email": "pruebaa5a7faf3-a71a-4a55-bd28-c09dab7834f4@gmail.com",
+            "password": "Luis123",
+            "administrador": "false",
+            "_id": "kjAbUVqp1kYcxuXk"
+        },
+        {
+            "nome": "Sung",
+            "email": "morgan.emard@hotmail.com",
+            "password": "5olonjpb8gf",
+            "administrador": "true",
+            "_id": "pU1yewSaCQRoFpG9"
+        },
+        {
+            "nome": "Yago Lima ",
+            "email": "yagols@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "sVpS7fuOjERM64Xx"
+        },
+        {
+            "nome": "Rafa",
+            "email": "rafa@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "tNO8G159uLHOn2ib"
+        },
+        {
+            "nome": "Sammy Quitzon",
+            "email": "Zena57@gmail.com",
+            "password": "Wcu45NYkX2RmXlR",
+            "administrador": "true",
+            "_id": "ymiDiw6kR5KrrXPQ"
+        },
+        {
+            "nome": "Mrs. Lillian Spencer",
+            "email": "Harold_Bruen48@hotmail.com",
+            "password": "fjbyPvNewtoG_YP",
+            "administrador": "true",
+            "_id": "ytVqIl76GDBUJf1E"
+        },
+        {
+            "nome": "Fernando Choque",
+            "email": "act_6f249580-a2d2-4d21-ba4a-cc23dcd28c76@gmail.com",
+            "password": "Fernando123",
+            "administrador": "true",
+            "_id": "zRAeHJSo28Dnq1p9"
+        },
+        {
+            "nome": "Albert Herzog",
+            "email": "Yvette.Boyer95@hotmail.com",
+            "password": "qi_dh1XSBDSSqoL",
+            "administrador": "false",
+            "_id": "zq63pCO2yz0k3S0j"
+        }
+    ]
+}
