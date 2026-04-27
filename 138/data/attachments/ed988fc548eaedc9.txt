@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=a975b7a7c7897993d5a06a722edd35b0
+date=Mon, 27 Apr 2026 13:29:23 GMT
+server=Google Frontend
+Content-Length=156
+Body: {
+    "nome": "Sena",
+    "email": "foster.johnson@hotmail.com",
+    "password": "zko8utnro25",
+    "administrador": "true",
+    "_id": "0PM0lT6hYxtg1W4y"
+}
