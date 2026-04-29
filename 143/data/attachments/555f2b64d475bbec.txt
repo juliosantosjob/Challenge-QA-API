@@ -1,0 +1,235 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=c8a2640869df01c2e1763c42a75b2532
+date=Wed, 29 Apr 2026 20:59:17 GMT
+server=Google Frontend
+Content-Length=6375
+Body: {
+    "quantidade": 31,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "User 41463",
+            "email": "user41463@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "2lro6xBlpD52Fsbb"
+        },
+        {
+            "nome": "User 25911",
+            "email": "user25911@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "2r7ZhvSytOhGadH9"
+        },
+        {
+            "nome": "User 2345",
+            "email": "user2345@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "3EvixztOiPGEYDMD"
+        },
+        {
+            "nome": "User 86706",
+            "email": "user86706@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "3SuYJCWbD7tHJpQG"
+        },
+        {
+            "nome": "User 82866",
+            "email": "user82866@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "4pLTIOmDso6AtJ52"
+        },
+        {
+            "nome": "User 21694",
+            "email": "user21694@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "6JLnjWdZBzr5QLTX"
+        },
+        {
+            "nome": "User 14317",
+            "email": "user14317@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "7ZhJQKe1q1FXVvuQ"
+        },
+        {
+            "nome": "Ambrose",
+            "email": "khadijah.rolfson@gmail.com",
+            "password": "ppevk1245",
+            "administrador": "true",
+            "_id": "9LZBNvvdCwlG6Rmy"
+        },
+        {
+            "nome": "User 19676",
+            "email": "user19676@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "EPLPetfYk5dtftc8"
+        },
+        {
+            "nome": "User 8263",
+            "email": "user8263@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "GVgcRSr5bdNBqXgA"
+        },
+        {
+            "nome": "User 36107",
+            "email": "user36107@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "LKXl49BJRTtxy0UJ"
+        },
+        {
+            "nome": "User 8471",
+            "email": "user8471@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "LfNt7ISplnocnNJ1"
+        },
+        {
+            "nome": "User 52791",
+            "email": "user52791@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "Lv192WoxcpERYpb2"
+        },
+        {
+            "nome": "User 49663",
+            "email": "user49663@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "T646G1uiqYsHbB1D"
+        },
+        {
+            "nome": "User 73244",
+            "email": "user73244@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "TCbK6lf5EZmRrmgL"
+        },
+        {
+            "nome": "User 9878",
+            "email": "user9878@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "Vc9n0pi8mcHPxnFc"
+        },
+        {
+            "nome": "User 7054",
+            "email": "user7054@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "VtrqCrRcKDyOJZyJ"
+        },
+        {
+            "nome": "User 86836",
+            "email": "user86836@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "Y4qQxtyVaZNLFWKw"
+        },
+        {
+            "nome": "User 61113",
+            "email": "user61113@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "agiy1VHGd7VFqLJB"
+        },
+        {
+            "nome": "User 81495",
+            "email": "user81495@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "eZnbjz1LBXxnq2t1"
+        },
+        {
+            "nome": "User 63007",
+            "email": "user63007@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "gc47k64zuGyaeoXS"
+        },
+        {
+            "nome": "User 24892",
+            "email": "user24892@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "h4sJgMl56XOwap8X"
+        },
+        {
+            "nome": "User 21778",
+            "email": "user21778@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "ih1ra6FitQzYKDqJ"
+        },
+        {
+            "nome": "User 65426",
+            "email": "user65426@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "kpgR7HJJ9oLIWNL7"
+        },
+        {
+            "nome": "User 35129",
+            "email": "user35129@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "prJrgGEKFcRJ30Sh"
+        },
+        {
+            "nome": "User 64100",
+            "email": "user64100@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "r0JR94mn4odGZT7g"
+        },
+        {
+            "nome": "User 77385",
+            "email": "user77385@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "sPEXuTZhuwInzIOW"
+        },
+        {
+            "nome": "User 91363",
+            "email": "user91363@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "ymFd0mXaoqhrivxk"
+        },
+        {
+            "nome": "User 86160",
+            "email": "user86160@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "zeYVXIcGPjcd08zf"
+        },
+        {
+            "nome": "User 59997",
+            "email": "user59997@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "zorR7m8T430lET6n"
+        }
+    ]
+}
