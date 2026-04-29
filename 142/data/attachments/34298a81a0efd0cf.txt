@@ -1,0 +1,67 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=144fdfd2ab184389e70694eb1fb85797
+date=Wed, 29 Apr 2026 13:46:11 GMT
+server=Google Frontend
+Content-Length=1572
+Body: {
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "[test-user] Patti Lubowitz",
+            "email": "emma.durgan@test.net",
+            "password": "T1!WxVgpzr2x",
+            "administrador": "true",
+            "_id": "GLuW6QxpixlL2Rrc"
+        },
+        {
+            "nome": "Jaime",
+            "email": "beatris.mraz@hotmail.com",
+            "password": "guzwntz5vf5",
+            "administrador": "true",
+            "_id": "MMbc1aZoVIhBmjKI"
+        },
+        {
+            "nome": "[test-user] Velva Bins",
+            "email": "Jace4@gmail.com",
+            "password": "T1!2S3UfmNHi",
+            "administrador": "false",
+            "_id": "MdzLojsErarrPhy3"
+        },
+        {
+            "nome": "[test-user] Guy Stroman",
+            "email": "Diana4@yahoo.com",
+            "password": "T1!cck0SkyE0",
+            "administrador": "false",
+            "_id": "UmBIYYx6d2kLFDQw"
+        },
+        {
+            "nome": "Sussu Teste 13",
+            "email": "sussu13@qa.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "YkLcbLoN96D82yMY"
+        },
+        {
+            "nome": "Teste Guilherme",
+            "email": "testeguilherme@qa.com.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "rDas5PuFKIhVgjM4"
+        }
+    ]
+}
