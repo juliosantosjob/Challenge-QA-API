@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=75b5ef023613453f2e8c77ad21d28c24
+date=Thu, 30 Apr 2026 20:56:08 GMT
+server=Google Frontend
+Content-Length=174
+Body: {
+    "nome": "Miguel Torres",
+    "email": "user_1777572399447_6859@yahoo.com",
+    "password": "j7Btq1*Cufsz",
+    "administrador": "false",
+    "_id": "0iG2BuknVNpM7cwL"
+}
