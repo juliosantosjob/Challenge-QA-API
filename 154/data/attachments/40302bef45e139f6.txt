@@ -1,0 +1,16 @@
+Status Code: 400
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=d87f2e62e88e07c6b51fcaac0bf39fc4
+date=Thu, 07 May 2026 13:55:35 GMT
+server=Google Frontend
+Content-Length=45
+Body: {
+    "message": "Usuário não encontrado"
+}
