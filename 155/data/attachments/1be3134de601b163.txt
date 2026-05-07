@@ -1,0 +1,61 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+Content-Length=1328
+date=Thu, 07 May 2026 21:01:28 GMT
+server=Google Frontend
+traceparent=00-7aee5b31f763c0f5f8b09e6e9d982639-59df3e8755496db0-00
+x-cloud-trace-context=7aee5b31f763c0f5f8b09e6e9d982639/6475963540154445232
+Body: {
+    "quantidade": 6,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": " Felipe",
+            "email": "felipe_pezzi@hotmail.com",
+            "password": "147852",
+            "administrador": "false",
+            "_id": "2azn6y1xXoC2lLYD"
+        },
+        {
+            "nome": "Vitor",
+            "email": "vitorsilva@test.com",
+            "password": "@Test2026",
+            "administrador": "true",
+            "_id": "ViyrHhhio1Byxsjx"
+        },
+        {
+            "nome": "Fulana dois da Silva",
+            "email": "fulana2@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "jvqWczCj1fiuiH55"
+        },
+        {
+            "nome": "MURILO VINICIUS FRANCA SILVA",
+            "email": "murilo.vfs.472@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "k5kuvQwmU4Y1eEHx"
+        },
+        {
+            "nome": "Kasie",
+            "email": "aracely.oconner@yahoo.com",
+            "password": "a0cqbx2q6r",
+            "administrador": "true",
+            "_id": "nqiMYiQ8C9c4hlLh"
+        }
+    ]
+}
