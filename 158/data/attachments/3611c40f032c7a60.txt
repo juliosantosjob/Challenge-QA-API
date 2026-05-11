@@ -1,0 +1,102 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=0e7acdf0b080ecfe824a11c1cad02702
+date=Mon, 11 May 2026 14:39:14 GMT
+server=Google Frontend
+Content-Length=2583
+Body: {
+    "quantidade": 12,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Arildo",
+            "email": "arildo@qa.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "3WL3tFUhsDDHQEPv"
+        },
+        {
+            "nome": "Stone35",
+            "email": "Delpha_Johnson76@gmail.com",
+            "password": "612507277",
+            "administrador": "true",
+            "_id": "5vzIY5FjhGG8S6Z6"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "F7WJu3yP1C8ztO9v"
+        },
+        {
+            "nome": "Corine13",
+            "email": "Pierre_Jaskolski@yahoo.com",
+            "password": "873471190",
+            "administrador": "true",
+            "_id": "L0iaiErLjXjEDlGy"
+        },
+        {
+            "nome": "Alice.Wolf",
+            "email": "Camille.Spencer46@gmail.com",
+            "password": "138513885",
+            "administrador": "true",
+            "_id": "Mt0RXBKtsM4JXU6w"
+        },
+        {
+            "nome": "Testetwo",
+            "email": "demoQaT@estonqa.com.br",
+            "password": "teste123 ",
+            "administrador": "true",
+            "_id": "NpsJ4i5DWuFWux6h"
+        },
+        {
+            "nome": "Thiago Aragao",
+            "email": "thiagoqa123@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "d8yxFYkd9rIFAUsT"
+        },
+        {
+            "nome": "Yvette61",
+            "email": "Vivien.Wiegand91@gmail.com",
+            "password": "783922714",
+            "administrador": "true",
+            "_id": "dCtzKPo3uK6vSqPZ"
+        },
+        {
+            "nome": "Arildo QA",
+            "email": "ari@qa.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "dNi2MsqUVcp2zXnm"
+        },
+        {
+            "nome": "Usuário Teste Cypress API",
+            "email": "Abe94@yahoo.com",
+            "password": "senha@123",
+            "administrador": "false",
+            "_id": "mnB74Oq5i3RoXGUG"
+        },
+        {
+            "nome": "Rosaline",
+            "email": "emiko.pollich@yahoo.com",
+            "password": "a4rm3aqnk",
+            "administrador": "true",
+            "_id": "oj2J5O7xMVpzBURV"
+        }
+    ]
+}
