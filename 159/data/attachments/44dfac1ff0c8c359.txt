@@ -1,0 +1,200 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=c5ecd75007e669f9e853eb64b0c666c9
+date=Mon, 11 May 2026 21:13:37 GMT
+server=Google Frontend
+Content-Length=5961
+Body: {
+    "quantidade": 26,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Carlos Silva",
+            "email": "carlos14r@qa.com.br",
+            "password": "carlos14",
+            "administrador": "true",
+            "_id": "32IEqOp8yak4Ol5l"
+        },
+        {
+            "nome": "Erma Cole",
+            "email": "Claudie30@gmail.com",
+            "password": "289-868-6701+12",
+            "administrador": "true",
+            "_id": "3PKxdndsM43YpXOy"
+        },
+        {
+            "nome": "jon",
+            "email": "jon@gmail.com",
+            "password": "1234",
+            "administrador": "false",
+            "_id": "4MHaXscnDDP4THiA"
+        },
+        {
+            "nome": "Usuario Para Editar",
+            "email": "editar.base.1778532027075@qa.serverest.com",
+            "password": "Base123",
+            "administrador": "false",
+            "_id": "6O9Ac1qPfYvG7p9D"
+        },
+        {
+            "nome": "Roy Peralta Barboza",
+            "email": "roy.peralta1778533212856@correoejemplo.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "AToh2nnSDGnyEAbS"
+        },
+        {
+            "nome": "Carlos Mendoza",
+            "email": "carlos.mendoza.1778532008063@qa.serverest.com",
+            "password": "MiClave456",
+            "administrador": "false",
+            "_id": "AoCG2pAOi96sY4Ec"
+        },
+        {
+            "nome": "Eduarda",
+            "email": "dudaQA@example.com",
+            "password": "Senha123",
+            "administrador": "true",
+            "_id": "IjZcl0Yk785TB8om"
+        },
+        {
+            "nome": "Usuario BuscaID",
+            "email": "busca.id.1778532000927@qa.serverest.com",
+            "password": "Busca123",
+            "administrador": "false",
+            "_id": "J123MUSjdTiJbJjd"
+        },
+        {
+            "nome": "Usuario BuscaID",
+            "email": "busca.id.1778531996159@qa.serverest.com",
+            "password": "Busca123",
+            "administrador": "false",
+            "_id": "KXuLm0r04JZBozec"
+        },
+        {
+            "nome": "Roy Peralta Barboza",
+            "email": "royperalta_01@correo.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "LV4gcAhbiSKj0BZL"
+        },
+        {
+            "nome": "Murilo",
+            "email": "Larissa_Nogueira57@live.com",
+            "password": "uOdKbxvGyv7MsEw",
+            "administrador": "true",
+            "_id": "PCjOLKE0fv4i0MzD"
+        },
+        {
+            "nome": "Roy Peralta Barboza",
+            "email": "roy.peralta1778533148006@correoejemplo.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "RO3PhEaDwOXFmk6t"
+        },
+        {
+            "nome": "Carlos Silva Junior",
+            "email": "carlos15r@qa.com.br",
+            "password": "carlos15",
+            "administrador": "true",
+            "_id": "RqL4FZAYUqn1QowP"
+        },
+        {
+            "nome": "Lynetta",
+            "email": "jarrod.walter@hotmail.com",
+            "password": "rpth6ugwtb7",
+            "administrador": "true",
+            "_id": "TN6H1TtlVmWnBbep"
+        },
+        {
+            "nome": "Usuario Para Editar",
+            "email": "editar.base.1778532025853@qa.serverest.com",
+            "password": "Base123",
+            "administrador": "false",
+            "_id": "TejsW9qwTgIuVgmh"
+        },
+        {
+            "nome": "Maria Eduarda",
+            "email": "mariaeduardaferrreiragomes2021@gmail.com",
+            "password": "Mariaeduarda",
+            "administrador": "true",
+            "_id": "XhksY7fwyK0VNq4H"
+        },
+        {
+            "nome": "Roy Peralta Barboza",
+            "email": "roy.peralta1778533173139@correoejemplo.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "apNvowaPMPLEpYGP"
+        },
+        {
+            "nome": "Bruna",
+            "email": "Ofelia70@yahoo.com",
+            "password": "1IBd7B2kTNUBEY2",
+            "administrador": "true",
+            "_id": "eFe7Uv4psp7QWAI3"
+        },
+        {
+            "nome": "CAIO AUGUSTO TAVARES",
+            "email": "caio18augusto@outlook.com",
+            "password": "Madrid@2",
+            "administrador": "true",
+            "_id": "eRuoE50dqx53IsZh"
+        },
+        {
+            "nome": "Admin Carrito",
+            "email": "admin.carrito.1778531992130@qa.com",
+            "password": "admin123",
+            "administrador": "true",
+            "_id": "gCs1VDRa2m59Saa1"
+        },
+        {
+            "nome": "Roy Peralta Barboza",
+            "email": "carlos.mendoza.1778532606611@qa.serverest.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "k0eWxcWoEf6LYmq0"
+        },
+        {
+            "nome": "Guilherme",
+            "email": "Heloisa_Souza62@hotmail.com",
+            "password": "EcRHwaseorkNqN5",
+            "administrador": "true",
+            "_id": "pnxlHjfrL53EGwK8"
+        },
+        {
+            "nome": "User Com Carrito",
+            "email": "user.carrito.1778531992130@qa.com",
+            "password": "user123",
+            "administrador": "false",
+            "_id": "tAV4MSZRFNTYi10D"
+        },
+        {
+            "nome": "Usuario BuscaID",
+            "email": "busca.id.1778532000031@qa.serverest.com",
+            "password": "Busca123",
+            "administrador": "false",
+            "_id": "tH85tisiH95WqtA0"
+        },
+        {
+            "nome": "Roy Peralta Barboza",
+            "email": "roy.peralta1778533086866@correoejemplo.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "yi30ssmiinvVMlNo"
+        }
+    ]
+}
