@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=4ea0f6b03f992df9850a8710bd424985
+date=Wed, 13 May 2026 21:23:20 GMT
+server=Google Frontend
+Content-Length=189
+Body: {
+    "nome": "Usuario Test 1778696454731",
+    "email": "user_1778696454731@qatest.com",
+    "password": "Senha@1778696454731",
+    "administrador": "true",
+    "_id": "0Vo6Vvr3BNu7h8j1"
+}

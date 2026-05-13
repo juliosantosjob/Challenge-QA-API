@@ -1,0 +1,424 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=f3bc46be4b3c058dab9c3667b374f3ec
+date=Wed, 13 May 2026 21:23:20 GMT
+server=Google Frontend
+Content-Length=13247
+Body: {
+    "quantidade": 58,
+    "usuarios": [
+        {
+            "nome": "Usuario Test 1778696454731",
+            "email": "user_1778696454731@qatest.com",
+            "password": "Senha@1778696454731",
+            "administrador": "true",
+            "_id": "0Vo6Vvr3BNu7h8j1"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Usuario Test 1778696711453",
+            "email": "user_1778696711453@qatest.com",
+            "password": "Senha@1778696711453",
+            "administrador": "true",
+            "_id": "1U0V1gDq0Drb2GRu"
+        },
+        {
+            "nome": "Eu QA Brenon Pereira - TESTE",
+            "email": "eu-qa-teste@eu-qa.com.br",
+            "password": "teste2",
+            "administrador": "true",
+            "_id": "2ZLgxJvLxeCJeOI5"
+        },
+        {
+            "nome": "Eu QA Gustavo Machado",
+            "email": "eu-qa-2@eu-qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "2kxrfNiTlphqZZG4"
+        },
+        {
+            "nome": "teste123",
+            "email": "test_1778700942855@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "5NDMNInDl8Z1V60e"
+        },
+        {
+            "nome": "TestUser2",
+            "email": "testuser2@example.com",
+            "password": "password123",
+            "administrador": "false",
+            "_id": "5VYP3TrWp87DWGye"
+        },
+        {
+            "nome": "teste123",
+            "email": "test_1778700921385@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "5qTu4cbIAZ8qE8SO"
+        },
+        {
+            "nome": "Luiz Carlos",
+            "email": "luizanjos@yahoo0.com",
+            "password": "12345678",
+            "administrador": "true",
+            "_id": "6O1v54reF4s6Hbxm"
+        },
+        {
+            "nome": "Usuario Test 1778696723389",
+            "email": "user_1778696723389@qatest.com",
+            "password": "Senha@1778696723389",
+            "administrador": "true",
+            "_id": "8LDV9ghAle9oLZw6"
+        },
+        {
+            "nome": "Adamastor",
+            "email": "Adamastor@qa.com.br",
+            "password": "admin",
+            "administrador": "true",
+            "_id": "9mv70x4tsZXHEgn1"
+        },
+        {
+            "nome": "Usuario Test 1778696455683",
+            "email": "user_1778696455683@qatest.com",
+            "password": "Senha@1778696455683",
+            "administrador": "true",
+            "_id": "BxQT26odRcviDzEM"
+        },
+        {
+            "nome": "Eu QA Gustavo Machado",
+            "email": "eu-qa-1@eu-qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "C5uDJ2bi0Uxri3M7"
+        },
+        {
+            "nome": "Usuario QA 440845}",
+            "email": "user_440845@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "FPARuqecUGewbNfO"
+        },
+        {
+            "nome": "Usuario Test 1778696718265",
+            "email": "user_1778696718265@qatest.com",
+            "password": "Senha@1778696718265",
+            "administrador": "true",
+            "_id": "HOoJ1tul8bhFjZ7j"
+        },
+        {
+            "nome": "TestUser12",
+            "email": "testuser12@example.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "HeCC0U6jmw3wQB9p"
+        },
+        {
+            "nome": "TestUser",
+            "email": "testuser@example.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "HycwhClrRC5edmWw"
+        },
+        {
+            "nome": "Nombre Actualizado 1778696710960",
+            "email": "updated_1778696710960@qatest.com",
+            "password": "NuevaSenha1778696710960",
+            "administrador": "false",
+            "_id": "I6eBpaAzeQ2pf7se"
+        },
+        {
+            "nome": "Usuario Test 1778696457984",
+            "email": "user_1778696457984@qatest.com",
+            "password": "Senha@1778696457984",
+            "administrador": "false",
+            "_id": "IEA72wX3T1KEDcH3"
+        },
+        {
+            "nome": "Eu QA Gustavo Machado",
+            "email": "eu-qa@eu-qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "JLsP5WcTnN7IFxnM"
+        },
+        {
+            "nome": "Eu QA Brenon Pereira - TESTE",
+            "email": "eu-qa-teste2@eu-qa.com.br",
+            "password": "teste2",
+            "administrador": "true",
+            "_id": "JXpdyR5pDtAHIAAK"
+        },
+        {
+            "nome": "Usuario Test 1778696716287",
+            "email": "user_1778696716287@qatest.com",
+            "password": "Senha@1778696716287",
+            "administrador": "true",
+            "_id": "KJkHVsYuSxXzGj2B"
+        },
+        {
+            "nome": "teste123",
+            "email": "test_1778701044623@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "NCCLVNw9jgGtTyBP"
+        },
+        {
+            "nome": "Teste ferramenta",
+            "email": "meuteste@testee.com",
+            "password": "teste22@",
+            "administrador": "true",
+            "_id": "NUW5zlM7K8BDPGJa"
+        },
+        {
+            "nome": "TestUser22",
+            "email": "testuser22@example.com",
+            "password": "password123",
+            "administrador": "false",
+            "_id": "Pnv7Mg7H6apxrDZu"
+        },
+        {
+            "nome": "Vanessa",
+            "email": "vanessa@devsquad.com",
+            "password": "PostTest26",
+            "administrador": "true",
+            "_id": "RAuVdFX4uJqgE9nO"
+        },
+        {
+            "nome": "Usuario Test 1778696717264",
+            "email": "user_1778696717264@qatest.com",
+            "password": "Senha@1778696717264",
+            "administrador": "true",
+            "_id": "SF7J94pY8zDAhUMx"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "T4caUoGHEzZXW72P"
+        },
+        {
+            "nome": "Luiz Carlos Giachello dos Anjos",
+            "email": "luizanjos88@yahoo.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "UdAbOZFbGy4CPh3C"
+        },
+        {
+            "nome": "Maria Eduarda",
+            "email": "mariaeduardaferrreiragomes2021@gmail.com",
+            "password": "Mariaeduarda",
+            "administrador": "true",
+            "_id": "VcUZ4Hl796FMHPWy"
+        },
+        {
+            "nome": "Thiago Cascaes",
+            "email": "thiago@qa.com.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "WHy8peaiQU2SVEGp"
+        },
+        {
+            "nome": "Usuario Test 1778696712320",
+            "email": "user_1778696712320@qatest.com",
+            "password": "Senha@1778696712320",
+            "administrador": "true",
+            "_id": "WRR9rN3OS2qR6BVn"
+        },
+        {
+            "nome": "Eu QA Brenon Pereira",
+            "email": "eu-qa@eu--qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "XPe2MVQhQQdM7kie"
+        },
+        {
+            "nome": "Upsert User 1778696452207",
+            "email": "upsert_1778696452207@qatest.com",
+            "password": "Senha123",
+            "administrador": "false",
+            "_id": "ZUAZxsohKrGuA9iq"
+        },
+        {
+            "nome": "Brenon Pereira",
+            "email": "brenonpereira_qa@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "bWUlr7BBcLep5K5U"
+        },
+        {
+            "nome": "TestUser1",
+            "email": "testuser1@example.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "bm04QdfAcePhcYlz"
+        },
+        {
+            "nome": "Otro User",
+            "email": "otro_1778696454200@qatest.com",
+            "password": "Senha123",
+            "administrador": "false",
+            "_id": "cE7nIJNUl6GJSYXo"
+        },
+        {
+            "nome": "Upsert User 1778696711883",
+            "email": "upsert_1778696711883@qatest.com",
+            "password": "Senha123",
+            "administrador": "false",
+            "_id": "cXJgImHV1Anvgb8s"
+        },
+        {
+            "nome": "Eu QA Brenon Pereira",
+            "email": "brenonpereira-qa@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "cdBPhlVOCF7rdJ7R"
+        },
+        {
+            "nome": "Usuario Test 1778696715319",
+            "email": "user_1778696715319@qatest.com",
+            "password": "Senha@1778696715319",
+            "administrador": "true",
+            "_id": "ckNa1wb6GiQ7bavk"
+        },
+        {
+            "nome": "testeponto",
+            "email": "testpon@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "dJoarEc7rqC71qXh"
+        },
+        {
+            "nome": "Usuario Test 1778696714339",
+            "email": "user_1778696714339@qatest.com",
+            "password": "Senha@1778696714339",
+            "administrador": "true",
+            "_id": "gnN4LiHsN6aDYXLf"
+        },
+        {
+            "nome": "teste123",
+            "email": "test_1778700682982@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "gnaMihDFqSTEux8l"
+        },
+        {
+            "nome": "teste123",
+            "email": "test_1778700756803@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "hVHzSQ16eplGIvAK"
+        },
+        {
+            "nome": "Nombre Actualizado 1778696451158",
+            "email": "updated_1778696451158@qatest.com",
+            "password": "NuevaSenha1778696451158",
+            "administrador": "false",
+            "_id": "i8op75wucBagZxwA"
+        },
+        {
+            "nome": "Usuario Test 1778696452672",
+            "email": "user_1778696452672@qatest.com",
+            "password": "Senha@1778696452672",
+            "administrador": "true",
+            "_id": "jRSpx6ckeF7QTqi1"
+        },
+        {
+            "nome": "Usuario Test 1778696456569",
+            "email": "user_1778696456569@qatest.com",
+            "password": "Senha@1778696456569",
+            "administrador": "true",
+            "_id": "kJCzvuSeNDSq5ixV"
+        },
+        {
+            "nome": "test1",
+            "email": "abc@de.com",
+            "password": "aet",
+            "administrador": "true",
+            "_id": "nfpKtwm4nz3ErM6l"
+        },
+        {
+            "nome": "Luiz Carlos",
+            "email": "luizanjos@yahoo.com",
+            "password": "1234567",
+            "administrador": "true",
+            "_id": "obqvfrmbt1H9HgR2"
+        },
+        {
+            "nome": "Usuario Test 1778696717704",
+            "email": "user_1778696717704@qatest.com",
+            "password": "Senha@1778696717704",
+            "administrador": "false",
+            "_id": "qAtv4Det1T075cO4"
+        },
+        {
+            "nome": "Usuario Test 1778696458417",
+            "email": "user_1778696458417@qatest.com",
+            "password": "Senha@1778696458417",
+            "administrador": "true",
+            "_id": "rJd5hllFowOnrTKL"
+        },
+        {
+            "nome": "Eu QA Brenon Pereira",
+            "email": "brenonqa@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "ra3FbMQkbffyjNvz"
+        },
+        {
+            "nome": "Eu QA Brenon Pereira",
+            "email": "brenonqa2@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "t1JJAszBHmdljre0"
+        },
+        {
+            "nome": "teste123",
+            "email": "test_1778701692838@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "vWcew8Noz3MPgiaP"
+        },
+        {
+            "nome": "Otro User",
+            "email": "otro_1778696713763@qatest.com",
+            "password": "Senha123",
+            "administrador": "false",
+            "_id": "wyb2afkQ5z4W8yOe"
+        },
+        {
+            "nome": "Usuario Test 1778696457545",
+            "email": "user_1778696457545@qatest.com",
+            "password": "Senha@1778696457545",
+            "administrador": "true",
+            "_id": "ytm1rQStHTQ7lkma"
+        },
+        {
+            "nome": "Usuario Test 1778696464262",
+            "email": "user_1778696464262@qatest.com",
+            "password": "Senha@1778696464262",
+            "administrador": "true",
+            "_id": "yxaS6OTgjZ3nmK4E"
+        },
+        {
+            "nome": "Mickey",
+            "email": "carol.bailey@hotmail.com",
+            "password": "ry1m62sn82t4rg6",
+            "administrador": "true",
+            "_id": "zsIT1MwV4ts5Woi4"
+        }
+    ]
+}
