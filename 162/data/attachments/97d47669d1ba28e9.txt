@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=b596a06de3d3b4a4a1ea686840db0755
+date=Wed, 13 May 2026 14:22:08 GMT
+server=Google Frontend
+Content-Length=165
+Body: {
+    "nome": "Hora do QA",
+    "email": "horadoqa_1778681046924@qa.com.br",
+    "password": "1q2w3e4r",
+    "administrador": "true",
+    "_id": "0bKuUzCHqobPY3vW"
+}
