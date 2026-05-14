@@ -1,0 +1,53 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=39ac2b57d2f0073b3b055339583cf677
+date=Thu, 14 May 2026 21:06:15 GMT
+server=Google Frontend
+Content-Length=1120
+Body: {
+    "quantidade": 5,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Victor Teste",
+            "email": "victor@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "As51MuT0Pxbl6v2z"
+        },
+        {
+            "nome": "Murilo Vinicius Silva",
+            "email": "murilo@gmail.com.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "M4AgulIQ18iB8fyI"
+        },
+        {
+            "nome": "Murilo Vinicius Silva",
+            "email": "murilo123@gmail.com.br",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "RfDZ13t7veXbt3yJ"
+        },
+        {
+            "nome": "Theresa",
+            "email": "charita.conn@hotmail.com",
+            "password": "2qdkn44od7v",
+            "administrador": "true",
+            "_id": "SNbdK2nYeXrweHnv"
+        }
+    ]
+}
