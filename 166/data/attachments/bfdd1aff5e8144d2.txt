@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=7388dd1e45a1b9643605bcda23478fef
+date=Fri, 15 May 2026 13:55:40 GMT
+server=Google Frontend
+Content-Length=169
+Body: {
+    "nome": "Srta. César Vasques",
+    "email": "roberta.dasneves@live.com",
+    "password": "Senha@123",
+    "administrador": "true",
+    "_id": "070t6IOs6R3EGpJ2"
+}
