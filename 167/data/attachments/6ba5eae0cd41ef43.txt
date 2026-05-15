@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=4ca6de8ea32e9b31d258441fa965b85a
+date=Fri, 15 May 2026 20:57:07 GMT
+server=Google Frontend
+Content-Length=165
+Body: {
+    "nome": "Melina Moreira",
+    "email": "maria-alice41@example.org",
+    "password": "%7##_Ncg(M",
+    "administrador": "false",
+    "_id": "0cw64bKEbKYGsYBv"
+}
