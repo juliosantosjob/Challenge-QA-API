@@ -1,0 +1,81 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=9eddb200f5ba6e4ed3b74aa666a6443c
+date=Tue, 19 May 2026 21:15:59 GMT
+server=Google Frontend
+Content-Length=2063
+Body: {
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "usuario 7423",
+            "email": "usuariotemporal3081@alexis.com",
+            "password": "contrasenia2136",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Teste Danilo",
+            "email": "daniloteste@gmail.com",
+            "password": "123",
+            "administrador": "false",
+            "_id": "89CzxGKOGeRDKX7O"
+        },
+        {
+            "nome": "Teste Cypress 1779225254342",
+            "email": "testecy1779225254342@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "FAHUWO3QV7VRRdoQ"
+        },
+        {
+            "nome": "Alejandro",
+            "email": "alonso.kuhic@hotmail.com",
+            "password": "hw6v8y33uzmgoq",
+            "administrador": "true",
+            "_id": "KPBb3YqhyMAXibDI"
+        },
+        {
+            "nome": "Teste Cypress",
+            "email": "testecy@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "VeT9OIyMZFpR9Yl1"
+        },
+        {
+            "nome": "usuario 9821",
+            "email": "usuariotemporal2812@alexis.com",
+            "password": "contrasenia3187",
+            "administrador": "true",
+            "_id": "WOCgr5PpPgQFYznR"
+        },
+        {
+            "nome": "Ana Paula",
+            "email": "anna.kurt@hotmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "axIlfq2YpCROr7Pp"
+        },
+        {
+            "nome": "Teste Cypress 1779225238384",
+            "email": "testecy1779225238384@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "qaS9Z79dnTU0dmiD"
+        },
+        {
+            "nome": "Teste Cypress 1779225247024",
+            "email": "testecy1779225247024@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "tfbMXIJJkTX0h0ji"
+        }
+    ]
+}
