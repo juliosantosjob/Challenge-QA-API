@@ -1,0 +1,60 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=5fa468c4edf9d6b22dd7642dc91f06b1
+date=Wed, 20 May 2026 14:51:56 GMT
+server=Google Frontend
+Content-Length=1302
+Body: {
+    "quantidade": 6,
+    "usuarios": [
+        {
+            "nome": "Cyrus",
+            "email": "marlin.anderson@gmail.com",
+            "password": "2vwyrxgi",
+            "administrador": "true",
+            "_id": "0Ly7mrSZjXmttO3O"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Maiza Wala",
+            "email": "llawala@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "l3DkB8bbhGFACuVk"
+        },
+        {
+            "nome": "Irwin.Renner",
+            "email": "Alysson_Batz19@yahoo.com",
+            "password": "184022884",
+            "administrador": "true",
+            "_id": "roCX09bwJ22yszDc"
+        },
+        {
+            "nome": "Marcos",
+            "email": "Marcos@gmail.com",
+            "password": "010203",
+            "administrador": "true",
+            "_id": "thh698KCOsCW7A2u"
+        },
+        {
+            "nome": "Sally99",
+            "email": "Bret_Kozey11@hotmail.com",
+            "password": "263340532",
+            "administrador": "true",
+            "_id": "uDxSrSQoWDtOeZO5"
+        }
+    ]
+}

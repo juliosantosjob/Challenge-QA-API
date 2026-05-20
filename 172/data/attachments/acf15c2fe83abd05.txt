@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=27db9690bb6aa1bfff255d868c22f6a8
+date=Wed, 20 May 2026 14:51:56 GMT
+server=Google Frontend
+Content-Length=153
+Body: {
+    "nome": "Cyrus",
+    "email": "marlin.anderson@gmail.com",
+    "password": "2vwyrxgi",
+    "administrador": "true",
+    "_id": "0Ly7mrSZjXmttO3O"
+}
