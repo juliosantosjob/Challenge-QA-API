@@ -1,0 +1,116 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=0654084aeb9719eda84b125f5e1f8cd8
+date=Wed, 20 May 2026 21:48:24 GMT
+server=Google Frontend
+Content-Length=3081
+Body: {
+    "quantidade": 14,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Deon",
+            "email": "jerold.hills@yahoo.com",
+            "password": "sstni91h",
+            "administrador": "true",
+            "_id": "1zbgGZsTXkcBRlJx"
+        },
+        {
+            "nome": "Usuario Teste API",
+            "email": "qa_7367@serverest.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "3uah0Z41FAfZy9ac"
+        },
+        {
+            "nome": "Ana Paula",
+            "email": "denise65@example.org",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "3ycqMwqZiM5Wwn8L"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "86TOiFGHrm4jVwrF"
+        },
+        {
+            "nome": "Usuario Atualizado",
+            "email": "qa_2488@serverest.com",
+            "password": "novasenha123",
+            "administrador": "true",
+            "_id": "C8TDm1Zjht8jksNi"
+        },
+        {
+            "nome": "Testin",
+            "email": "teste3@testando.com.br",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "KbzPK8IJ0aPGvG1n"
+        },
+        {
+            "nome": "teste",
+            "email": "testeoo@te.com.br",
+            "password": "123",
+            "administrador": "false",
+            "_id": "OaPVD4e37F8m2DB3"
+        },
+        {
+            "nome": "Ana Paula",
+            "email": "amanda30@example.org",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "R4YDdsAhMUO4UBSC"
+        },
+        {
+            "nome": "Testin",
+            "email": "teste1@testando.com.br",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "RwojklHp9qsdalzq"
+        },
+        {
+            "nome": "Usuario Carrinho Teste",
+            "email": "qa_1744@serverest.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "SAImsNXsLSQiwEb0"
+        },
+        {
+            "nome": "QA User 1779313137388",
+            "email": "qa.user.1779313137388@qa.com.br",
+            "password": "{{senha_usuario}}",
+            "administrador": "true",
+            "_id": "hQ8x0oCOLCKEsaiF"
+        },
+        {
+            "nome": "Usuario Inexistente Atualizado",
+            "email": "qa_8052@serverest.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "mQjs7mAWCZfg8Mwj"
+        },
+        {
+            "nome": "QA User 1779313195470",
+            "email": "qa.user.1779313195470@qa.com.br",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "muS14bGsIA7ErzjB"
+        }
+    ]
+}
