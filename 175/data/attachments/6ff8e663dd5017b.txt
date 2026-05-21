@@ -1,0 +1,151 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=b150c7d6d0a22a7873ba91e4bdba9f9c
+date=Thu, 21 May 2026 21:24:53 GMT
+server=Google Frontend
+Content-Length=4176
+Body: {
+    "quantidade": 19,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Max Maggio",
+            "email": "Rebeca27@gmail.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "1cELns7s59Gjt64F"
+        },
+        {
+            "nome": "Murilo Vinicius Silva",
+            "email": "murilo@gmail.com.br",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "4A4pIQmKOB1wFbbg"
+        },
+        {
+            "nome": "Chloe Wolf",
+            "email": "Marcella.Reinger82@hotmail.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "DLAmO0YAy6Q46obd"
+        },
+        {
+            "nome": "Francisca Marvin",
+            "email": "Glenda.Hoppe@hotmail.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "GF6OrVbKUHrnyGXB"
+        },
+        {
+            "nome": "Earnest Wolff PhD",
+            "email": "Fern_Hegmann-Kshlerin9@hotmail.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "MnHR3eIUc4dZjxxP"
+        },
+        {
+            "nome": "Stan Lemke",
+            "email": "Marcus16@yahoo.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "Q6qqMueklDE5tBJZ"
+        },
+        {
+            "nome": "Wilma Cummings III",
+            "email": "Madie_Jones@hotmail.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "RGfLbjek7PYNbYwx"
+        },
+        {
+            "nome": "Jhoni",
+            "email": "jhonicromao@gmail.com",
+            "password": "jhoni_teste@123",
+            "administrador": "true",
+            "_id": "Z2l2JYQPNngEiTjT"
+        },
+        {
+            "nome": "Destiny Lebsack",
+            "email": "Clyde.Bauch62@yahoo.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "ZK6hiwD15NpRdlSG"
+        },
+        {
+            "nome": "Devyn Doyle",
+            "email": "Thomas.Roberts@yahoo.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "aM23RtmMXZiblAvZ"
+        },
+        {
+            "nome": "Bethany Mann",
+            "email": "Collin73@gmail.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "hAa6wjZvmb9SEeyY"
+        },
+        {
+            "nome": "Dario Harris",
+            "email": "Leticia65@hotmail.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "iFQyqjwT6b6e824J"
+        },
+        {
+            "nome": "Fatima caixa ",
+            "email": "tecnico@qa.com",
+            "password": "teste02",
+            "administrador": "true",
+            "_id": "muVrOPnyDY3d8bmp"
+        },
+        {
+            "nome": "Mia Torp",
+            "email": "Shawn.Pagac57@hotmail.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "qDPjaazRu8Xkw1cI"
+        },
+        {
+            "nome": "Mable Walsh",
+            "email": "Maryann.Olson61@gmail.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "s0IzD3p9sOQWnSka"
+        },
+        {
+            "nome": "Murilo Vinicius Silva",
+            "email": "murilo123@gmail.com.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "wKUEuH9xe4gT7DfD"
+        },
+        {
+            "nome": "Samanta Morissette",
+            "email": "Mamie.Kerluke68@hotmail.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "xhlS4UPMPxNPLsQl"
+        },
+        {
+            "nome": "Edna",
+            "email": "lannie.weissnat@yahoo.com",
+            "password": "7hg2u0kb4",
+            "administrador": "true",
+            "_id": "zl7DpIbf0Azsi9CW"
+        }
+    ]
+}
