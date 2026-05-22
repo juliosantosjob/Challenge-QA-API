@@ -1,0 +1,459 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=3c611571b1972da634ad13e39a14a03c
+date=Fri, 22 May 2026 21:06:04 GMT
+server=Google Frontend
+Content-Length=14444
+Body: {
+    "quantidade": 63,
+    "usuarios": [
+        {
+            "nome": "Fulano Alterado",
+            "email": "alterado1779482238547@qa.com",
+            "password": "novaSenha123",
+            "administrador": "true",
+            "_id": "05C8js7tHTeyCAKC"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Teste Cypress 1779482562603",
+            "email": "testecy1779482562603@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "1bc98aT3OPJAFOZ7"
+        },
+        {
+            "nome": "Teste Cypress 1779482973234",
+            "email": "testecy1779482973234@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "3Les5DDzrMzi0aE0"
+        },
+        {
+            "nome": "Myah",
+            "email": "Trystan.Kilback@gmail.com",
+            "password": "4OrhE5bxD9OwK0g",
+            "administrador": "true",
+            "_id": "3lzI35rIYtsHZwBU"
+        },
+        {
+            "nome": "Teste Cypress 1779483564712",
+            "email": "testecy1779483564712@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "4vOvRS8oVwl8GFcD"
+        },
+        {
+            "nome": "Kurtis",
+            "email": "shannan.sporer@hotmail.com",
+            "password": "ed7dfpji",
+            "administrador": "true",
+            "_id": "5cX2tA1t83nTMwhV"
+        },
+        {
+            "nome": "Drema Wiza",
+            "email": "maud.morar@yahoo.com",
+            "password": "El*rQHSu2CCkZOmtN#l",
+            "administrador": "true",
+            "_id": "7LeEGekrRGnTILRB"
+        },
+        {
+            "nome": "Teste Cypress 1779483525560",
+            "email": "testecy1779483525560@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "8LNjH88MXaYJNrah"
+        },
+        {
+            "nome": "Teste Cypress 1779483154491",
+            "email": "testecy1779483154491@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "8NGEAb1OXOWpN1hh"
+        },
+        {
+            "nome": "Teste Cypress 1779482431562",
+            "email": "testecy1779482431562@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "9aGqsa3qvNDGUqWy"
+        },
+        {
+            "nome": "Teste Cypress 1779483082227",
+            "email": "testecy1779483082227@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "AA4ZeufM51aoIQzo"
+        },
+        {
+            "nome": "Teste Cypress 1779482500643",
+            "email": "testecy1779482500643@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "ActmjtvKmAxYTQda"
+        },
+        {
+            "nome": "usernameexistente",
+            "email": "Testecc1779483025646@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "AkwDk9JTlgL5qZ6Q"
+        },
+        {
+            "nome": "Fatima caixa ",
+            "email": "fatimacaixa02@qa.com",
+            "password": "caixa02",
+            "administrador": "true",
+            "_id": "AudgT2VNoMhW6Fqu"
+        },
+        {
+            "nome": "Teste Cypress 1779482998089",
+            "email": "testecy1779482998089@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "BFf1FnYEQd1cbHWW"
+        },
+        {
+            "nome": "Leopoldo Kuhic",
+            "email": "teodoro.kris@gmail.com",
+            "password": "mC@q9NB&FDX8Q",
+            "administrador": "true",
+            "_id": "BKATqSRB99ddjS6H"
+        },
+        {
+            "nome": "Teste Cypress 1779483855554",
+            "email": "testecy1779483855554@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "BlbEXZP1TuJAY71W"
+        },
+        {
+            "nome": "TESTE QA NOVO",
+            "email": "teste@qa.com.br",
+            "password": "senha",
+            "administrador": "true",
+            "_id": "Bv2viCx3THgRl2eD"
+        },
+        {
+            "nome": "Teste Cypress 1779483341734",
+            "email": "testecy1779483341734@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "DOvpsgf0m60kpG6a"
+        },
+        {
+            "nome": "Teste Cypress 1779482922196",
+            "email": "testecy1779482922196@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "EzIQSczYkKyzFuas"
+        },
+        {
+            "nome": "asd",
+            "email": "asd@email.com",
+            "password": "12334",
+            "administrador": "true",
+            "_id": "FzqREITUbIMzyeGF"
+        },
+        {
+            "nome": "Lelah",
+            "email": "Jacky.Wintheiser@yahoo.com",
+            "password": "sN13QtgYRnn9d5v",
+            "administrador": "true",
+            "_id": "GAg7UjnswpX8hNXC"
+        },
+        {
+            "nome": "usernameexistente",
+            "email": "Testecc1779483049905@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "HJYs8l0mGy5qyn5d"
+        },
+        {
+            "nome": "Teste Cypress 1779482978836",
+            "email": "testecy1779482978836@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "HijZxzOSuBFgHMrp"
+        },
+        {
+            "nome": "Teste Cypress 1779481699485",
+            "email": "emailexist@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "HpWsnuY8eeWluIVt"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "usuario1779482242020@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "IBjXSA75KKCvH8IV"
+        },
+        {
+            "nome": "Teste Cypress 1779483064524",
+            "email": "testecy1779483064524@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "KsxH9Jb7R4FhZHLR"
+        },
+        {
+            "nome": "Teste Cypress 1779483045480",
+            "email": "testecy1779483045480@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "LzpTjouifhOQwpPL"
+        },
+        {
+            "nome": "Teste Cypress 1779482884048",
+            "email": "testecy1779482884048@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "ObVUSmRvVF5dCruz"
+        },
+        {
+            "nome": "Teste Cypress 1779483405170",
+            "email": "testecy1779483405170@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "PQK5CZAYWrI1vCLQ"
+        },
+        {
+            "nome": "Lizandra Pontes",
+            "email": "user1755@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "QfRjfBEOm0Y3vi8u"
+        },
+        {
+            "nome": "Teste Cypress 1779482711743",
+            "email": "testecy1779482711743@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "R7808PjMmq2OaUZy"
+        },
+        {
+            "nome": "Chet",
+            "email": "Vergie29@yahoo.com",
+            "password": "UzkAutdu9CghKk5",
+            "administrador": "true",
+            "_id": "RAtZfM5yRgH25cJx"
+        },
+        {
+            "nome": "Teste Cypress 1779482387902",
+            "email": "testecy1779482387902@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Riwt5KpPRtCu3t9P"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "usuario1779482267424@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "RoaSR69J8KN6Teny"
+        },
+        {
+            "nome": "Lizandra Pontes",
+            "email": "user9589@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "S97T7Z8VFKsvkC0C"
+        },
+        {
+            "nome": "Teste Cypress 1779483038267",
+            "email": "testecy1779483038267@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Ss6xw5iGlEIYnPD3"
+        },
+        {
+            "nome": "Teste Cypress 1779483696782",
+            "email": "testecy1779483696782@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "W5RnIv439lcBIkjU"
+        },
+        {
+            "nome": "Teste Cypress 1779483398598",
+            "email": "testecy1779483398598@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Yx2Ao97nuHwDaSaP"
+        },
+        {
+            "nome": "usernameexistente",
+            "email": "Testecc1779481705721@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "bnJYf8KeVr1NozPA"
+        },
+        {
+            "nome": "Teste Cypress 1779482687988",
+            "email": "testecy1779482687988@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "c9z7UfKLnyKtL3E6"
+        },
+        {
+            "nome": "Teste Cypress 1779481695098",
+            "email": "testecy1779481695098@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "cfYY0cpJnGbVYzj2"
+        },
+        {
+            "nome": "Teste Cypress 1779483394048",
+            "email": "testecy1779483394048@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "cndoahIJCMzx9tI1"
+        },
+        {
+            "nome": "Teste Cypress 1779482991136",
+            "email": "testecy1779482991136@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "eMLkBfKvmthKHDO5"
+        },
+        {
+            "nome": "Teste Cypress 1779482795005",
+            "email": "testecy1779482795005@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "eaQfy7M0psTBc4wE"
+        },
+        {
+            "nome": "Teste Cypress 1779482408121",
+            "email": "testecy1779482408121@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "iE7MSuCmrb77i0ZY"
+        },
+        {
+            "nome": "Teste Cypress 1779482477586",
+            "email": "testecy1779482477586@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "iFpyPMB1IeVl41rr"
+        },
+        {
+            "nome": "Devante",
+            "email": "Alvera.Braun@gmail.com",
+            "password": "dfMJ8SrzwqTBznq",
+            "administrador": "true",
+            "_id": "jxJrz1sUxKXvlYjQ"
+        },
+        {
+            "nome": "Preston",
+            "email": "Rahul.Ondricka@hotmail.com",
+            "password": "Uv2y41b75z0kOMr",
+            "administrador": "true",
+            "_id": "k475lMy9q6iMbiz8"
+        },
+        {
+            "nome": "Teste Cypress 1779483546038",
+            "email": "testecy1779483546038@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "kNMi69ikJr0NeZz3"
+        },
+        {
+            "nome": "Teste Cypress 1779483247048",
+            "email": "testecy1779483247048@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "loaY1pZoRjDZSZYi"
+        },
+        {
+            "nome": "Eladio",
+            "email": "Quinn_Zieme@gmail.com",
+            "password": "67gHGpW9cvnx2gO",
+            "administrador": "true",
+            "_id": "nIqgIXkoglblJk8A"
+        },
+        {
+            "nome": "Teste Cypress 1779482602846",
+            "email": "testecy1779482602846@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "nQ5zyEQwA9wAHOlr"
+        },
+        {
+            "nome": "Jamaal",
+            "email": "Dorcas59@hotmail.com",
+            "password": "bSsmbeqjLtr59KH",
+            "administrador": "true",
+            "_id": "o1ZXrXRnehO1XpbP"
+        },
+        {
+            "nome": "Fulano Alterado",
+            "email": "alterado1779482261730@qa.com",
+            "password": "novaSenha123",
+            "administrador": "true",
+            "_id": "opEIimsGT1tP7n1v"
+        },
+        {
+            "nome": "usernameexistente",
+            "email": "Testecc1779482983435@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "qNghYjEwDe8TIfrS"
+        },
+        {
+            "nome": "Teste Cypress 1779483634781",
+            "email": "testecy1779483634781@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "sdkSGIaqnxG2VN1F"
+        },
+        {
+            "nome": "terecoteco45",
+            "email": "jondiroxana@hotmail.com",
+            "password": "291973906Iba",
+            "administrador": "false",
+            "_id": "vKXdQpo9wzyiQdnB"
+        },
+        {
+            "nome": "Teste Cypress 1779483057619",
+            "email": "testecy1779483057619@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "vXn0S1uPOaYyD9WE"
+        },
+        {
+            "nome": "Teste Cypress 1779483903251",
+            "email": "testecy1779483903251@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "x4BaAkmPMhg7eGsy"
+        },
+        {
+            "nome": "Teste Cypress 1779482590366",
+            "email": "testecy1779482590366@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "xlRGAMWp8sCPLqss"
+        },
+        {
+            "nome": "Teste Cypress 1779482347946",
+            "email": "testecy1779482347946@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "zMBwNj6BoZPWiOkZ"
+        }
+    ]
+}
