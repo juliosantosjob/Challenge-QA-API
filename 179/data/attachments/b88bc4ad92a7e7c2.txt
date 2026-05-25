@@ -1,0 +1,116 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=9d25042d12b20c91b7ce2c5ca41ea8f6
+date=Mon, 25 May 2026 21:01:38 GMT
+server=Google Frontend
+Content-Length=3155
+Body: {
+    "quantidade": 14,
+    "usuarios": [
+        {
+            "nome": "Leia Teixeira",
+            "email": "leia@gato.com",
+            "password": "gatinha",
+            "administrador": "true",
+            "_id": "0mCfDkDoQOQco50c"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Usuario Prueba",
+            "email": "usuarioCorreo_1779742462698@correo.com",
+            "password": "prueba123",
+            "administrador": "true",
+            "_id": "DAY05sL8p6FMxYrr"
+        },
+        {
+            "nome": "Agustin",
+            "email": "terrence.koelpin@yahoo.com",
+            "password": "jmns0zftn1",
+            "administrador": "true",
+            "_id": "STR9QESLSaWESzSY"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "email": "actualizarCorreo_1779742464562@correo.com",
+            "password": "nuevaPass123",
+            "administrador": "false",
+            "_id": "TfxhwCbvThJhIJse"
+        },
+        {
+            "nome": "Usuario Dos",
+            "email": "dos_1779742465749@correo.com",
+            "password": "prueba123",
+            "administrador": "false",
+            "_id": "UXt8QmGCEZA72tbo"
+        },
+        {
+            "nome": "Usuario Buscar",
+            "email": "buscarCorreo_1779742458376@correo.com",
+            "password": "prueba123",
+            "administrador": "true",
+            "_id": "WP3tQ2zSXAhrMOLD"
+        },
+        {
+            "nome": "Usuario Nuevo Via PUT",
+            "email": "nuevoCorreoPut1779742467572@correo.com",
+            "password": "prueba123",
+            "administrador": "false",
+            "_id": "X55enyuSjusNgMZX"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "pcuk@emailteste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "ZMs36OQRjfEiCwQV"
+        },
+        {
+            "nome": "Usuario Uno",
+            "email": "uno_1779742465747@correo.com",
+            "password": "prueba123",
+            "administrador": "true",
+            "_id": "beaxdYGV6oTue7Jg"
+        },
+        {
+            "nome": "Vitor Felipe Carrasco",
+            "email": "vitorcomum@gmail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "cFmqCZpSCjWQApoW"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "fu64FEjKu63kAL6H"
+        },
+        {
+            "nome": "Vitor Felipe Carrasco",
+            "email": "vitoradmin@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "gUasZ6XMe7GQllBu"
+        },
+        {
+            "nome": "Karla Koch",
+            "email": "Cristian_Goldner10@yahoo.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "q3tWlHoTvByk9gPQ"
+        }
+    ]
+}
