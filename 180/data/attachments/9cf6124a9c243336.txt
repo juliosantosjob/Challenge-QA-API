@@ -1,0 +1,158 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=d334313a2cbf297ce094e12d53f1d07a
+date=Tue, 26 May 2026 14:57:48 GMT
+server=Google Frontend
+Content-Length=4743
+Body: {
+    "quantidade": 20,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Anthony CRUDE",
+            "email": "user_c2a1212a-75e3-426b-a8e3-9bc15148a467@example.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "BVFajNM9xkm5ztzR"
+        },
+        {
+            "nome": "Anthony CRUDE",
+            "email": "user_12316f7b-8380-45c5-bff6-4acf2b6d08f4@example.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "DHLyGxP2kggrUS56"
+        },
+        {
+            "nome": "Anthony CRUDE",
+            "email": "user_f7d312a7-4a77-4556-b70d-ca3496bfcbbc@example.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "EnOXGELbZdUE0Mil"
+        },
+        {
+            "nome": "Anthony CRUDE",
+            "email": "user_3fa6f6f9-a696-4e91-aef8-9d0c815d5765@example.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "Frjyz7QirOh1iFEU"
+        },
+        {
+            "nome": "Brandon.OReilly36",
+            "email": "Bobby_McDermott5@hotmail.com",
+            "password": "964371261",
+            "administrador": "true",
+            "_id": "HxKRc8umtIRHW7eG"
+        },
+        {
+            "nome": "Anthony crud",
+            "email": "user_c980c524-c6ce-42e0-a305-79dc88759b25@example.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "IUZoVt7ENE9ofemv"
+        },
+        {
+            "nome": "Cornelius",
+            "email": "creola.stroman@hotmail.com",
+            "password": "yii8npcvj4n",
+            "administrador": "true",
+            "_id": "L76mY6mhoM2LVARW"
+        },
+        {
+            "nome": "Conta Teste K",
+            "email": "Ctk@gmail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "NJexGtn62ZCP1us7"
+        },
+        {
+            "nome": "Anthony CRUDE",
+            "email": "user_ced3cd7c-7103-4b65-af78-eaf10368b999@example.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "TlvG4jWwJwMSUp0m"
+        },
+        {
+            "nome": "Nolan_Kemmer32",
+            "email": "Rocio.Kohler66@hotmail.com",
+            "password": "708594017",
+            "administrador": "true",
+            "_id": "WUKjx95QTrnQwxh0"
+        },
+        {
+            "nome": "Anthony CRUDE",
+            "email": "user_330d16a9-2041-48fa-8bbc-ee31f23882c4@example.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "X96SPwwaJOgL2ALG"
+        },
+        {
+            "nome": "Reyna.Ritchie2",
+            "email": "Willy64@yahoo.com",
+            "password": "886075799",
+            "administrador": "true",
+            "_id": "XeuKE7xdCfAlshZl"
+        },
+        {
+            "nome": "Anthony crud",
+            "email": "user_1f7ad66f-62fa-4981-8de6-797bfbee3168@example.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "dABbmCi72eboRhSA"
+        },
+        {
+            "nome": "Keeley5",
+            "email": "Nayeli_Bergstrom@hotmail.com",
+            "password": "333223523",
+            "administrador": "true",
+            "_id": "e1ngDnleDYTriiv3"
+        },
+        {
+            "nome": "Micheal.Sporer54",
+            "email": "Joe.Baumbach56@hotmail.com",
+            "password": "878304013",
+            "administrador": "true",
+            "_id": "gzVLH5OT4GUh15UX"
+        },
+        {
+            "nome": "Anthony CRUDE",
+            "email": "user_98736674-c019-41cb-b3df-4b0d598a1350@example.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "lQDelkhntxo1wW0y"
+        },
+        {
+            "nome": "User Teste da silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "lR1YziU6k8VEimsG"
+        },
+        {
+            "nome": "Anthony crud",
+            "email": "user_1230cfce-534b-4b36-a3f3-560e315dfedf@example.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "qmsXFTZ6qC88Hhqa"
+        },
+        {
+            "nome": "Anthony crud",
+            "email": "user_bb012a78-fe17-4a42-8bcb-1dd6b15bd610@example.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "zCH2jWHWAWbANvcc"
+        }
+    ]
+}
