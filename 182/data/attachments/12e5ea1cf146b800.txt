@@ -1,0 +1,60 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=0b761a8e14560acd805d1b615c4fde26
+date=Wed, 27 May 2026 15:26:31 GMT
+server=Google Frontend
+Content-Length=1360
+Body: {
+    "quantidade": 6,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "usuario 2",
+            "email": "usuario2@gmail.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "2C9adbseibNgmcpL"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "email": "qa_4e1f30cc-2ec0-4740-a8e7-e55fe3a24e08@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "DeXcMdyhfEwxQi26"
+        },
+        {
+            "nome": "Cathy9",
+            "email": "Amber22@gmail.com",
+            "password": "345927277",
+            "administrador": "true",
+            "_id": "GqtLajGf6wFV3nMT"
+        },
+        {
+            "nome": "Aurelia.Konopelski-Borer88",
+            "email": "Emanuel_Beatty@hotmail.com",
+            "password": "020491757",
+            "administrador": "true",
+            "_id": "LGoqzCLXYCt0tGlw"
+        },
+        {
+            "nome": "Sharie",
+            "email": "ollie.blanda@hotmail.com",
+            "password": "4ajq6bolut",
+            "administrador": "true",
+            "_id": "XDx4e6xwZRyEVHad"
+        }
+    ]
+}
