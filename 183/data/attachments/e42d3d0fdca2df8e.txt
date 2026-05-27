@@ -1,0 +1,123 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=b0b9d1a732f904927115170b11ddde51
+date=Wed, 27 May 2026 21:50:47 GMT
+server=Google Frontend
+Content-Length=3463
+Body: {
+    "quantidade": 15,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Ana Silva",
+            "email": "ana.silva.1779913319628@example.com",
+            "password": "SenhaForte123!",
+            "administrador": "false",
+            "_id": "3lYcq8WRFVIwzIGW"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "email": "qa_d0f73122-9eff-449a-9243-8db1b9a0bfe1@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "7TviQFhszcKuWZqZ"
+        },
+        {
+            "nome": "Vitor Felipe Carrasco",
+            "email": "vitoradmin@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "7wh2R04XlAOoKvWl"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa_6d422d73-da9d-4891-ae6d-2ced5f22612a@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "EMjODdKAMjM4VAmC"
+        },
+        {
+            "nome": "Rich",
+            "email": "malena.hyatt@hotmail.com",
+            "password": "8c0fgdxbdfocwt",
+            "administrador": "true",
+            "_id": "FCnwXZiNvRp33hk5"
+        },
+        {
+            "nome": "Many LumeStack",
+            "email": "many123@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "IlyLpqi9ddfSnvBF"
+        },
+        {
+            "nome": "Ana Silva",
+            "email": "ana.silva.1779913464539@example.com",
+            "password": "SenhaForte123!",
+            "administrador": "false",
+            "_id": "RVTL11LRes3pIK81"
+        },
+        {
+            "nome": "Vitor Felipe Carrasco",
+            "email": "vitorcomum@gmail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "Rjn4PovTiapZ6OQv"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa_82b39860-460e-48f1-b47b-600ac56dc235@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "VReZ8M1RPKYtJRd2"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "email": "qa_917e03df-e670-4ef0-beb2-68e2bb1c33be@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "WJOdtj8gOejEJqZJ"
+        },
+        {
+            "nome": "Anthony First",
+            "email": "sdftestemail@google.com",
+            "password": "Password123",
+            "administrador": "true",
+            "_id": "WzHtmefjf1mRHF1J"
+        },
+        {
+            "nome": "Ana Silva",
+            "email": "ana.silva.1779913778351@example.com",
+            "password": "SenhaForte123!",
+            "administrador": "false",
+            "_id": "oZ07zlUq78hK3BzP"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa_d730c488-413e-4704-af63-abfd2ee6e4b1@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "tc6LUXN3gQPeia22"
+        },
+        {
+            "nome": "QA User",
+            "email": "qa_b29928c1-915f-461e-a0ea-5f76a5795c35@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "uAQeY3xR12rQUjwX"
+        }
+    ]
+}
