@@ -1,0 +1,109 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=60627b2d1a82cfa44ced8425101776b0
+date=Thu, 28 May 2026 15:39:16 GMT
+server=Google Frontend
+Content-Length=3002
+Body: {
+    "quantidade": 13,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "QA Admin Automation",
+            "email": "qa.admin.1779982576731@mail.com",
+            "password": "Teste@12345",
+            "administrador": "true",
+            "_id": "5QRMH3x8OnEVS6jR"
+        },
+        {
+            "nome": "QA Admin Automation",
+            "email": "qa.admin.1779982549759@mail.com",
+            "password": "Teste@12345",
+            "administrador": "true",
+            "_id": "J2dQOeQMl9X34i8m"
+        },
+        {
+            "nome": "Myra.Ankunding85",
+            "email": "Justus_Cole75@yahoo.com",
+            "password": "262286990",
+            "administrador": "true",
+            "_id": "MYj87xBiPFWKALfh"
+        },
+        {
+            "nome": "Anthony First",
+            "email": "sdftestemail@google.com",
+            "password": "Password123",
+            "administrador": "true",
+            "_id": "Pp4dlMHrhRTGQS2E"
+        },
+        {
+            "nome": "QA Customer Automation",
+            "email": "qa.customer.1779982546765@mail.com",
+            "password": "Teste@12345",
+            "administrador": "false",
+            "_id": "RwgjVeY2JtXaBcgC"
+        },
+        {
+            "nome": "Nettie_Cremin",
+            "email": "Kiley56@gmail.com",
+            "password": "844561168",
+            "administrador": "true",
+            "_id": "W67BVC4Wj13dBEwt"
+        },
+        {
+            "nome": "QA Admin Automation",
+            "email": "qa.admin.1779982563844@mail.com",
+            "password": "Teste@12345",
+            "administrador": "true",
+            "_id": "a1yLzQpWdNe6IXfp"
+        },
+        {
+            "nome": "QA Admin Automation",
+            "email": "qa.admin.1779982543079@mail.com",
+            "password": "Teste@12345",
+            "administrador": "true",
+            "_id": "bo5QFrEojOfIbTT2"
+        },
+        {
+            "nome": "Eleonora",
+            "email": "omer.dubuque@gmail.com",
+            "password": "9iseynf5ibmtd",
+            "administrador": "true",
+            "_id": "jBONCbMzUIiV4Mae"
+        },
+        {
+            "nome": "QA Admin Automation",
+            "email": "qa.admin.1779982546510@mail.com",
+            "password": "Teste@12345",
+            "administrador": "true",
+            "_id": "lq1hftu5jqJpnqc8"
+        },
+        {
+            "nome": "QA Admin Automation",
+            "email": "qa.admin.1779982557821@mail.com",
+            "password": "Teste@12345",
+            "administrador": "true",
+            "_id": "pHo85GehEkLxMJEJ"
+        },
+        {
+            "nome": "QA Admin Automation",
+            "email": "qa.admin.1779982543450@mail.com",
+            "password": "Teste@12345",
+            "administrador": "true",
+            "_id": "ywrFLzeNOiPM2hDk"
+        }
+    ]
+}
