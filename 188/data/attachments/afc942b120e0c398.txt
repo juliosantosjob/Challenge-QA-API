@@ -1,0 +1,669 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=a32452d1253c330f6322a77de868ea2f
+date=Mon, 01 Jun 2026 17:29:28 GMT
+server=Google Frontend
+Content-Length=21189
+Body: {
+    "quantidade": 93,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Usuario VADER 4086e424",
+            "email": "vader.4086e424@serverest.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "1KJctAEDmHPsqD2i"
+        },
+        {
+            "nome": "Usuario VADER 603ae267",
+            "email": "vader.603ae267@serverest.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "1ut41Wemj3F2RFFi"
+        },
+        {
+            "nome": "Usuario VADER 39630cd8",
+            "email": "vader.39630cd8@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "2Hmy8tcres4WJZNQ"
+        },
+        {
+            "nome": "Usuario VADER a15b7fe7",
+            "email": "vader.a15b7fe7@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "2bMY8F4D4CIvxD0z"
+        },
+        {
+            "nome": "Usuario VADER 10f3fa84",
+            "email": "vader.10f3fa84@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "3kfBrDuuoprR2KhQ"
+        },
+        {
+            "nome": "Usuario VADER ee13ddef",
+            "email": "vader.ee13ddef@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "5HVdmGV1NYMsNv6j"
+        },
+        {
+            "nome": "Ms. Samantha Fadel",
+            "email": "ms.samanthafadel.Reynolds64@serverest.dev",
+            "password": "JKsk76iYBsav",
+            "administrador": "true",
+            "_id": "6RCtdpNdxkTn8rmS"
+        },
+        {
+            "nome": "Administrador de Produtos",
+            "email": "ui_admin_prod_5266@qa.com.br",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "6oTLaHdNtNmcoQ4M"
+        },
+        {
+            "nome": "Gerard Hirthe",
+            "email": "gerardhirthe@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "71UDUStDBXv9XZ5j"
+        },
+        {
+            "nome": "Usuario VADER 54d08919",
+            "email": "vader.54d08919@serverest.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "7UUZPvvpXoZbdvRw"
+        },
+        {
+            "nome": "Derek Abernathy",
+            "email": "derekabernathy@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "7dcxlIiWywTiVNJi"
+        },
+        {
+            "nome": "Usuario VADER 9930e096",
+            "email": "vader.9930e096@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "7nH6xHx0CefZTBmR"
+        },
+        {
+            "nome": "Usuario VADER f30b5e62",
+            "email": "vader.f30b5e62@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "81DJElDsnnAZPmtI"
+        },
+        {
+            "nome": "Usuario VADER d11fa081",
+            "email": "vader.d11fa081@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "8E33d6K3JEvCPbwf"
+        },
+        {
+            "nome": "Emmanuel.Cummings78",
+            "email": "Cristobal64@yahoo.com",
+            "password": "343726881",
+            "administrador": "true",
+            "_id": "98Fo0rl8MXPGakjB"
+        },
+        {
+            "nome": "Jean Kub",
+            "email": "jeankub@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "9oCacqlyy1fXhA0Z"
+        },
+        {
+            "nome": "Mary Ratke",
+            "email": "Enrique45@hotmail.com",
+            "password": "@Lindos123",
+            "administrador": "true",
+            "_id": "9r9aXgvyLxFOzSkq"
+        },
+        {
+            "nome": "Outro Usuário",
+            "email": "duplicate_1780325743277@example.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "A6Izpzy6eJNrBftq"
+        },
+        {
+            "nome": "Usuário UI Teste",
+            "email": "ui_user_3659@qa.com.br",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "ASWoI8TIdfoGySkd"
+        },
+        {
+            "nome": "Lucia Langworth-Williamson",
+            "email": "lucialangworth-williamson_Powlowski71@serverest.dev",
+            "password": "ninC0Bus_ks_",
+            "administrador": "true",
+            "_id": "B7hZjXObtioQOtrQ"
+        },
+        {
+            "nome": "Marlen.Walker",
+            "email": "Madisen24@gmail.com",
+            "password": "491984858",
+            "administrador": "true",
+            "_id": "BJti1SKFOdyuhSiA"
+        },
+        {
+            "nome": "Administrador de Produtos",
+            "email": "ui_admin_prod_5892@qa.com.br",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "BWJWc5cSwkKwwDPL"
+        },
+        {
+            "nome": "Cliente Compras",
+            "email": "ui_shopper_7377@qa.com.br",
+            "password": "password123",
+            "administrador": "false",
+            "_id": "ByNtTgYzqDCgKNpF"
+        },
+        {
+            "nome": "Usuario VADER fa1e7245",
+            "email": "vader.fa1e7245@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "DSSE2Lvbalt6vZ2t"
+        },
+        {
+            "nome": "Dr. Hector O'Kon",
+            "email": "dr.hectorokon.Barrows81@serverest.dev",
+            "password": "ltZ2U4xgwLOF",
+            "administrador": "false",
+            "_id": "EFwZhp5wHHQPueWf"
+        },
+        {
+            "nome": "Usuario VADER a2f55aaf",
+            "email": "vader.a2f55aaf@serverest.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "EKYOO1jmhUVPGUFU"
+        },
+        {
+            "nome": "Usuario VADER fbaf5b23",
+            "email": "vader.fbaf5b23@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "FEnqdw3QPJqrn98X"
+        },
+        {
+            "nome": "Usuario VADER d87bf05d",
+            "email": "vader.d87bf05d@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "FmbZ8b3woivsDxzM"
+        },
+        {
+            "nome": "Kira",
+            "email": "eloisa.hyatt@gmail.com",
+            "password": "0m3phohdlql2",
+            "administrador": "true",
+            "_id": "GXiJVdxWNcf5EyBq"
+        },
+        {
+            "nome": "Usuario VADER 926d5263",
+            "email": "vader.926d5263@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "Gz08QyFv23HviuuV"
+        },
+        {
+            "nome": "Hora do QA",
+            "email": "horadoqa1780326019861@qa.com.br",
+            "password": "horadoqa",
+            "administrador": "true",
+            "_id": "H8J3mQQBOD8ns5lg"
+        },
+        {
+            "nome": "Usuario VADER 8f78f851",
+            "email": "vader.8f78f851@serverest.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "HQQUrHOPBBuTdEen"
+        },
+        {
+            "nome": "Linwood_Russel17",
+            "email": "Kaden.Bashirian79@gmail.com",
+            "password": "492262054",
+            "administrador": "true",
+            "_id": "IHAQistpbbme68ho"
+        },
+        {
+            "nome": "Jesse_OHara66",
+            "email": "Roy_Hermann19@hotmail.com",
+            "password": "397057444",
+            "administrador": "true",
+            "_id": "InAv0OTYV6q495AR"
+        },
+        {
+            "nome": "Admin Compras",
+            "email": "admin_shopper_1301@qa.com.br",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "Is1WA6rEPO90fpKW"
+        },
+        {
+            "nome": "Many LumeStack",
+            "email": "many123@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "J0NxFVEjmK72UACN"
+        },
+        {
+            "nome": "Admin 1780325742182",
+            "email": "admin_1780325742182@example.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "JsJ2Q2NzVubIvks8"
+        },
+        {
+            "nome": "Damion48",
+            "email": "Donato98@gmail.com",
+            "password": "933413734",
+            "administrador": "true",
+            "_id": "KDy0gCTiR6oeOeWJ"
+        },
+        {
+            "nome": "Irwin.Jacobi16",
+            "email": "Silas.Aufderhar79@hotmail.com",
+            "password": "900921961",
+            "administrador": "true",
+            "_id": "LcOS3wGvceXspp9u"
+        },
+        {
+            "nome": "Comprador Teste",
+            "email": "carrinho_user_2569@qa.com.br",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "MCOdRGPjYpAhcidY"
+        },
+        {
+            "nome": "Usuario VADER a901a6ca",
+            "email": "vader.a901a6ca@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "MccwFyBdnsadQXdz"
+        },
+        {
+            "nome": "Usuário Auth",
+            "email": "auth_user_5008@qa.com.br",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "Mx8bSwEqXLDL85YR"
+        },
+        {
+            "nome": "Usuario VADER 2eb9d5a8",
+            "email": "vader.2eb9d5a8@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "NG6CNdBa8Lf3d0Yu"
+        },
+        {
+            "nome": "Kerry Hills",
+            "email": "kerryhills@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "NhrVvvl5Mkxwq9Dq"
+        },
+        {
+            "nome": "Usuario VADER 60b429ee",
+            "email": "vader.60b429ee@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "O5Oth8QYzyCt4jIX"
+        },
+        {
+            "nome": "Usuario VADER b491933c",
+            "email": "vader.b491933c@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "OC3kzlnrD4RT9QlV"
+        },
+        {
+            "nome": "Usuario VADER 5b8870f3",
+            "email": "vader.5b8870f3@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "OV6nO8lr1QffU6ze"
+        },
+        {
+            "nome": "Usuario VADER 3c90ade0",
+            "email": "vader.3c90ade0@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "P0jCKurxpiKvKRQT"
+        },
+        {
+            "nome": "Shawn Gaylord",
+            "email": "shawngaylord@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "PTywOc5M8JJB0T8l"
+        },
+        {
+            "nome": "Usuario VADER 107233f2",
+            "email": "vader.107233f2@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "QSkeYjGzRGDBWJbD"
+        },
+        {
+            "nome": "Vitor Felipe Carrasco",
+            "email": "vitoradmin@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "QU8iMUpoG6teqWaI"
+        },
+        {
+            "nome": "Usuario VADER ecec0731",
+            "email": "vader.ecec0731@serverest.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "QeT9SwnuQg2qZpYf"
+        },
+        {
+            "nome": "Usuario VADER 8d5f7fdb",
+            "email": "vader.8d5f7fdb@serverest.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "RL8bxwLJq5TkQtNK"
+        },
+        {
+            "nome": "Ellen Block DVM",
+            "email": "ellenblockdvm@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "T7EsMq6jfCnrjYSM"
+        },
+        {
+            "nome": "Usuario VADER 96b06066",
+            "email": "vader.96b06066@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "TY3jHPxCuZguaMlX"
+        },
+        {
+            "nome": "Usuario VADER ce887479",
+            "email": "vader.ce887479@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "Tnkldvg9KO3r9PiB"
+        },
+        {
+            "nome": "Usuario VADER f9d78a65",
+            "email": "vader.f9d78a65@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "Vn0BzyErQqns4Iy9"
+        },
+        {
+            "nome": "Hora do QA",
+            "email": "horadoqa1780326017761@qa.com.br",
+            "password": "horadoqa",
+            "administrador": "true",
+            "_id": "WM44rQsUJp2Sb6qf"
+        },
+        {
+            "nome": "Usuario VADER 4cf72cea",
+            "email": "vader.4cf72cea@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "XcNLbQbqY1irIj7j"
+        },
+        {
+            "nome": "Usuário UI Login",
+            "email": "ui_login_738@qa.com.br",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "Z3k9k3kEUClSJT9Q"
+        },
+        {
+            "nome": "Usuario VADER 376a7333",
+            "email": "vader.376a7333@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "ZnBBKuqphpvFfrm3"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "ZyIousVYDPYbq1Sc"
+        },
+        {
+            "nome": "Nicole Kub",
+            "email": "nicolekub.Reichel-Haag61@serverest.dev",
+            "password": "BTErcXFop4MM",
+            "administrador": "false",
+            "_id": "cZ6KcTMfn35tHvKt"
+        },
+        {
+            "nome": "Daron Mann",
+            "email": "Jalyn_Lesch49@gmail.com",
+            "password": "@Lindos123",
+            "administrador": "true",
+            "_id": "cguSDNa5ovd6q4wz"
+        },
+        {
+            "nome": "Usuario VADER 0f40cc28",
+            "email": "vader.0f40cc28@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "dOzIi4GmndcvWHw6"
+        },
+        {
+            "nome": "Vitor Felipe Carrasco",
+            "email": "vitorcomum@gmail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "ddS82Motu7AlQRzk"
+        },
+        {
+            "nome": "Usuario VADER fc808bd6",
+            "email": "vader.fc808bd6@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "efThCHv8kbmnWSNI"
+        },
+        {
+            "nome": "Usuario VADER e0237312",
+            "email": "vader.e0237312@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "fKIQJZrGMYpphlLs"
+        },
+        {
+            "nome": "Nichole_Morissette13",
+            "email": "Laney.Streich@yahoo.com",
+            "password": "584903406",
+            "administrador": "true",
+            "_id": "h4gSqVMpDBQ9ztxL"
+        },
+        {
+            "nome": "Usuario VADER 7df3f35e",
+            "email": "vader.7df3f35e@serverest.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "h7kaDKdsu1RHIcWC"
+        },
+        {
+            "nome": "CRUD Test 1780325743821",
+            "email": "crud_1780325743820@example.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "hG95noVrRUeWIiL1"
+        },
+        {
+            "nome": "Beulah O'Connell",
+            "email": "mrs.charlottelang@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "iVnG80Xxh9zTZYVD"
+        },
+        {
+            "nome": "Usuario VADER d5a7b8b6",
+            "email": "vader.d5a7b8b6@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "jy0W5iS9riPRsZCb"
+        },
+        {
+            "nome": "Usuario VADER 53ad746b",
+            "email": "vader.53ad746b@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "ke2cLrckUUFeQ8TG"
+        },
+        {
+            "nome": "Usuario VADER 13a8b9f5",
+            "email": "vader.13a8b9f5@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "l2UhOPf511cPuN6K"
+        },
+        {
+            "nome": "Usuario VADER 3443b2ea",
+            "email": "vader.3443b2ea@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "lZSQDlRnII7cmyS2"
+        },
+        {
+            "nome": "Usuario VADER 53ad2b6b",
+            "email": "vader.53ad2b6b@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "lyEMCvf013bGKl4M"
+        },
+        {
+            "nome": "Usuario VADER 234f4a9e",
+            "email": "vader.234f4a9e@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "mOWDKRCnpLjwfPLI"
+        },
+        {
+            "nome": "Usuario VADER 6302cc03",
+            "email": "vader.6302cc03@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "nkMxpYuPoXwdM2Ed"
+        },
+        {
+            "nome": "Chad79",
+            "email": "Elza_Wyman4@yahoo.com",
+            "password": "909230816",
+            "administrador": "true",
+            "_id": "no7lOcKfQmiMkP1F"
+        },
+        {
+            "nome": "Usuario VADER 2a9fbae2",
+            "email": "vader.2a9fbae2@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "oMX9ZBCE3XlrTM3f"
+        },
+        {
+            "nome": "Cliente Compras",
+            "email": "ui_shopper_3517@qa.com.br",
+            "password": "password123",
+            "administrador": "false",
+            "_id": "oMe62U8rX9h4OXFm"
+        },
+        {
+            "nome": "Usuário UI Login",
+            "email": "ui_login_4640@qa.com.br",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "qHKr1ck9BxCTbqnN"
+        },
+        {
+            "nome": "Usuario VADER dd8ee5f9",
+            "email": "vader.dd8ee5f9@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "r9oB5pfLJKRzL8Ac"
+        },
+        {
+            "nome": "Admin Produtos",
+            "email": "prod_user_9902@qa.com.br",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "rPxH93vZDXxCtnOL"
+        },
+        {
+            "nome": "Usuario VADER af1bcd65",
+            "email": "vader.af1bcd65@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "txGC1Fu3q9X0Su9B"
+        },
+        {
+            "nome": "Admin Compras",
+            "email": "admin_shopper_8019@qa.com.br",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "uZaQ5eL1BKgGILSA"
+        },
+        {
+            "nome": "Hora do QA",
+            "email": "horadoqa@qa.com.br",
+            "password": "horadoqa",
+            "administrador": "true",
+            "_id": "vCpGrXKUJ1oMBBoE"
+        },
+        {
+            "nome": "Novo Usuário",
+            "email": "new_user_1780325743408@example.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "vNa31CA8epM68kHh"
+        },
+        {
+            "nome": "Usuário Teste",
+            "email": "test_1780325741442@example.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "zPdgQ2EhlJaqp1rD"
+        },
+        {
+            "nome": "Usuario VADER e56ae173",
+            "email": "vader.e56ae173@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "zfBZcs6vzMX2qaiU"
+        },
+        {
+            "nome": "Usuario VADER 2f7ce52d",
+            "email": "vader.2f7ce52d@serverest.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "zguiNdT8Aley4UlI"
+        }
+    ]
+}
